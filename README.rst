@@ -57,6 +57,11 @@ Following are a few resources to get you started with R:
 
 Github
 ++++++
+As you might have already realized by now, our team loves to connect and meet new people (who are cool just like us 😎), and therefore, we are also members of the largest open source community in the world - `Github <https://github.com/open-source>`_.
+
+The fact that one of our very active projects `NeuroKit2 <https://github.com/neuropsychology/NeuroKit>`_ is built and maintained on Github, we would love you to get familiar with the platform too. 
+
+Create your Github account (if you don't already have it) and let's get started with the following resources:
 
 - `Github Guides <https://guides.github.com/>`_
 - `How to use Github to contribue <https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute>`_

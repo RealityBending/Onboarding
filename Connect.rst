@@ -1,6 +1,6 @@
 Get Connected
 --------------
-Let's get you started on the *MUST* following accounts:
+Let's get you started with the *MUST* following accounts:
 
 - `Dominique Makowski <https://twitter.com/Dom_Makowski>`_
 - `Zen Juen <https://twitter.com/ZenJuen>`_

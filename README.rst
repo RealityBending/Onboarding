@@ -2,7 +2,7 @@ Onboarding
 -----------
 Congratulations! You are now officially a member of an awesome team 😎 😎 😎
 
-Before starting the serious works, let's walk you through an introduction, some interesting reads and a few tutorials to get you prepared 😉
+Before starting the serious works, let's walk you through an introduction, some interesting reads and a few tutorials to get prepare you for the ride 😉
 
 
 Who are we and what do we do?

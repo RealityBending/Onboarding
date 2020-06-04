@@ -2,9 +2,9 @@ Get Connected
 --------------
 Let's get you started on the *MUST* following accounts:
 
-- ` Dominique Makowski <https://twitter.com/Dom_Makowski>`_
-- ` Zen Juen <https://twitter.com/ZenJuen>`_
-- ` Tam Pham <https://twitter.com/tampham94>`_
+- `Dominique Makowski <https://twitter.com/Dom_Makowski>`_
+- `Zen Juen <https://twitter.com/ZenJuen>`_
+- `Tam Pham <https://twitter.com/tampham94>`_
 
 And of course the list doesn't stop there 😉
 

@@ -25,13 +25,9 @@ Resources
 Get connected
 >>>>>>>>>>>>>>
 
-We believe the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. 
-
-And `Twitter <https://twitter.com/home>`_ might be the very platform to do it 😉
-
-We have compiled a `list of interesting accounts <https://github.com/neuropsychology/Onboarding/blob/master/Connect.rst>`_ for you to start following. 
-
-Make a **pull request** to add on to the list your favorite accounts! Wondering what is a **pull request**? Continue to read one!
+We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And `Twitter <https://twitter.com/home>`_ might be the very platform to do it 😉
+We have compiled a `list of interesting accounts <https://github.com/neuropsychology/Onboarding/blob/master/Connect.rst>`_ for you to start following. Make a **pull request** to add on to the list your favorite accounts! 
+Wondering what is a **pull request**? Continue to read one!
 
 
 Get familiar with the tools

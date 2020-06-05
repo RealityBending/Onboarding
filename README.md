@@ -54,7 +54,7 @@ Do whatever is required on the admin side, complete the ethical certification, t
 
 - [x] **Twitter**
 
-We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉
+We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here.
 We have compiled a [list of interesting accounts](https://github.com/neuropsychology/Onboarding/blob/master/Connect.rst) for you to start following. Make a **pull request** to add on to the list your favourite accounts! 
 
 Wondering what is a **pull request**? Continue to read one!
@@ -67,6 +67,7 @@ Wondering what is a **pull request**? Continue to read one!
 
 
 - [x] **ResearchGate**
+[ResearchGate](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also post and answer questions, as well as recommend certain works!
 
 
 ### Good reads

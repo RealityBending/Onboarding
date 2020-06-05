@@ -63,7 +63,7 @@ Wondering what is a **pull request**? Continue to read one!
 - [x] **GitHub**
 
 - Watch (and star :star:) these repos:
-- Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues), select the **Introduce myself** template, and answer the questions 😁
+- Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues), select the [**Introduce myself**](https://github.com/neuropsychology/Onboarding/issues/new?assignees=&labels=&template=introduce-myself.md&title=%5BWelcome%21%5D) template, and answer the questions 😁
 
 
 - [x] **ResearchGate**

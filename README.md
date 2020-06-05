@@ -62,23 +62,25 @@ Wondering what is a **pull request**? Continue to read one!
 
 - [x] **GitHub**
 
-- Watch (and star :star:) these repos:
-- Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues), select the [**Introduce myself**](https://github.com/neuropsychology/Onboarding/issues/new?assignees=&labels=&template=introduce-myself.md&title=%5BWelcome%21%5D) template, and answer the questions 😁
+As GitHub claims itself, it *brings together the world's largest community of developers to discover, share, and build better software*. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. It is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates. First off, let's watch (and star :star:) these repos including [this current repo](https://github.com/neuropsychology/Onboarding/issues):
 
+ - [NeuroKit2](https://github.com/neuropsychology/NeuroKit)
+ - [Cognitive Control](https://github.com/neuropsychology/CognitiveControl)
+ - [Complex Span](https://github.com/neuropsychology/ComplexSpan)
 
 - [x] **ResearchGate**
 
 [ResearchGate](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also post and answer questions, as well as recommend certain works!
 
 
-### Good reads
+### Books
 - Thinking Fast and Slow (Daniel Kahneman)
 - The Art of Thinking Clearly (Rolf Dobelli)
+- How Emotions are Made: The Secret Life of the Brain (Lisa Feldman Barrett)
 
+### Good quick reads
 
 #### Papers
-
-#### Books
 
 #### Videos
 
@@ -86,7 +88,6 @@ Wondering what is a **pull request**? Continue to read one!
 - Mindhunter
 - Fractured
 - Joker
-
 
 
 
@@ -106,7 +107,11 @@ Create your Github account (if you don't already have it) and let's get started 
 - [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)
 
-
+Try it yourself:
+- Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues), select the [**Introduce myself**](https://github.com/neuropsychology/Onboarding/issues/new?assignees=&labels=&template=introduce-myself.md&title=%5BWelcome%21%5D) template, and answer the questions 😁
+- Create a pull request to add something to the Onboarding repository; you can for example:
+ - Fix a typo in this document
+ - Add some recommended good movies/reads!
 
 ## Day 3: Get familiar with the tools
 

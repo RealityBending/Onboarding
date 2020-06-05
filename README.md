@@ -193,6 +193,7 @@ Thus, we want you to start by reading these tutorials:
 - [Github Guides](https://guides.github.com/)
 - [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)
+- [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 Now that you have a better idea, time to create a PR to add something to the Onboarding repository (this one). You can for example:
 

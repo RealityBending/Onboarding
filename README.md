@@ -141,7 +141,7 @@ As GitHub claims itself, it *brings together the world's largest community of de
 
 - [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/github_psychologists/)
 
-We are using GitHub a lot for a lot of stuff, and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (PS), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows: 
+We are using GitHub a lot for a lot of stuff, and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*PS: do use a simple login like FirstnameSurname*), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows: 
 
   1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   2. Select the **Introduce myself** template

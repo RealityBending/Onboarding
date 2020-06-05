@@ -1,6 +1,6 @@
 # The Survival Guide to working with us
 
-![GitHub last commit](https://img.shields.io/github/last-commit/neuropsychology/Onboarding)
+![GitHub last commit](https://img.shields.io/github/last-commit/neuropsychology/Onboarding?label=last%20update)
 
 **Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful.
 

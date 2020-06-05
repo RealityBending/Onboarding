@@ -111,8 +111,8 @@ Create your Github account (if you don't already have it) and let's get started 
 Try it yourself:
 - Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues), select the [**Introduce myself**](https://github.com/neuropsychology/Onboarding/issues/new?assignees=&labels=&template=introduce-myself.md&title=%5BWelcome%21%5D) template, and answer the questions 😁
 - Create a pull request to add something to the Onboarding repository; you can for example:
- - Fix a typo in this document
- - Add some recommended good movies/reads!
+  - Fix a typo in this document
+  - Add some recommended good movies/reads!
 
 ## Day 3: Get familiar with the tools
 
@@ -138,4 +138,7 @@ Following are a few resources to get you started with R:
 
 - [Introduction to R](http://www.r-tutor.com/r-introduction)
 
+# Some Final Words
+
+We encourage you to really explore and be integrated within the online scientific community along with us, as this will help you expand your knowledge and skillset as well as become better informed! It may be a steep learning curve initially, but we're here to help you along the way (we've been there ourselves!) and never hesitate to ask questions 😉
 

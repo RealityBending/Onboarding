@@ -67,6 +67,7 @@ Wondering what is a **pull request**? Continue to read one!
 
 
 - [x] **ResearchGate**
+
 [ResearchGate](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also post and answer questions, as well as recommend certain works!
 
 

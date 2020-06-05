@@ -54,25 +54,80 @@ Here are the projects that our team is currently working on:
 
 ## 📆 Day 1: Enter the world
 
-### Explore your environment
+### 1. Explore your environment
 
-Pay a visit to your colleagues, introduce yourself, explore the building, localize the offices.
+Pay a visit to your colleagues, introduce yourself, explore the building, localize the offices, find the toilets and the coffee machine.
 
-### Get the Admin done
+### 2. Get the Admin done
 
 Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc. 
 
-### Get connected
+### 3. Get connected
 
-- [x] **Twitter**
+- [x] 🐦 **Twitter** 
 
 We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here.
-We have compiled a [list of interesting accounts](https://github.com/neuropsychology/Onboarding/blob/master/Connect.rst) for you to start following. Make a **pull request** to add on to the list your favourite accounts! 
 
-Wondering what is a **pull request**? Continue to read one!
+We have compiled a [list of interesting accounts](https://github.com/neuropsychology/Onboarding/blob/master/Connect.rst) for you to start following. Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts!
 
+Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (even if you don't see any reason for it *at first*):
 
-- [x] **GitHub**
+[@Dom_Makowski](<https://twitter.com/Dom_Makowski)
+, [@ZenJuen](https://twitter.com/ZenJuen)
+, [@tampham94](https://twitter.com/tampham94)
+, [@BrianNosek](https://twitter.com/BrianNosek)
+, [@SachaEpskamp](https://twitter.com/SachaEpskamp)
+, [@micahgallen](https://twitter.com/micahgallen)
+, [@EikoFried](https://twitter.com/EikoFried)
+, [@AcademicChatter](https://twitter.com/AcademicChatter)
+, [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic)
+, [@neuropsychblog](https://twitter.com/neuropsychblog)
+, [@thoughtsofaphd](https://twitter.com/thoughtsofaphd)
+, [@ChelseaParlett](https://twitter.com/ChelseaParlett)
+, [@ProfAndyField](https://twitter.com/ProfAndyField)
+, [@KordingLab](https://twitter.com/KordingLab)
+, [@djnavarro](https://twitter.com/djnavarro)
+, [@dsquintana](https://twitter.com/dsquintana)
+, [@easystats4u](https://twitter.com/easystats4u)
+, [@PsyBrief](https://twitter.com/PsyBrief)
+, [@visceral_mind](https://twitter.com/visceral_mind)
+, [@Nate__Haines](https://twitter.com/Nate__Haines)
+, [@psychopy](https://twitter.com/psychopy)
+, [@GuyProchilo](https://twitter.com/GuyProchilo)
+, [@conscious_tlab](https://twitter.com/conscious_tlab)
+, [@jayvanbavel](https://twitter.com/jayvanbavel)
+, [@improbresearch](https://twitter.com/improbresearch)
+, [@chrisdc77](https://twitter.com/chrisdc77)
+, [@rlmcelreath](https://twitter.com/rlmcelreath)
+, [@michagaebler](https://twitter.com/michagaebler)
+, [@tjmahr](https://twitter.com/tjmahr)
+, [@hakwanlau](https://twitter.com/hakwanlau)
+, [@LFeldmanBarrett](https://twitter.com/LFeldmanBarrett)
+, [@patilindrajeets](https://twitter.com/patilindrajeets)
+, [@MicrobiomDigest](https://twitter.com/MicrobiomDigest)
+, [@BrianNosek](https://twitter.com/BrianNosek)
+, [@mattansb](https://twitter.com/mattansb)
+, [@APA](https://twitter.com/APA)
+, [@jonaslindeloev](https://twitter.com/jonaslindeloev)
+, [@thomasp85](https://twitter.com/thomasp85)
+, [@allison_horst](https://twitter.com/allison_horst)
+, [@strengejacke](https://twitter.com/strengejacke)
+, [@lakens](https://twitter.com/lakens)
+, [@GaelVaroquaux](https://twitter.com/GaelVaroquaux)
+, [@manos_tsakiris](https://twitter.com/manos_tsakiris)
+, [@ceptional](https://twitter.com/ceptional)
+, [@JeffRouder](https://twitter.com/JeffRouder)
+, [@EJWagenmakers](https://twitter.com/EJWagenmakers)
+, [@FarlKriston](https://twitter.com/FarlKriston)
+, [@TheStoicEmperor](https://twitter.com/TheStoicEmperor)
+, [@NeuroConsc](https://twitter.com/NeuroConsc)
+, [@anilkseth](https://twitter.com/anilkseth)
+, [@DrSFink](https://twitter.com/DrSFink)
+, [@hadleywickham](https://twitter.com/hadleywickham)
+, [@PHDcomics](https://twitter.com/PHDcomics)
+, [@NeuroscienceNew](https://twitter.com/NeuroscienceNew)
+
+- [x] :octocat: **GitHub**
 
 As GitHub claims itself, it *brings together the world's largest community of developers to discover, share, and build better software*. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. It is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates. First off, let's watch (and star :star:) these repos including [this current repo](https://github.com/neuropsychology/Onboarding/issues):
 
@@ -80,7 +135,7 @@ As GitHub claims itself, it *brings together the world's largest community of de
  - [Cognitive Control](https://github.com/neuropsychology/CognitiveControl)
  - [Complex Span](https://github.com/neuropsychology/ComplexSpan)
 
-- [x] **ResearchGate**
+- [x] 👨‍🔬 **ResearchGate**
 
 [ResearchGate](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also post and answer questions, as well as recommend certain works!
 

@@ -8,27 +8,39 @@ The goal of this guide is first and foremost to help you acquire the same frame 
 
 This guide has been crafted by all past and current members of the team. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we expect you to leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *what* and *how* in due time.
 
-Before starting the serious works, let's walk you through an introduction, some interesting reads and a few tutorials to get prepare you for the ride 😉
-
 
 ## Questions
 
 > I feel a bit lost
 
+Send us a message, we're likely unaware of that! 
+
 > I'm not sure what I should do and what my tasks are
 
+Send us a message, we're likely unaware of that! 
 
+> There's too much work for me
+
+Send us a message, we're likely unaware of that! 
+
+> There's not enough work for me
+
+Send us a message, we're likely unaware of that! 
 
 ## Our vision
 
-We care about technical skills and soft skills. Friendly working environment (forget the formalities, ain't nobody got time for that). The **three-fold neuropsychology skill set**: clinical abilities, technical skills, theoretical knowledge.
+Our team in centred around core values such as **teamwork**, constant **learning**, **friendly** environment and **aiming for the top**.
+
+We rely on a lot of internal communication (about stuff more or less related to work), our ability to always learn and improve, a cool working environment (forget the formalities, ain't nobody got time for that) and striving for the highest standards in terms of sciencific quality and honesty. We're committed to **open-science**, i.e., working open by sharing our code, documentation, data (where possible) and expertise.
+
+On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. I think that a neuropsychologist should aim at developping 3 types of expertise: clinical abilities, technical skills and theoretical knowledge.
 
 
 ## Roadmap <sub>(05-06-2020)</sub>
 
 *Note: this roadmap is typically something that has to be updated by the team, it's our collective responsibility. So if you notice that it's outdated, do make a Pull Request (see below if you don't know what it is) to update it!*
 
-Following are the projects that our team is currently working on:
+Here are the projects that our team is currently working on:
 
 - [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://psyarxiv.com/t7s32/)
 
@@ -40,7 +52,7 @@ Following are the projects that our team is currently working on:
 
 
 
-## Day 1: Enter the world
+## 📆 Day 1: Enter the world
 
 ### Explore your environment
 
@@ -92,7 +104,7 @@ As GitHub claims itself, it *brings together the world's largest community of de
 
 
 
-## Day 2: Get familiar with the workflow
+## 📆 Day 2: Get familiar with the workflow
 
 
 
@@ -114,7 +126,7 @@ Try it yourself:
   - Fix a typo in this document
   - Add some recommended good movies/reads!
 
-## Day 3: Get familiar with the tools
+## 📆 Day 3: Get familiar with the tools
 
 
 ### Python

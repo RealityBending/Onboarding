@@ -56,7 +56,7 @@ Here are the projects that our team is currently working on:
 
 ### 1. Explore your environment
 
-Pay a visit to your colleagues, introduce yourself, explore the building, localize the offices, find the toilets and the coffee machine.
+Pay a visit to your colleagues, introduce yourself, explore the building, locate the offices, find the toilets and the coffee machine.
 
 ### 2. Get the Admin done
 

@@ -70,7 +70,8 @@ Wondering what is a **pull request**? Continue to read one!
 
 
 ### Good reads
-
+- Thinking Fast and Slow (Daniel Kahneman)
+- The Art of Thinking Clearly (Rolf Dobelli)
 
 
 #### Papers
@@ -80,7 +81,9 @@ Wondering what is a **pull request**? Continue to read one!
 #### Videos
 
 #### Movies / TV Shows
-
+- Mindhunter
+- Fractured
+- Joker
 
 
 

@@ -66,13 +66,13 @@ Do whatever is required on the admin side, complete the ethical certification, t
 
 - [x] 🐦 **Twitter** 
 
-We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here.
+We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
 
-We have compiled a [list of interesting accounts](https://github.com/neuropsychology/Onboarding/blob/master/Connect.rst) for you to start following. Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts!
+We have compiled a list of interesting accounts for you to start following, covering all sort of different topics (but always relevant). Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts!
 
 Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (even if you don't see any reason for it *at first*):
 
-[@Dom_Makowski](<https://twitter.com/Dom_Makowski)
+[@Dom_Makowski](https://twitter.com/Dom_Makowski)
 , [@ZenJuen](https://twitter.com/ZenJuen)
 , [@tampham94](https://twitter.com/tampham94)
 , [@BrianNosek](https://twitter.com/BrianNosek)
@@ -127,6 +127,8 @@ Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (e
 , [@PHDcomics](https://twitter.com/PHDcomics)
 , [@NeuroscienceNew](https://twitter.com/NeuroscienceNew)
 
+At first, you'll like have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite and download the app), but soon it will be filled with interesting content.
+
 - [x] :octocat: **GitHub**
 
 As GitHub claims itself, it *brings together the world's largest community of developers to discover, share, and build better software*. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. It is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates. First off, let's watch (and star :star:) these repos including [this current repo](https://github.com/neuropsychology/Onboarding/issues):
@@ -141,22 +143,32 @@ As GitHub claims itself, it *brings together the world's largest community of de
 
 
 ### Books
+
 - Thinking Fast and Slow (Daniel Kahneman)
 - The Art of Thinking Clearly (Rolf Dobelli)
 - How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)
 - The Man Who Mistook His Wife for a Hat (Oliver Sacks)
 - The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)
+- ...
 
 #### Papers
+
 - [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://psyarxiv.com/t7s32/)
+- ...
 
 #### Videos
 
+- [You aren't at the mercy of your emotions -- your brain creates them | Lisa Feldman Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ)
+- [Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
+- ...
+
+
 #### Movies / TV Shows
+
 - Mindhunter
 - Fractured
 - Joker
-
+- ...
 
 
 ## 📆 Day 2: Get familiar with the workflow
@@ -167,7 +179,7 @@ As GitHub claims itself, it *brings together the world's largest community of de
 
 As you might have already realized by now, our team loves to connect and meet new people (who are cool just like us 😎), and therefore, we are also members of the largest open source community in the world - [Github](https://github.com/open-source).
 
-The fact that one of our very active projects [NeuroKit2](https://github.com/neuropsychology/NeuroKit) is built and maintained on Github, we would love you to get familiar with the platform too. 
+The fact that one of our very active projects [NeuroKit2](https://github.com/neuropsychology/NeuroKit) is built and maintained on Github, we would love you to get familiar with the platform too.
 
 Create your Github account (if you don't already have it) and let's get started with the following resources:
 
@@ -191,6 +203,7 @@ We also build our experiemntal tasks using [Neuropsydia.py](https://github.com/n
 
 Therefore, it's important that you get familiar with the tool. Following are a few resources that we suggest to get you started: 
 
+- [R or Python for Psychologists](https://dominiquemakowski.github.io/post/r_or_python/)
 - [Get familiar with Python in 10 minutes](https://neurokit2.readthedocs.io/en/latest/start/learn_python.html)
 
 ### R

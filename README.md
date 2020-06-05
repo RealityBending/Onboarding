@@ -56,7 +56,7 @@ Here are the projects that our team is currently working on:
 
 ### 1. Explore your environment
 
-Pay a visit to your colleagues, introduce yourself, explore the building, localize the offices, find the toilets and the coffee machine.
+Pay a visit to your colleagues, introduce yourself, explore the building, locate the offices, find the toilets and the coffee machine.
 
 ### 2. Get the Admin done
 
@@ -64,15 +64,15 @@ Do whatever is required on the admin side, complete the ethical certification, t
 
 ### 3. Get connected
 
-- [x] 🐦 **Twitter** 
+#### 🐦 **Twitter** 
 
-We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here.
+We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
 
-We have compiled a [list of interesting accounts](https://github.com/neuropsychology/Onboarding/blob/master/Connect.rst) for you to start following. Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts!
+We have compiled a list of interesting accounts for you to start following, covering all sort of different topics (but always relevant). Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts!
 
 Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (even if you don't see any reason for it *at first*):
 
-[@Dom_Makowski](<https://twitter.com/Dom_Makowski)
+[@Dom_Makowski](https://twitter.com/Dom_Makowski)
 , [@ZenJuen](https://twitter.com/ZenJuen)
 , [@tampham94](https://twitter.com/tampham94)
 , [@BrianNosek](https://twitter.com/BrianNosek)
@@ -126,60 +126,83 @@ Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (e
 , [@hadleywickham](https://twitter.com/hadleywickham)
 , [@PHDcomics](https://twitter.com/PHDcomics)
 , [@NeuroscienceNew](https://twitter.com/NeuroscienceNew)
+, ...
 
-- [x] :octocat: **GitHub**
+At first, you'll like have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite and download the app), but soon it will be filled with interesting content.
 
-As GitHub claims itself, it *brings together the world's largest community of developers to discover, share, and build better software*. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. It is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates. First off, let's watch (and star :star:) these repos including [this current repo](https://github.com/neuropsychology/Onboarding/issues):
+#### 👨‍🔬 **ResearchGate**
 
- - [NeuroKit2](https://github.com/neuropsychology/NeuroKit)
- - [Cognitive Control](https://github.com/neuropsychology/CognitiveControl)
- - [Complex Span](https://github.com/neuropsychology/ComplexSpan)
-
-- [x] 👨‍🔬 **ResearchGate**
-
-[ResearchGate](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also post and answer questions, as well as recommend certain works!
+[ResearchGate](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also post and answer questions, as well as recommend certain works! So create an account and start following us and the researchers you like.
 
 
-### Books
+#### :octocat: **GitHub**
+
+As GitHub claims itself, it *brings together the world's largest community of developers to discover, share, and build better software*. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. It is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates.
+
+- [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/github_psychologists/)
+
+We are using GitHub a lot for a lot of stuff, and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*PS: do use a simple login like FirstnameSurname*), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows: 
+
+  1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
+  2. Select the **Introduce myself** template
+  3. Answer the questions
+  4. post it 😁
+
+
+### 4. Media recommendation
+
+
+#### Books
+
 - Thinking Fast and Slow (Daniel Kahneman)
 - The Art of Thinking Clearly (Rolf Dobelli)
 - How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)
 - The Man Who Mistook His Wife for a Hat (Oliver Sacks)
 - The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)
+- ...
 
 #### Papers
+
 - [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://psyarxiv.com/t7s32/)
+- ...
 
 #### Videos
 
+- [You aren't at the mercy of your emotions -- your brain creates them | Lisa Feldman Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ)
+- [Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
+- ...
+
+
 #### Movies / TV Shows
+
 - Mindhunter
 - Fractured
 - Joker
-
+- ...
 
 
 ## 📆 Day 2: Get familiar with the workflow
 
 
+### Create your first Github Pull Request (PR)
 
-### Github
+As said earlier, we use GitHub a lot, so it's a pre-requisite that you acquire this skill. However, it's quite tricky to get familiar and comfortable with it (even we struggle sometimes). But you cannot learn if you don't try, break things and succeed.
 
-As you might have already realized by now, our team loves to connect and meet new people (who are cool just like us 😎), and therefore, we are also members of the largest open source community in the world - [Github](https://github.com/open-source).
-
-The fact that one of our very active projects [NeuroKit2](https://github.com/neuropsychology/NeuroKit) is built and maintained on Github, we would love you to get familiar with the platform too. 
-
-Create your Github account (if you don't already have it) and let's get started with the following resources:
+Thus, we want you to start by reading these tutorials:
 
 - [Github Guides](https://guides.github.com/)
 - [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)
+- [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 
-Try it yourself:
-- Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues), select the [**Introduce myself**](https://github.com/neuropsychology/Onboarding/issues/new?assignees=&labels=&template=introduce-myself.md&title=%5BWelcome%21%5D) template, and answer the questions 😁
-- Create a pull request to add something to the Onboarding repository; you can for example:
+Now that you have a better idea, time to create a PR to add something to the Onboarding repository (this one). You can for example:
+
   - Fix a typo in this document
-  - Add some recommended good movies/reads!
+  - Add some recommended good movies/reads
+  - Clarify some sections
+  - ...
+
+
 
 ## 📆 Day 3: Get familiar with the tools
 
@@ -199,7 +222,7 @@ The bulk of our statistical analyses and manuscript preparation is done on R.
 
 At this point, you might ask why can't we just stick to one programming language? What is the point of learning both R and Python? 
 The simple answer is that the two programming languages are basically different and one can be more powerful in one task than the other.
-This [blog post](https://dominiquemakowski.github.io/post/r_or_python/) will however give you a much more interesting answer to the above question.\
+This [**blog post** *(R or Python for Psychologists)*](https://dominiquemakowski.github.io/post/r_or_python/) will however give you a much more interesting answer to the above question.\
 
 Following are a few resources to get you started with R:
 

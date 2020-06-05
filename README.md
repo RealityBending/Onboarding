@@ -74,11 +74,14 @@ Wondering what is a **pull request**? Continue to read one!
 ### Good reads
 - Thinking Fast and Slow (Daniel Kahneman)
 - The Art of Thinking Clearly (Rolf Dobelli)
-
+- How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)
+- The Man Who Mistook His Wife for a Hat (Oliver Sacks)
 
 #### Papers
+- [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://psyarxiv.com/t7s32/)
 
 #### Books
+- The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)
 
 #### Videos
 
@@ -96,7 +99,7 @@ Wondering what is a **pull request**? Continue to read one!
 
 ### Github
 
-As you might have already realized by now, our team loves to connect and meet new people (who are cool just like us 😎), and therefore, we are also members of the largest open source community in the world - `Github <https://github.com/open-source>`_.
+As you might have already realized by now, our team loves to connect and meet new people (who are cool just like us 😎), and therefore, we are also members of the largest open source community in the world - [Github](https://github.com/open-source).
 
 The fact that one of our very active projects [NeuroKit2](https://github.com/neuropsychology/NeuroKit) is built and maintained on Github, we would love you to get familiar with the platform too. 
 

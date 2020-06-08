@@ -60,7 +60,10 @@ Pay a visit to your colleagues, introduce yourself, explore the building, locate
 
 ### 2. Get the Admin done
 
-Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc. 
+Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc. Specifically at NTU, this often involves completing short courses online:
+- CITI Certification (on ethics and integrity in research)
+- WorkDay mandatory courses (if you are an employee) that pop up from time to time
+- Setting up your profile on the [lab website](http://clinicalbrain.org)
 
 ### 3. Get connected
 

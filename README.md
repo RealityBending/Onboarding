@@ -150,6 +150,7 @@ We are using GitHub a lot for a lot of stuff, and therefore you'll need to becom
   2. Select the **Introduce myself** template
   3. Answer the questions
   4. post it 😁
+  5. Finally, follow us [@DominiqueMakowski](https://github.com/DominiqueMakowski), [@Tam-Pham](https://github.com/Tam-Pham), [@zen-juen](https://github.com/zen-juen) 
 
 
 ### 4. Media recommendation

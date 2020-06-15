@@ -214,14 +214,12 @@ The first task is to set-up your profile on the [lab website](http://clinicalbra
    
   - **Step 3: Add your profile picture**
     - The very last step for you to customize your profile is to add a picture of yourself. Did you see this strange-looking line `<img src="/img/someone-name.jpg" alt="someone-name" width="25%" align="left" hspace=20" vspace="20"><br />`? This line helps to add your picture to your profile. 
-    - Now, look for that one picture of yourself that you look the most amazing and upload it to the `clinicalbrainlab.github.io/static/img` folder. You can name the file with a simple name e.g. your-name.
-    - Go back to the `people.Rmd` file and replace `someone-name.jpg` with the name of your picture file and its extension. 
+    - Look for that one picture of yourself that you look the most amazing and upload it to the `your-username/clinicalbrainlab.github.io/static/img` folder. You can name the file with a simple name e.g. your-name 😊
+    - Go back to the `people.Rmd` file and in that strange-looking line, replace `someone-name.jpg` with the name of your picture file and its extension. So that it knows where to look for your picture. 
     
    - **Step 4: Make a Pull Request**
-    - Now, go back to *"your-username/clinicalbrainlab.github.io"* main page to look for the *Pull Rquest* sign. Click on it. 
-    
-   ![PR](https://github.com/neuropsychology/Onboarding/blob/master/img/PR.png)
- 
+    - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it. 
+    ![PR](https://github.com/neuropsychology/Onboarding/blob/master/img/PR.png)
     - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`. 
     - All the left for you to do is to click on that shiny green button to update your changes to the original repository. 
 

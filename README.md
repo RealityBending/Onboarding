@@ -199,12 +199,14 @@ The first task is to set-up your profile on the [lab website](http://clinicalbra
 
 - **Step 1: Fork the website repository** 
   - Go to the (Github Page Repository of Clinical Brain Lab)[https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io]
-  - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account. After a few minutes of waiting, you should now see a repository with a name of *"your-username/clinicalbrainlab.github.io"*. 
+  - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account.
   
-  ![fork](https://github.com/neuropsychology/Onboarding/blob/master/img/fork-repo.png)
+ ![fork](https://github.com/neuropsychology/Onboarding/blob/master/img/fork-repo.png)
+  
+  -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`. 
   
  - **Step 2: Add your profile to the website**
-   - Navigate to the folder `clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
+   - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
    - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people.Rmd`. The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Reads on!
    - By reading through the `people.Rmd` file, you can see that it's just like any another word document (except more powerful ^^). The "#" is used to create the sections. You should now click on the *pencil* symbol at the top of the document to start editing.
    - Locate the "section" that you belong to; whether you are a member of **Research Scientists and Research Fellows** or a member of the **Undergraduate Students**. If you can't find a section that accurately captures your role in the lab, do not hesitate to create a new one!

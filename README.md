@@ -195,7 +195,28 @@ As said earlier, **we use GitHub a lot**, so it's a pre-requisite that you acqui
 
 1. **Setting up your profile on the lab website**
 
-The first task is to set-up your profile on the [lab website](http://clinicalbrain.org). **TAM ADD A GUIDE INFO HERE**. Note that on GitHub (but also when writing research articles), we write in **markdown**, which is a set of conventions allowing to quickly and easily format text (e.g., text in bold, italic, titles, etc.). 
+The first task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
+
+- Step 1: Fork the website repository 
+  - Go to the (Github Page Repository of Clinical Brain Lab)[https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io]
+  - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account. After a few minutes of waiting, you should now see a repository with a name of *"your-username/clinicalbrainlab.github.io"*. 
+ - Step 2: Add your profile to the website
+   - Navigate to the folder `clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
+   - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people.Rmd`. The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Reads on!
+   - By reading through the `people.Rmd` file, you can see that it's just like any another word document (except more powerful ^^). The "#" is used to create the sections. You should now click on the *pencile* symbol at the top to edit, locate the "section" that you belong to; whether you are a member of **Research Scientists and Research Fellows** or a member of the **Undergraduate Students**. If you can't find a section that accurately capture your role in the lab, do not hesitate to create one!
+   - Now, you can simply look at what is being written under the name of other members, copy it, and customize the section to make it your own! 
+  - Step 3: Add your profile picture
+    - The very last step for you to customize your profile is to add a picture of you. Did you see this strange-looking line `<img src="/img/someone-name.jpg" alt="Chung" width="25%" align="left" hspace=20" vspace="20"><br />`? This is where your profilepicture is added. 
+    - Now, look for that one picture of yourself that you like, add them to the `clinicalbrainlab.github.io/static/img` folder. You can name the file whichever you like but best with simply your name.
+    - Go back to the `people.Rmd` file and replace `someone-name.jpg` with the name of your profile picture file and its extension. 
+   - Step 4: Make a Pull Request
+    - Now, go back to *"your-username/clinicalbrainlab.github.io"* main page to look for the *Pull Rquest* sign. Click on it. 
+    - The page will show that you are trying to make a Pull Request form **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`. 
+    - All the left for you to do is to click on that shiny green button to update your changes to the original repository. 
+
+You have successfully updated your profile on our website!
+
+Note that on GitHub (but also when writing research articles), we write in **markdown**, which is a set of conventions allowing to quickly and easily format text (e.g., text in bold, italic, titles, etc.). 
 
 - [**To read: markdown introduction**](https://guides.github.com/features/mastering-markdown/)
 

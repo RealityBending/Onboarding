@@ -200,10 +200,10 @@ The first task is to set-up your profile on the [lab website](http://clinicalbra
 - **Step 1: Fork the website repository** 
   - Go to the (Github Page Repository of Clinical Brain Lab)[https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io]
   - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account.
-  
- ![fork](https://github.com/neuropsychology/Onboarding/blob/master/img/fork-repo.png)
-  
-  -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`. 
+    
+    ![fork](https://github.com/neuropsychology/Onboarding/blob/master/img/fork-repo.png)
+ 
+   -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`. 
   
  - **Step 2: Add your profile to the website**
    - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
@@ -217,9 +217,11 @@ The first task is to set-up your profile on the [lab website](http://clinicalbra
     - Look for that one picture of yourself that you look the most amazing and upload it to the `your-username/clinicalbrainlab.github.io/static/img` folder. You can name the file with a simple name e.g. your-name 😊
     - Go back to the `people.Rmd` file and in that strange-looking line, replace `someone-name.jpg` with the name of your picture file and its extension. So that it knows where to look for your picture. 
     
-   - **Step 4: Make a Pull Request**
-    - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it. 
-    ![PR](https://github.com/neuropsychology/Onboarding/blob/master/img/PR.png)
+  - **Step 4: Make a Pull Request**
+    - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it.
+    
+      ![PR](https://github.com/neuropsychology/Onboarding/blob/master/img/PR.png)
+      
     - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`. 
     - All the left for you to do is to click on that shiny green button to update your changes to the original repository. 
 

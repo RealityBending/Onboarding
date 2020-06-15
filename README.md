@@ -4,36 +4,38 @@
 
 **Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful.
 
-The goal of this guide is first and foremost to help you acquire the same frame of reference, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will become handy some day 😉
+The goal of this guide is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will become handy some day 😉
 
-This guide has been crafted by all past and current members of the team. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we expect you to leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *what* and *how* in due time.
+This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
 
 
 ## Questions
 
-> I feel a bit lost
+> **I feel a bit lost**
 
 Send us a message, we're likely unaware of that! 
 
-> I'm not sure what I should do and what my tasks are
+> **I'm not sure what I should do and what my tasks are**
 
 Send us a message, we're likely unaware of that! 
 
-> There's too much work for me
+> **There's too much work for me**
 
 Send us a message, we're likely unaware of that! 
 
-> There's not enough work for me
+> **There's not enough work for me**
 
 Send us a message, we're likely unaware of that! 
+
+In short, for any reason, **do not hestitate to drop us a message!** 
 
 ## Our vision
 
-Our team in centred around core values such as **teamwork**, constant **learning**, **friendly** environment and **aiming for the top**.
+Our team in centred around core values such as **teamwork**, continuous **learning**, **friendly** environment and **aiming for the top**.
 
-We rely on a lot of internal communication (about stuff more or less related to work), our ability to always learn and improve, a cool working environment (forget the formalities, ain't nobody got time for that) and striving for the highest standards in terms of sciencific quality and honesty. We're committed to **open-science**, i.e., working open by sharing our code, documentation, data (where possible) and expertise.
+We rely on a lot of internal **communication** (about stuff more or less related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open-science**, i.e., working open by sharing our code, documentation, data (where possible) and expertise.
 
-On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. I think that a neuropsychologist should aim at developping 3 types of expertise: clinical abilities, technical skills and theoretical knowledge.
+On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history).
 
 
 ## Roadmap <sub>(05-06-2020)</sub>

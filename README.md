@@ -65,7 +65,6 @@ Pay a visit to your colleagues, introduce yourself, explore the building, locate
 Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc. Specifically at NTU, this often involves completing short courses online:
 - CITI Certification (on ethics and integrity in research)
 - WorkDay mandatory courses (if you are an employee) that pop up from time to time
-- Setting up your profile on the [lab website](http://clinicalbrain.org)
 
 ### 3. Get connected
 
@@ -190,24 +189,34 @@ We are using GitHub a lot for a lot of stuff, and therefore you'll need to becom
 ## 📆 Day 2: Get familiar with the workflow
 
 
-### Create your first Github Pull Request (PR)
+### Create your first Github Pull Requests (PR)
 
-As said earlier, we use GitHub a lot, so it's a pre-requisite that you acquire this skill. However, it's quite tricky to get familiar and comfortable with it (even we struggle sometimes). But you cannot learn if you don't try, break things and succeed.
+As said earlier, **we use GitHub a lot**, so it's a pre-requisite that you acquire this skill. However, it's quite tricky to get familiar and comfortable with it (even we struggle sometimes), and I'd say it's one of the most complicated thing you'll have to learn. But you cannot learn if you don't try, break things and succeed.
 
-Thus, we want you to start by reading these tutorials:
+1. **Setting up your profile on the lab website**
 
-- [Github Guides](https://guides.github.com/)
-- [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
-- [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)
-- [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
+The first task is to set-up your profile on the [lab website](http://clinicalbrain.org). **TAM ADD A GUIDE INFO HERE**. Note that on GitHub (but also when writing research articles), we write in **markdown**, which is a set of conventions allowing to quickly and easily format text (e.g., text in bold, italic, titles, etc.). 
 
-Now that you have a better idea, time to create a PR to add something to the Onboarding repository (this one). You can for example:
+- [**To read: markdown introduction**](https://guides.github.com/features/mastering-markdown/)
+
+2. **Create your own first repo**
+
+Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed:
+
+- [**To read: markdown introduction**](https://guides.github.com/activities/hello-world/)
+
+3. **Make a PR in this document here**
+
+Now that you have a better idea of GitHub, time to create a PR to add something to the Onboarding repository (this one). You can for example:
 
   - Fix a typo in this document
   - Add some recommended good movies/reads
   - Clarify some sections
   - ...
 
+- [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
+- [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)
+- [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 
 ## 📆 Day 3: Get familiar with the tools

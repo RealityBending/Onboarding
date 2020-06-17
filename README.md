@@ -13,21 +13,21 @@ This guide has been crafted by all **past and current members of the team**. It'
 
 > **I feel a bit lost**
 
-Send us a message, we're likely unaware of that! 
+Send us a message, we're likely unaware of that!
 
 > **I'm not sure what I should do and what my tasks are**
 
-Send us a message, we're likely unaware of that! 
+Send us a message, we're likely unaware of that!
 
 > **There's too much work for me**
 
-Send us a message, we're likely unaware of that! 
+Send us a message, we're likely unaware of that!
 
 > **There's not enough work for me**
 
-Send us a message, we're likely unaware of that! 
+Send us a message, we're likely unaware of that!
 
-In short, for any reason, **do not hestitate to drop us a message!** 
+In short, for any reason, **do not hestitate to drop us a message!**
 
 ## Our vision
 
@@ -68,7 +68,7 @@ Do whatever is required on the admin side, complete the ethical certification, t
 
 ### 3. Get connected
 
-#### 🐦 **Twitter** 
+#### 🐦 **Twitter**
 
 We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
 
@@ -145,13 +145,13 @@ As GitHub claims itself, it *brings together the world's largest community of de
 
 - [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/github_psychologists/)
 
-We are using GitHub a lot for a lot of stuff, and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*PS: do use a simple login like FirstnameSurname*), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows: 
+We are using GitHub a lot for a lot of stuff, and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*PS: do use a simple login like FirstnameSurname*), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows:
 
   1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   2. Select the **Introduce myself** template
   3. Answer the questions
   4. post it 😁
-  5. Finally, follow us [@DominiqueMakowski](https://github.com/DominiqueMakowski), [@Tam-Pham](https://github.com/Tam-Pham), [@zen-juen](https://github.com/zen-juen) 
+  5. Finally, follow us [@DominiqueMakowski](https://github.com/DominiqueMakowski), [@Tam-Pham](https://github.com/Tam-Pham), [@zen-juen](https://github.com/zen-juen)
 
 
 ### 4. Media recommendation
@@ -197,37 +197,37 @@ As said earlier, **we use GitHub a lot**, so it's a pre-requisite that you acqui
 
 The first task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
 
-- **Step 1: Fork the website repository** 
+- **Step 1: Fork the website repository**
   - Go to the (Github Page Repository of Clinical Brain Lab)[https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io]
   - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account.
-    
+
     ![fork](https://github.com/neuropsychology/Onboarding/blob/master/img/fork-repo.png)
- 
-   -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`. 
-  
+
+   -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`.
+
  - **Step 2: Add your profile to the website**
    - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
-   - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people.Rmd`. The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Reads on!
+   - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people.Rmd`. The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Read on!
    - By reading through the `people.Rmd` file, you can see that it's just like any another word document (except more powerful ^^). The "#" is used to create the sections. You should now click on the *pencil* symbol at the top of the document to start editing.
    - Locate the "section" that you belong to; whether you are a member of **Research Scientists and Research Fellows** or a member of the **Undergraduate Students**. If you can't find a section that accurately captures your role in the lab, do not hesitate to create a new one!
-   - Now, you can simply look at what is being written under the name of other members, copy it, and customize the section to make it yours! 
-   
+   - Now, you can simply look at what is being written under the name of other members, copy it, and customize the section to make it yours!
+
   - **Step 3: Add your profile picture**
-    - The very last step for you to customize your profile is to add a picture of yourself. Did you see this strange-looking line `<img src="/img/someone-name.jpg" alt="someone-name" width="25%" align="left" hspace=20" vspace="20"><br />`? This line helps to add your picture to your profile. 
+    - The very last step for you to customize your profile is to add a picture of yourself. Did you see this strange-looking line `<img src="/img/someone-name.jpg" alt="someone-name" width="25%" align="left" hspace=20" vspace="20"><br />`? This line helps to add your picture to your profile.
     - Look for that one picture of yourself that you look the most amazing and upload it to the `your-username/clinicalbrainlab.github.io/static/img` folder. You can name the file with a simple name e.g. your-name 😊
-    - Go back to the `people.Rmd` file and in that strange-looking line, replace `someone-name.jpg` with the name of your picture file and its extension. So that it knows where to look for your picture. 
-    
+    - Go back to the `people.Rmd` file and in that strange-looking line, replace `someone-name.jpg` with the name of your picture file and its extension. So that it knows where to look for your picture.
+
   - **Step 4: Make a Pull Request**
     - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it.
-    
+
       ![PR](https://github.com/neuropsychology/Onboarding/blob/master/img/PR.png)
-      
-    - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`. 
-    - All the left for you to do is to click on that shiny green button to update your changes to the original repository. 
+
+    - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`.
+    - All the left for you to do is to click on that shiny green button to update your changes to the original repository.
 
 Congratulations! You have successfully updated your profile on our website!
 
-Note that on GitHub (but also when writing research articles), we write in **markdown**, which is a set of conventions allowing to quickly and easily format text (e.g., text in bold, italic, titles, etc.). 
+Note that on GitHub (but also when writing research articles), we write in **markdown**, which is a set of conventions allowing to quickly and easily format text (e.g., text in bold, italic, titles, etc.).
 
 - [**To read: markdown introduction**](https://guides.github.com/features/mastering-markdown/)
 
@@ -256,18 +256,18 @@ Now that you have a better idea of GitHub, time to create a PR to add something 
 
 ### Python
 
-We mostly use Python for signal processing and setting up experimental tasks. For instance, the [NeuroKit2](https://github.com/neuropsychology/NeuroKit) project that we are working on is written in Python. 
-We also build our experiemntal tasks using [Neuropsydia.py](https://github.com/neuropsychology/Neuropsydia.py) which is also a Python module. 
+We mostly use Python for signal processing and setting up experimental tasks. For instance, the [NeuroKit2](https://github.com/neuropsychology/NeuroKit) project that we are working on is written in Python.
+We also build our experimental tasks using [Neuropsydia.py](https://github.com/neuropsychology/Neuropsydia.py) which is also a Python module.
 
-Therefore, it's important that you get familiar with the tool. Following are a few resources that we suggest to get you started: 
+Therefore, it's important that you get familiar with the tool. Following are a few resources that we suggest to get you started:
 
 - [Get familiar with Python in 10 minutes](https://neurokit2.readthedocs.io/en/latest/start/learn_python.html)
 
 ### R
 
-The bulk of our statistical analyses and manuscript preparation is done on R. 
+The bulk of our statistical analyses and manuscript preparation is done on R.
 
-At this point, you might ask why can't we just stick to one programming language? What is the point of learning both R and Python? 
+At this point, you might ask why can't we just stick to one programming language? What is the point of learning both R and Python?
 The simple answer is that the two programming languages are basically different and one can be more powerful in one task than the other.
 This [**blog post** *(R or Python for Psychologists)*](https://dominiquemakowski.github.io/post/r_or_python/) will however give you a much more interesting answer to the above question.\
 
@@ -278,4 +278,3 @@ Following are a few resources to get you started with R:
 # Some Final Words
 
 We encourage you to really explore and be integrated within the online scientific community along with us, as this will help you expand your knowledge and skillset as well as become better informed! It may be a steep learning curve initially, but we're here to help you along the way (we've been there ourselves!) and never hesitate to ask questions 😉
-

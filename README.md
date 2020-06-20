@@ -76,10 +76,7 @@ We have compiled a list of interesting accounts for you to start following, cove
 
 Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (even if you don't see any reason for it *at first*):
 
-[@Dom_Makowski](https://twitter.com/Dom_Makowski)
-, [@ZenJuen](https://twitter.com/ZenJuen)
-, [@tampham94](https://twitter.com/tampham94)
-, [@BrianNosek](https://twitter.com/BrianNosek)
+[@BrianNosek](https://twitter.com/BrianNosek)
 , [@SachaEpskamp](https://twitter.com/SachaEpskamp)
 , [@micahgallen](https://twitter.com/micahgallen)
 , [@EikoFried](https://twitter.com/EikoFried)
@@ -131,6 +128,17 @@ Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (e
 , [@PHDcomics](https://twitter.com/PHDcomics)
 , [@NeuroscienceNew](https://twitter.com/NeuroscienceNew)
 , ...
+
+And of course, don't forget to add the **lab members**:
+
+[@Dom_Makowski](https://twitter.com/Dom_Makowski)
+, [@ZenJuen](https://twitter.com/ZenJuen)
+, [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
+, [@cblntu](https://twitter.com/cblntu)
+, [@chiaoyiwu](https://twitter.com/chiaoyiwu)
+, [@SagarikaBhatta](https://twitter.com/SagarikaBhatta)
+, [@Rajankashya](https://twitter.com/Rajankashya)
+, [@coconutpancakes](https://twitter.com/coconutpancakes)
 
 At first, you'll like have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite and download the app), but soon it will be filled with interesting content.
 

@@ -215,9 +215,9 @@ The first task is to set-up your profile on the [lab website](http://clinicalbra
 
  - **Step 2: Add your profile to the website**
    - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
-   - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people.Rmd`. The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Read on!
-   - By reading through the `people.Rmd` file, you can see that it's just like any another word document (except more powerful ^^). The "#" is used to create the sections. You should now click on the *pencil* symbol at the top of the document to start editing.
-   - Locate the "section" that you belong to; whether you are a member of **Research Scientists and Research Fellows** or a member of the **Undergraduate Students**. If you can't find a section that accurately captures your role in the lab, do not hesitate to create a new one!
+   - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people` folder and look for the *.Rmd* file that you belong to (e.g. Research Fellows, Undergraduate Student etc). The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Read on!
+   - By reading through the `.Rmd` file, you can see that it's just like any another word document (except more powerful ^^). The "#" is used to create the sections. You should now click on the *pencil* symbol at the top of the document to start editing.
+   - If you can't find a *.Rmd* file in the `people` folder that accurately captures your role in the lab, do not hesitate to create a new one!
    - Now, you can simply look at what is being written under the name of other members, copy it, and customize the section to make it yours!
 
   - **Step 3: Add your profile picture**

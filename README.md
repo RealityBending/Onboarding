@@ -37,6 +37,11 @@ We rely on a lot of internal **communication** (about stuff more or less related
 
 On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history).
 
+## The Pledge
+
+> I pledge to devote myself to the pursuit of truth using the tools of science.
+
+<sub><sup>[Click-here](https://github.com/DominiqueMakowski/SecretOath) to retrieve the secret oath (access restricted)</sup></sub>
 
 ## Roadmap <sub>(05-06-2020)</sub>
 

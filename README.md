@@ -39,7 +39,7 @@ On a more abstract level, I believe in what I call the **three-fold neuropsychol
 
 ## The Bright Oath
 
-> I pledge to devote myself to the pursuit of truth using the tools of science.
+Discover and learn our pledge [**here**](https://github.com/RealityBending/BrightOath/blob/master/README.md).
 
 ## Roadmap <sub>(05-06-2020)</sub>
 

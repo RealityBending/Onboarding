@@ -39,7 +39,7 @@ On a more abstract level, I believe in what I call the **three-fold neuropsychol
 
 ## The Bright Oath
 
-Discover and learn our pledge [**here**](https://github.com/RealityBending/BrightOath/blob/master/README.md).
+Discover and learn our pledge [**here**](https://github.com/RealityBending/BrightOath/blob/master/README.md). If the link doesn't work, please send us a notification so we can update your accesss level.
 
 ## Roadmap <sub>(05-06-2020)</sub>
 

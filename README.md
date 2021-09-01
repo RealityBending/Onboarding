@@ -4,12 +4,12 @@
 
 **Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful.
 
-The goal of this guide is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will become handy some day 😉
+The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day 😉 
 
 This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
 
 
-## Questions
+## Questions & Answers
 
 > **I feel a bit lost**
 
@@ -27,57 +27,57 @@ Send us a message, we're likely unaware of that!
 
 Send us a message, we're likely unaware of that!
 
-In short, for any reason, **do not hestitate to drop us a message!**
+In short, for any reason, **do not hestitate to drop us a message!** Communication is key.
 
 ## Our vision
 
 Our team in centred around core values such as **teamwork**, continuous **learning**, **friendly** environment and **aiming for the top**.
 
-We rely on a lot of internal **communication** (about stuff more or less related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open-science**, i.e., working open by sharing our code, documentation, data (where possible) and expertise.
+We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open-science**, i.e., working open by sharing our code, documentation, data and expertise.
 
-On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history).
+On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is *sort of* all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history).
 
-## The Bright Oath
-
-Discover and learn our pledge [**here**](https://github.com/RealityBending/BrightOath/blob/master/README.md). If the link doesn't work, please send us a notification so we can update your accesss level.
-
-## Roadmap <sub>(05-06-2020)</sub>
+## Roadmap <sub>(01-09-2021)</sub>
 
 *Note: this roadmap is typically something that has to be updated by the team, it's our collective responsibility. So if you notice that it's outdated, do make a Pull Request (see below if you don't know what it is) to update it!*
 
 Here are the projects that our team is currently working on:
 
-- [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://psyarxiv.com/t7s32/)
-
-- [NeuroKit2: The Python Toolbox for Neurophysiological Signal Processing](https://github.com/neuropsychology/NeuroKit)
-
-- [Psychological Determinants of the Susceptibility to Fake News amidst the COVID-19 Pandemic](https://osf.io/79uvk/)
-
-- The Process Model of Lying and Deception: The Study of Mental and Physiological Process of Deception
-
+- HRV and related stuff 
+- EEG and related stuff
+- Cognitive Control and all the above
+- Deception and all the above
+- Reality monitoring
 
 
 ## 📆 Day 1: Enter the world
 
 ### 1. Explore your environment
 
-Pay a visit to your colleagues, introduce yourself, explore the building, locate the offices, find the toilets and the coffee machine.
+Alright, here's the big day! First, take the time to settle in your space. Pay a visit to your colleagues, introduce yourself, explore the building, locate the offices, find the toilets and the coffee machine.
 
 ### 2. Get the Admin done
 
 Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc. Specifically at NTU, this often involves completing short courses online:
-- CITI Certification (on ethics and integrity in research)
-- WorkDay mandatory courses (if you are an employee) that pop up from time to time
+
+- [ ] CITI Certification (on ethics and integrity in research)
+- [ ] WorkDay mandatory courses (if you are an employee) that pop up from time to time
 
 ### 3. Get connected
 
 #### 🐦 **Twitter**
 
-We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) might be the very platform to do it 😉 It's great for the research arena because researchers can recruit participants for experiments and easily share and summarize their findings in threads, so you can keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
+We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) is a good platform to do it 😉 Many researchers use it to share and summarize their new studies and projects, recruit participants or advertise positions. So you can easily keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
 
-We have compiled a list of interesting accounts for you to start following, covering all sort of different topics (but always relevant). Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts!
+After creating an account, you can start by your **colleagues**:
 
-Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (even if you don't see any reason for it *at first*):
+[@Dom_Makowski](https://twitter.com/Dom_Makowski)
+, [@ZenJuen](https://twitter.com/ZenJuen)
+, [@tampham94](https://twitter.com/tampham94)
+, [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
+, [@cblntu](https://twitter.com/cblntu)
+
+We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts! Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (even if you don't see any reason for it *at first*).
 
 [@BrianNosek](https://twitter.com/BrianNosek)
 , [@SachaEpskamp](https://twitter.com/SachaEpskamp)
@@ -130,20 +130,14 @@ Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (e
 , [@hadleywickham](https://twitter.com/hadleywickham)
 , [@PHDcomics](https://twitter.com/PHDcomics)
 , [@NeuroscienceNew](https://twitter.com/NeuroscienceNew)
+, [@itjohnstone](https://twitter.com/itjohnstone)
+, [@KnowNeuropsych](https://twitter.com/KnowNeuropsych)
+, [@SolomonKurz](https://twitter.com/SolomonKurz)
+, [@HirstRj](https://twitter.com/HirstRj)
 , ...
 
-And of course, don't forget to add the **lab members**:
 
-[@Dom_Makowski](https://twitter.com/Dom_Makowski)
-, [@ZenJuen](https://twitter.com/ZenJuen)
-, [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
-, [@cblntu](https://twitter.com/cblntu)
-, [@chiaoyiwu](https://twitter.com/chiaoyiwu)
-, [@SagarikaBhatta](https://twitter.com/SagarikaBhatta)
-, [@Rajankashya](https://twitter.com/Rajankashya)
-, [@coconutpancakes](https://twitter.com/coconutpancakes)
-
-At first, you'll like have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite and download the app), but soon it will be filled with interesting content.
+At first, you'll likely have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
 
 #### 👨‍🔬 **ResearchGate**
 
@@ -152,11 +146,11 @@ At first, you'll like have to force yourself a bit to open and check twitter fro
 
 #### :octocat: **GitHub**
 
-As GitHub claims itself, it *brings together the world's largest community of developers to discover, share, and build better software*. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. It is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates.
+Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates.
 
-- [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/github_psychologists/)
+- You can start by reading this post: [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/github_psychologists/)
 
-We are using GitHub a lot for a lot of stuff, and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*PS: do use a simple login like FirstnameSurname*), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows:
+We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everything), and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*advice: do use a simple login like FirstnameSurname rather than something you might regret later* 😬), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows:
 
   1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   2. Select the **Introduce myself** template
@@ -168,13 +162,17 @@ We are using GitHub a lot for a lot of stuff, and therefore you'll need to becom
 ### 4. Media recommendation
 
 
-#### Books
+#### General Neuroscience/Psychology Books
 
+- About emotions and the brain: [How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)](https://www.amazon.com/How-Emotions-Are-Made-Secret/dp/1509837523)
+- About neuropsychological cases: [The Man Who Mistook His Wife for a Hat (Oliver Sacks)](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0593466675/)
+- About forensic psychology: [The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)](https://www.amazon.com/Anatomy-Violence-Biological-Roots-Crime/dp/0307475611)
+- About free will and consciousness: [The Illusion of Conscious Will (Daniel M. Wegner))](https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924)
+- About consciousness: [Consciousness: Confessionsof a Romantic Reductionist (Christof Koch)](https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502)
+- About consciousness: [I Am a Strange Loop (Douglas Hofstadter)](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793)
+- A novel on psychotherapy: [The Schopenhauer Cure (Irvin Yalom)](https://www.amazon.com/Schopenhauer-Cure-Novel-Irvin-Yalom/dp/0060938102)
 - Thinking Fast and Slow (Daniel Kahneman)
 - The Art of Thinking Clearly (Rolf Dobelli)
-- How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)
-- The Man Who Mistook His Wife for a Hat (Oliver Sacks)
-- The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)
 - ...
 
 #### Papers
@@ -192,7 +190,7 @@ We are using GitHub a lot for a lot of stuff, and therefore you'll need to becom
 
 #### Movies / TV Shows
 
-- Mindhunter
+- Mindhunter (TV show)
 - Fractured
 - Joker
 - ...
@@ -200,6 +198,10 @@ We are using GitHub a lot for a lot of stuff, and therefore you'll need to becom
 
 ## 📆 Day 2: Get familiar with the workflow
 
+
+### The Bright Oath
+
+Now that you have GitHub account, you can check-out and learn our pledge [**here**](https://github.com/RealityBending/BrightOath/blob/master/README.md). If the link doesn't work, please send us a notification so we can update your accesss level.
 
 ### Create your first Github Pull Requests (PR)
 

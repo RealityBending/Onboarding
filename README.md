@@ -180,7 +180,7 @@ We are using GitHub a lot for a lot of stuff, and therefore you'll need to becom
 #### Papers
 
 - [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://psyarxiv.com/t7s32/)
-- [Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.researchgate.net/publication/348985040_NeuroKit2_A_Python_toolbox_for_neurophysiological_signal_processing)
+- [NeuroKit2: A Python Toolbox for Neurophysiological Signal Processing](https://www.researchgate.net/publication/348985040_NeuroKit2_A_Python_toolbox_for_neurophysiological_signal_processing)
 - [Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.researchgate.net/publication/352279590_Heart_Rate_Variability_in_Psychology_A_Review_of_HRV_Indices_and_an_Analysis_Tutorial)
 
 #### Videos

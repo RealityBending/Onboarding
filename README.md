@@ -152,7 +152,7 @@ Whether you're a beginner to programming or an expert, integrating into this com
 
 - You can start by reading this post: [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/github_psychologists/)
 
-We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everything), and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*advice: do use a simple login like FirstnameSurname rather than something you might regret later* 😬), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, and 3) start using it as follows:
+We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everything), and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*advice: do use a simple login like FirstnameSurname rather than something you might regret later* 😬), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, 3) star 🌟 it and 4) start using it as follows:
 
   1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   2. Select the **Introduce myself** template

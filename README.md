@@ -4,7 +4,7 @@
 
 **Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful (though keep in mind that it's in a work-in-progress state).
 
-The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day 😉 
+The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day 😉
 
 Keep also in mind that this  ,
 
@@ -45,7 +45,7 @@ On a more abstract level, I believe in what I call the **three-fold neuropsychol
 
 Here are the projects that our team is currently working on:
 
-- HRV and related stuff 
+- HRV and related stuff
 - EEG and related stuff
 - Cognitive Control and all the above
 - Deception and all the above
@@ -166,13 +166,21 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
 
 #### General Neuroscience/Psychology Books
 
-- About emotions and the brain: [How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)](https://www.amazon.com/How-Emotions-Are-Made-Secret/dp/1509837523)
-- About neuropsychological cases: [The Man Who Mistook His Wife for a Hat (Oliver Sacks)](https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0593466675/)
-- About forensic psychology: [The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)](https://www.amazon.com/Anatomy-Violence-Biological-Roots-Crime/dp/0307475611)
-- About free will and consciousness: [The Illusion of Conscious Will (Daniel M. Wegner))](https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924)
-- About consciousness: [Consciousness: Confessionsof a Romantic Reductionist (Christof Koch)](https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502)
-- About consciousness: [I Am a Strange Loop (Douglas Hofstadter)](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793)
-- A novel on psychotherapy: [The Schopenhauer Cure (Irvin Yalom)](https://www.amazon.com/Schopenhauer-Cure-Novel-Irvin-Yalom/dp/0060938102)
+##### Emotion and Cognition
+
+<a href="https://www.amazon.com/How-Emotions-Are-Made-Secret/dp/1509837523"><img src="https://images-na.ssl-images-amazon.com/images/I/912ZXbJedjL.jpg" height="300" alt = "How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)"/></a> <a href="https://www.amazon.com/Anatomy-Violence-Biological-Roots-Crime/dp/0307475611"><img src="https://images-na.ssl-images-amazon.com/images/I/71KawXMlt9L.jpg" height="300" alt = "The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)"/></a>
+
+##### Consciousness
+
+<a href="https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924"><img src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262534925%26type%3D.jpg" height="300" alt = "The Illusion of Conscious Will (Daniel M. Wegner)"/></a> <a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952385l/13557108.jpg" height="300" alt = "Consciousness: Confessions of a Romantic Reductionist (Christof Koch)"/></a> <a href="https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Strageloop.jpg/220px-Strageloop.jpg" height="300" alt = "I Am a Strange Loop (Douglas Hofstadter)"/></a>
+
+##### Clinical Neuropsychology / Psychopathology / Psychotherapy
+
+<a href="https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0593466675/"><img src="https://m.media-amazon.com/images/I/418VetIlpTL.jpg" height="300" alt = "The Man Who Mistook His Wife for a Hat (Oliver Sacks)"/></a> <a href="https://www.amazon.com/Schopenhauer-Cure-Novel-Irvin-Yalom/dp/0060938102"><img src="https://images-na.ssl-images-amazon.com/images/I/71L2DHjmnQS.jpg" height="300" alt = "The Schopenhauer Cure (Irvin Yalom)"/></a>
+
+
+##### Others
+
 - Thinking Fast and Slow (Daniel Kahneman)
 - The Art of Thinking Clearly (Rolf Dobelli)
 - ...

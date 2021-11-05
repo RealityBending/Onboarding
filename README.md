@@ -308,10 +308,15 @@ Therefore, it's important that you get familiar with the tool. Following are a f
 
 #### Setting-up Python
 
-1. Download VSCODE
-2. Download Python
-3. ...
 
+1. Download [VS Code](https://code.visualstudio.com/download) (or if you already have Winpython installed, simply open `VS Code.exe` from the winpy folder)
+2. Download [Python](https://www.python.org/downloads/)
+3. Once VS Code is launched, the next step is to add new features and functionalities to support your development workflow. You can do so by installing these [extension packages](https://github.com/RealityBending/Onboarding/blob/master/vscode_settings.md#extensions) which you can find by clicking on this icon in the activity bar:
+
+![image](https://user-images.githubusercontent.com/54053748/140497021-6dcfd265-2162-4262-801c-b0d74d704330.png)
+
+4. Configure your workspace settings, using the following command: `Ctrl+Shift+P` and click on *Preferences: Open Settings (JSON)*. This opens your user `settings.json` where [the following configuration](https://github.com/RealityBending/Onboarding/blob/master/vscode_settings.md#settings) should be copied and pasted to (take note of the key path directories you will need to modify according to your machine!)
+5. To start running some code, click *New File* and `Ctrl+S` to save the file into whichever directory in your computer you want, naming the file with a `.py` extension. Press `Shift+Enter` to send each line of code to an interactive window
 
 
 ### R

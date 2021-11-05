@@ -6,8 +6,6 @@
 
 The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day 😉
 
-Keep also in mind that this  ,
-
 This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
 
 
@@ -29,7 +27,12 @@ Send us a message, we're likely unaware of that!
 
 Send us a message, we're likely unaware of that!
 
-In short, for any reason, **do not hestitate to drop us a message!** Communication is key.
+In short, for any reason, **do not hestitate to drop us a message!** Communication is key. Otherwise any unadressed issue can build up and create unnecessary stress or problems. 
+
+> **I sent a message but nobody answered...**
+
+Send us a reminder (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things. It's not against you, and we'll be thankful that you reminded us. 
+
 
 ## Our vision
 
@@ -49,7 +52,8 @@ Here are the projects that our team is currently working on:
 - EEG and related stuff
 - Cognitive Control and all the above
 - Deception and all the above
-- Reality monitoring
+- Reality monitoring, fiction and fake news
+- Other (illusions, methods, sotftware, etc.)
 
 
 ## 📆 Day 1: Enter the world
@@ -157,8 +161,8 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
   1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   2. Select the **Introduce myself** template
   3. Answer the questions
-  4. post it 😁
-  5. Finally, follow us [@DominiqueMakowski](https://github.com/DominiqueMakowski), [@Tam-Pham](https://github.com/Tam-Pham), [@zen-juen](https://github.com/zen-juen)
+  4. post it (we'll close it afterwards)
+  5. Follow us [@DominiqueMakowski](https://github.com/DominiqueMakowski), [@Tam-Pham](https://github.com/Tam-Pham), [@zen-juen](https://github.com/zen-juen)
 
 
 ### 4. Media recommendation
@@ -187,12 +191,23 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
 
 #### Papers
 
-- [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://psyarxiv.com/t7s32/)
-- [Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.researchgate.net/publication/352279590_Heart_Rate_Variability_in_Psychology_A_Review_of_HRV_Indices_and_an_Analysis_Tutorial)
-- [The heart of cognitive control: Cardiac phase modulates processing speed and inhibition](https://dominiquemakowski.github.io/publication/makowski2019heart/makowski2019heart.pdf)
+Here are some of our key papers that you can read.
+
+##### Sense of Reality
+
 - [Phenomenal, bodily and brain correlates of fictional reappraisal as an implicit emotion regulation strategy](https://dominiquemakowski.github.io/publication/makowski2019phenomenal/makowski2019phenomenal.pdf)
 - ["Being there" and remembering it: Presence improves memory encoding](https://dominiquemakowski.github.io/publication/makowski2017being/makowski2017being.pdf)
-- ...
+
+##### Deception
+
+- [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://realitybending.github.io/publication/makowski2021structure/makowski2021structure.pdf)
+
+
+##### Physio, HRV, Body-Brain Interaction
+
+- [Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.researchgate.net/publication/352279590_Heart_Rate_Variability_in_Psychology_A_Review_of_HRV_Indices_and_an_Analysis_Tutorial)
+- [The heart of cognitive control: Cardiac phase modulates processing speed and inhibition](https://dominiquemakowski.github.io/publication/makowski2019heart/makowski2019heart.pdf)
+
 
 #### Videos
 
@@ -214,7 +229,7 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
 
 ### The Bright Oath
 
-Now that you have GitHub account, you can check-out and learn our pledge [**here**](https://github.com/RealityBending/BrightOath/blob/master/README.md). If the link doesn't work, please send us a notification so we can update your accesss level.
+Now that you have GitHub account, and that you are part of our team, you can check-out our pledge [**here**](https://github.com/RealityBending/BrightOath). If the link doesn't work, **please send us a message** so we can update your accesss level.
 
 ### Create your first Github Pull Requests (PR)
 
@@ -289,6 +304,15 @@ We also build our experimental tasks using [Neuropsydia.py](https://github.com/n
 Therefore, it's important that you get familiar with the tool. Following are a few resources that we suggest to get you started:
 
 - [Get familiar with Python in 10 minutes](https://neurokit2.readthedocs.io/en/latest/start/learn_python.html)
+
+
+#### Setting-up Python
+
+1. Download VSCODE
+2. Download Python
+3. ...
+
+
 
 ### R
 

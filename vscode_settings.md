@@ -2,7 +2,23 @@
 
 ## Extensions
 
-...
+- Python
+- Python Extension Pack
+- Python Docstring Generator
+- GitHub Pull Requests and Issues
+- Jupyter
+- Jupyter Keymap
+- Jupyter Notebook Renderers
+- Markdown Preview Enhanced
+- markdownlint
+- Pylance
+- reStructuredText
+- Visual Studio IntelliCode
+- Code Runner
+- LaTex Workshop
+- Live Share (for collaborating with your team on vs code!)
+
+*and GitHub Copilot - sign up to be on the waitlist [here](https://github.com/features/copilot/signup)!*
 
 ## Settings
 

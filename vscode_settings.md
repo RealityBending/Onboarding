@@ -100,7 +100,7 @@
     "jupyter.widgetScriptSources": [
         "jsdelivr.com",
         "unpkg.com"
-    ].
+    ],
     "rewrap.autoWrap.enabled": true
 }
 ```

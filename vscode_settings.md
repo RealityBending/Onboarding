@@ -76,7 +76,7 @@
         // Matplotlib settings
         "plt.rcParams['figure.figsize'] = [19.2, 10.8]",
         "matplotlib.use('TkAgg')", // wxAgg, Qt5Agg
-        "%matplotlib auto", // widget
+        "%matplotlib qt5", // widget, auto
         // The following must be adapted based on your environment
         "sys.path.append('C:/Dropbox/RECHERCHE/N/NeuroKit/')",
         "import neurokit2 as nk"

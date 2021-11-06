@@ -77,10 +77,7 @@
         "matplotlib.use('TkAgg')", // wxAgg, Qt5Agg
         "%matplotlib auto", // widget
         // The following must be adapted based on your environment
-        "sys.path.append('C:/Dropbox/RealityBendingLab/Pyllusion/')",
         "sys.path.append('C:/Dropbox/RECHERCHE/N/NeuroKit/')",
-        "sys.path.append('C:/Dropbox/RECHERCHE/N/TruScanEEGpy/')",
-        "sys.path.append('C:/Dropbox/RECHERCHE/N/mne-python/')",
         "import neurokit2 as nk"
     ],
     "jupyter.askForKernelRestart": false,

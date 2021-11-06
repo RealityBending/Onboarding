@@ -17,6 +17,7 @@
 - Code Runner
 - LaTex Workshop
 - Live Share (for collaborating with your team on vs code!)
+- Rewrap
 
 *and GitHub Copilot - sign up to be on the waitlist [here](https://github.com/features/copilot/signup)!*
 
@@ -99,6 +100,7 @@
     "jupyter.widgetScriptSources": [
         "jsdelivr.com",
         "unpkg.com"
-    ]
+    ].
+    "rewrap.autoWrap.enabled": true
 }
 ```

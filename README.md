@@ -42,17 +42,18 @@ We rely on a lot of internal **communication** (about stuff more - or less - rel
 
 On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is *sort of* all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history).
 
-## Roadmap <sub>(01-09-2021)</sub>
+## Roadmap <sub>(01-04-2022)</sub>
 
 *Note: this roadmap is typically something that has to be updated by the team, it's our collective responsibility. So if you notice that it's outdated, do make a Pull Request (see below if you don't know what it is) to update it!*
 
 Here are the projects that our team is currently working on:
 
-- HRV and related stuff
 - EEG and related stuff
+- Physio processing and related stuff
 - Cognitive Control and all the above
-- Deception and all the above
-- Reality monitoring, fiction and fake news
+- Deception stuff
+- REBEL stuff: reality monitoring, fiction and fake news
+- NICE project (w/ Panos)
 - Other (illusions, methods, sotftware, etc.)
 
 

@@ -324,12 +324,13 @@ Therefore, it's important that you get familiar with the tool. Following are a f
 The bulk of our statistical analyses and manuscript preparation is done on R.
 
 At this point, you might ask why can't we just stick to one programming language? What is the point of learning both R and Python?
-The simple answer is that the two programming languages are basically different and one can be more powerful in one task than the other.
-This [**blog post** *(R or Python for Psychologists)*](https://dominiquemakowski.github.io/post/r_or_python/) will however give you a much more interesting answer to the above question.\
+The simple answer is that the two programming languages are basically different, and one can be better depending on the task.
+Read this [**blog post** *(R or Python for Psychologists)*](https://dominiquemakowski.github.io/post/r_or_python/) for a more in-depth discussion.
 
 Following are a few resources to get you started with R:
 
-- [Introduction to R](http://www.r-tutor.com/r-introduction)
+- [**Introduction to R**](http://www.r-tutor.com/r-introduction)
+- **Help us!** Know some good ressources that helped you! Please share it with us 
 
 # Some Final Words
 

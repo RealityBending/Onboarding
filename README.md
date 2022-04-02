@@ -78,11 +78,11 @@ We believe that the best way to start this journey is to get out there, listen t
 
 After creating an account, you can start by your **colleagues**:
 
-[@Dom_Makowski](https://twitter.com/Dom_Makowski)
-, [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
-, [@cblntu](https://twitter.com/cblntu)
-, [@anshu_te97](https://twitter.com/anshu_te97)
-, ***YOU?***
+- [@Dom_Makowski](https://twitter.com/Dom_Makowski)
+- [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
+- [@cblntu](https://twitter.com/cblntu)
+- [@anshu_te97](https://twitter.com/anshu_te97)
+- **YOU**
 
 We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). You can follow this **list** and **pin it** to quickly access it from your timeline (don't forget to make suggestions to update this list). You can then start following yourself the people that you like.
 
@@ -99,7 +99,7 @@ At first, you'll likely have to force yourself a bit to open and check twitter f
 
 Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates.
 
-- You can start by reading this post: [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/github_psychologists/)
+- You can start by reading this post: [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/2020-05-27-github_psychologists/)
 
 We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everything), and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*advice: do use a simple login like FirstnameSurname rather than something you might regret later* 😬), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, 3) star 🌟 it and 4) start using it as follows:
 
@@ -107,7 +107,12 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
   2. Select the **Introduce myself** template
   3. Answer the questions
   4. post it (we'll close it afterwards)
-  5. Follow us [@DominiqueMakowski](https://github.com/DominiqueMakowski), [@Tam-Pham](https://github.com/Tam-Pham), [@zen-juen](https://github.com/zen-juen)
+  5. **Follow us** (hit the follow button on the top right corner):
+  - [@RealityBending](https://github.com/RealityBending)
+  - [@ClinicalBrainLab](https://github.com/ClinicalBrainLab)
+  - [@DominiqueMakowski](https://github.com/DominiqueMakowski)
+  - [@anshu-97](https://github.com/anshu-97)
+  - **YOU**
 
 
 ### 4. Media recommendation
@@ -174,7 +179,7 @@ Here are some of our key papers that you can read.
 
 ### The Bright Oath
 
-Now that you have GitHub account, and that you are part of our team, you can check-out our pledge [**here**](https://github.com/RealityBending/BrightOath). If the link doesn't work, **please send us a message** so we can update your accesss level.
+Now that you have GitHub account, we need to set your authorizations to the various repositories that we have. Once you have been "set", you should be able to see this page [**here**](https://github.com/RealityBending/BrightOath). If the link doesn't work, **please send us a message** to remind us to update your accesss level.
 
 ### Create your first Github Pull Requests (PR)
 
@@ -182,10 +187,15 @@ As said earlier, **we use GitHub a lot**, so it's a pre-requisite that you acqui
 
 1. **Make a PR in this document here**
 
-The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hoold, this will create a fork of the Onboarding account under your repo. You can then edit the file. **For example, you can add your twitter handle in the "lab members" list in the section above**. Then, propose the change and see what happens.
+The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hoold, this will create a fork of the Onboarding account under your repo. You can then edit the file. **For example, you can add *your* twitter and GitHub handle in the "lab members" list in the sections above** (above the "You" placeholder). Then, propose the change and see what happens.
 
+2. **Create your own first repo**
 
-2. **Setting up your profile on the Clinical Braib Lab website**
+Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed:
+
+- [**To read: markdown introduction**](https://guides.github.com/activities/hello-world/)
+
+3. **Setting up your profile on the Clinical Braib Lab website**
 
 The second task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
 
@@ -223,12 +233,8 @@ Note that on GitHub (but also when writing research articles), we write in **mar
 
 - [**To read: markdown introduction**](https://guides.github.com/features/mastering-markdown/)
 
-3. **Create your own first repo**
 
-Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed:
-
-- [**To read: markdown introduction**](https://guides.github.com/activities/hello-world/)
-
+4. Further reading
 
 - [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)

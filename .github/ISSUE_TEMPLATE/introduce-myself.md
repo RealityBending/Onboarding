@@ -21,22 +21,22 @@ Batman
 
 - **Cats 🐱 or dogs 🐶?**
 
-cats
+bats
 
 - **Sport 🏅 or music 🎵?**
 
-sport
+driving fast with my batmobile
 
 - **Pizza 🍕 or sushi 🍣?**
 
-pizza
+batfood
 
 - **Wine 🍷 or tea 🧋?**
 
-wine
+the Joker's tears
 
 - **Favourite movie 🎦?** 
 
-Beauty and the Beast
+The Dark Knight
 
 

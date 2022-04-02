@@ -79,70 +79,14 @@ We believe that the best way to start this journey is to get out there, listen t
 After creating an account, you can start by your **colleagues**:
 
 [@Dom_Makowski](https://twitter.com/Dom_Makowski)
-, [@ZenJuen](https://twitter.com/ZenJuen)
-, [@tampham94](https://twitter.com/tampham94)
 , [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
 , [@cblntu](https://twitter.com/cblntu)
+, [@anshu_te97](https://twitter.com/anshu_te97)
+, ***YOU?***
 
-We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). Later, don't forget to make a **pull request** (wondering what is a *pull request*? Continue to read) to add on to the list your favourite accounts! Open them all in different tabs (`CTRL + Left Click`) and follow them **all** (even if you don't see any reason for it *at first*).
+We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). You can follow this **list** and **pin it** to quickly access it from your timeline (don't forget to make suggestions to update this list). You can then start following yourself the people that you like.
 
-[@BrianNosek](https://twitter.com/BrianNosek)
-, [@SachaEpskamp](https://twitter.com/SachaEpskamp)
-, [@micahgallen](https://twitter.com/micahgallen)
-, [@EikoFried](https://twitter.com/EikoFried)
-, [@AcademicChatter](https://twitter.com/AcademicChatter)
-, [@Neuro_Skeptic](https://twitter.com/Neuro_Skeptic)
-, [@neuropsychblog](https://twitter.com/neuropsychblog)
-, [@thoughtsofaphd](https://twitter.com/thoughtsofaphd)
-, [@ChelseaParlett](https://twitter.com/ChelseaParlett)
-, [@ProfAndyField](https://twitter.com/ProfAndyField)
-, [@KordingLab](https://twitter.com/KordingLab)
-, [@djnavarro](https://twitter.com/djnavarro)
-, [@dsquintana](https://twitter.com/dsquintana)
-, [@easystats4u](https://twitter.com/easystats4u)
-, [@PsyBrief](https://twitter.com/PsyBrief)
-, [@visceral_mind](https://twitter.com/visceral_mind)
-, [@Nate__Haines](https://twitter.com/Nate__Haines)
-, [@psychopy](https://twitter.com/psychopy)
-, [@GuyProchilo](https://twitter.com/GuyProchilo)
-, [@conscious_tlab](https://twitter.com/conscious_tlab)
-, [@jayvanbavel](https://twitter.com/jayvanbavel)
-, [@improbresearch](https://twitter.com/improbresearch)
-, [@chrisdc77](https://twitter.com/chrisdc77)
-, [@rlmcelreath](https://twitter.com/rlmcelreath)
-, [@michagaebler](https://twitter.com/michagaebler)
-, [@tjmahr](https://twitter.com/tjmahr)
-, [@hakwanlau](https://twitter.com/hakwanlau)
-, [@LFeldmanBarrett](https://twitter.com/LFeldmanBarrett)
-, [@patilindrajeets](https://twitter.com/patilindrajeets)
-, [@MicrobiomDigest](https://twitter.com/MicrobiomDigest)
-, [@BrianNosek](https://twitter.com/BrianNosek)
-, [@mattansb](https://twitter.com/mattansb)
-, [@APA](https://twitter.com/APA)
-, [@jonaslindeloev](https://twitter.com/jonaslindeloev)
-, [@thomasp85](https://twitter.com/thomasp85)
-, [@allison_horst](https://twitter.com/allison_horst)
-, [@strengejacke](https://twitter.com/strengejacke)
-, [@lakens](https://twitter.com/lakens)
-, [@GaelVaroquaux](https://twitter.com/GaelVaroquaux)
-, [@manos_tsakiris](https://twitter.com/manos_tsakiris)
-, [@ceptional](https://twitter.com/ceptional)
-, [@JeffRouder](https://twitter.com/JeffRouder)
-, [@EJWagenmakers](https://twitter.com/EJWagenmakers)
-, [@FarlKriston](https://twitter.com/FarlKriston)
-, [@TheStoicEmperor](https://twitter.com/TheStoicEmperor)
-, [@NeuroConsc](https://twitter.com/NeuroConsc)
-, [@anilkseth](https://twitter.com/anilkseth)
-, [@DrSFink](https://twitter.com/DrSFink)
-, [@hadleywickham](https://twitter.com/hadleywickham)
-, [@PHDcomics](https://twitter.com/PHDcomics)
-, [@NeuroscienceNew](https://twitter.com/NeuroscienceNew)
-, [@itjohnstone](https://twitter.com/itjohnstone)
-, [@KnowNeuropsych](https://twitter.com/KnowNeuropsych)
-, [@SolomonKurz](https://twitter.com/SolomonKurz)
-, [@HirstRj](https://twitter.com/HirstRj)
-, ...
-
+- **Reality Bending Twitter List**: https://twitter.com/i/lists/1509796111724134401
 
 At first, you'll likely have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
 
@@ -236,9 +180,14 @@ Now that you have GitHub account, and that you are part of our team, you can che
 
 As said earlier, **we use GitHub a lot**, so it's a pre-requisite that you acquire this skill. However, it's quite tricky to get familiar and comfortable with it (even we struggle sometimes), and I'd say it's one of the most complicated thing you'll have to learn. But you cannot learn if you don't try, break things and succeed.
 
-1. **Setting up your profile on the lab website**
+1. **Make a PR in this document here**
 
-The first task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
+The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hoold, this will create a fork of the Onboarding account under your repo. You can then edit the file. **For example, you can add your twitter handle in the "lab members" list in the section above**. Then, propose the change and see what happens.
+
+
+2. **Setting up your profile on the Clinical Braib Lab website**
+
+The second task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
 
 - **Step 1: Fork the website repository**
   - Go to the (Github Page Repository of Clinical Brain Lab)[https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io]
@@ -274,20 +223,12 @@ Note that on GitHub (but also when writing research articles), we write in **mar
 
 - [**To read: markdown introduction**](https://guides.github.com/features/mastering-markdown/)
 
-2. **Create your own first repo**
+3. **Create your own first repo**
 
 Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed:
 
 - [**To read: markdown introduction**](https://guides.github.com/activities/hello-world/)
 
-3. **Make a PR in this document here**
-
-Now that you have a better idea of GitHub, time to create a PR to add something to the Onboarding repository (this one). You can for example:
-
-  - Fix a typo in this document
-  - Add some recommended good movies/reads
-  - Clarify some sections
-  - ...
 
 - [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)

@@ -189,15 +189,19 @@ As said earlier, **we use GitHub a lot**, so it's a pre-requisite that you acqui
 
 The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hoold, this will create a fork of the Onboarding account under your repo. You can then edit the file. **For example, you can add *your* twitter and GitHub handle in the "lab members" list in the sections above** (above the "You" placeholder). Then, propose the change and see what happens.
 
+- **To Read**: [markdown introduction](https://guides.github.com/activities/hello-world/)
+
 2. **Create your own first repo**
 
-Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed:
+Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed: We recommend starting with a README page that will serve as your profile page.
 
-- [**To read: markdown introduction**](https://guides.github.com/activities/hello-world/)
+- **To Read**: [Creating and customizing your profile README page](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+)
 
+- 
 3. **Setting up your profile on the Clinical Braib Lab website**
 
-The second task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
+The next task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
 
 - **Step 1: Fork the website repository**
   - Go to the (Github Page Repository of Clinical Brain Lab)[https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io]

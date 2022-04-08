@@ -82,6 +82,7 @@ After creating an account, you can start by your **colleagues**:
 - [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
 - [@cblntu](https://twitter.com/cblntu)
 - [@anshu_te97](https://twitter.com/anshu_te97)
+- [@MaxNgoi](https://twitter.com/MaxNgoi)
 - **YOU**
 
 We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). You can follow this **list** and **pin it** to quickly access it from your timeline (don't forget to make suggestions to update this list). You can then start following yourself the people that you like.
@@ -112,6 +113,7 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
   - [@ClinicalBrainLab](https://github.com/ClinicalBrainLab)
   - [@DominiqueMakowski](https://github.com/DominiqueMakowski)
   - [@anshu-97](https://github.com/anshu-97)
+  - [@Max-ZiLiang](https://github.com/Max-ZiLiang)
   - **YOU**
 
 
@@ -199,7 +201,7 @@ Now, create your first repository! You can leave it mostly empty for now, it's j
 )
 
 - 
-3. **Setting up your profile on the Clinical Braib Lab website**
+3. **Setting up your profile on the Clinical Brain Lab website**
 
 The next task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
 

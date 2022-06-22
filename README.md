@@ -42,6 +42,14 @@ We rely on a lot of internal **communication** (about stuff more - or less - rel
 
 On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is *sort of* all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history).
 
+## Reality Bending
+
+For those joining the **Reality Bending** Team (REBEL), we recommend reading a few posts to better understand the team's scope and history:
+
+- [Rebel research themes](https://realitybending.github.io/research/)
+- [REBEL logo symbolism](https://realitybending.github.io/post/2021-06-30-logo_meaning/)
+- [What is reality bending](https://realitybending.github.io/post/2020-09-28-what_is_realitybending/)
+
 ## Roadmap <sub>(01-04-2022)</sub>
 
 *Note: this roadmap is typically something that has to be updated by the team, it's our collective responsibility. So if you notice that it's outdated, do make a Pull Request (see below if you don't know what it is) to update it!*

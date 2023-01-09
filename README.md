@@ -8,39 +8,34 @@ The goal of this document is first and foremost to help you acquire the **same f
 
 This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
 
+## Our vision
+
+Our team in centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**.
+
+We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open-science**, i.e., working open by sharing our code, documentation, data and expertise.
+
+On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is sort of all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). This means I expect you to become familiar. Of course, some of it (typical, clinical skills) might not be feasible given the project / the grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
+
+## Work Schedule and Work-life Balance
+
+We value and believe in individuality. Everybody has their own prefered organization and other life prerogatives. Some are night owlers and some are early birds, some have day hobbies and some have night passions, some have other people to take care of (children, parents, ...) and some have themselves. We should not expect each others to work from 9-5 everyday. I sometimes will send emails on the evening or on the weekends. That does not mean you should check them: do work when you decided to. If by any chance something is super urgent, I would make it explicit by preempting the message with [URGENT] (note that it never happened to this day).
 
 ## Questions & Answers
-
-> **I feel a bit lost**
-
-Send us a message, we're likely unaware of that!
 
 > **I'm not sure what I should do and what my tasks are**
 
 Send us a message, we're likely unaware of that!
 
-> **There's too much work for me**
+> **There's too much work for me** or **There's not enough work for me**
 
 Send us a message, we're likely unaware of that!
 
-> **There's not enough work for me**
-
-Send us a message, we're likely unaware of that!
-
-In short, for any reason, **do not hestitate to drop us a message!** Communication is key. Otherwise any unadressed issue can build up and create unnecessary stress or problems. 
+In summary, for any reason, **do not hestitate to drop us a message!** Communication is key. Otherwise any unadressed issue can build up and create unnecessary stress or problems. 
 
 > **I sent a message but nobody answered...**
 
 Send us a reminder (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things. It's not against you, and we'll be thankful that you reminded us. 
 
-
-## Our vision
-
-Our team in centred around core values such as **teamwork**, continuous **learning**, **friendly** environment and **aiming for the top**.
-
-We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open-science**, i.e., working open by sharing our code, documentation, data and expertise.
-
-On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is *sort of* all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history).
 
 ## Reality Bending
 
@@ -50,11 +45,11 @@ For those joining the **Reality Bending** Team (REBEL), we recommend reading a f
 - [REBEL logo symbolism](https://realitybending.github.io/post/2021-06-30-logo_meaning/)
 - [What is reality bending](https://realitybending.github.io/post/2020-09-28-what_is_realitybending/)
 
-## Roadmap <sub>(01-04-2022)</sub>
+<!-- ## Roadmap <sub>(updated 09-01-2023)</sub> -->
 
-*Note: this roadmap is typically something that has to be updated by the team, it's our collective responsibility. So if you notice that it's outdated, do make a Pull Request (see below if you don't know what it is) to update it!*
+<!-- *Note: this roadmap is typically something that has to be updated by the team, it's our collective responsibility. So if you notice that it's outdated, do make a Pull Request (see below if you don't know what it is) to update it!*
 
-Here are the projects that our team is currently working on:
+Here are the projects that our team is currently working on and that you might hear about:
 
 - EEG and related stuff
 - Physio processing and related stuff
@@ -62,7 +57,7 @@ Here are the projects that our team is currently working on:
 - Deception stuff
 - REBEL stuff: reality monitoring, fiction and fake news
 - NICE project (w/ Panos)
-- Other (illusions, methods, sotftware, etc.)
+- Other (illusions, methods, sotftware, etc.) -->
 
 
 ## 📆 Day 1: Enter the world

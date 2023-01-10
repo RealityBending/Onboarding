@@ -18,7 +18,7 @@ On a more abstract level, I believe in what I call the **three-fold neuropsychol
 
 ## Work Schedule and Work-life Balance
 
-We value and believe in individuality. Everybody has their own prefered organization and other life prerogatives. Some are night owlers and some are early birds, some have day hobbies and some have night passions, some have other people to take care of (children, parents, ...) and some have themselves. We should not expect each others to work from 9-5 everyday. I sometimes will send emails on the evening or on the weekends. That does not mean you should check them: do work when you decided to. If by any chance something is super urgent, I would make it explicit by preempting the message with [URGENT] (note that it never happened to this day).
+We value and believe in individuality. Everybody has their own prefered organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions, some have other people to take care of (children, parents, ...) and some have themselves. We should not expect each others to work regularly from 9-5 everyday, or to be available at all times. I will sometimes send emails on the evening or on the weekends. That does **not** mean you should check them: do work when you decide to and aim for a varied lifestyle. If by any chance something is super urgent, I'll make it explicit by preempting the message with [URGENT] (but it never happened so far).
 
 ## Questions & Answers
 

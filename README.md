@@ -30,11 +30,11 @@ Send us a message and let us know, we're likely unaware of that!
 
 Send us a message and let us know, we're likely unaware of that!
 
-In summary, for any reason, **do not hestitate to drop us a message!** Communication is key. Otherwise any unadressed issue can build up and create unnecessary stress or problems. 
+In summary, for any reason, **do not hestitate to drop us a message!** Communication is key. Otherwise any unadressed issue can build up and create unnecessary stress or problems.
 
 > **I sent a message but nobody answered...**
 
-Don't hesitate to send us a **reminder** (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things. It's not against you, and we'll be thankful that you reminded us. 
+Don't hesitate to send us a **reminder** (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things. It's not against you, and we'll be thankful that you reminded us.
 
 
 ## Reality Bending
@@ -64,39 +64,41 @@ Do whatever is required on the admin side, complete the ethical certification, t
 
 ### 3. Get connected
 
-It might not be good news if you're an introvert that prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage publicly with the world of research. 
+It might not be good news if you're an introvert that prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage openly with the world of research.
+
+#### 🗣️ **Discord**
+
+We use Discord as an internal communication channel. Do ask for the invite link if you don't receive one.
+
 
 #### 🐦 **Twitter**
 
-We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [Twitter](https://twitter.com/home) is a good platform to do it 😉 Many researchers use it to share and summarize their new studies and projects, recruit participants or advertise positions. So you can easily keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
+We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [**Twitter**](https://twitter.com/home) is a good platform to do it 😉 Many researchers use it to share and summarize their new studies and projects, recruit participants or advertise positions. So you can easily keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
 
 After creating an account, you can start by your **colleagues**:
 
+- [@RealityBending_](https://twitter.com/RealityBending_)
 - [@Dom_Makowski](https://twitter.com/Dom_Makowski)
-- [@DrAnnabelChen](https://twitter.com/DrAnnabelChen)
-- [@cblntu](https://twitter.com/cblntu)
-- [@anshu_te97](https://twitter.com/anshu_te97)
-- [@MaxNgoi](https://twitter.com/MaxNgoi)
-- **YOU**
+- **ADD YOURSELF**
 
 We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). You can follow this **list** and **pin it** to quickly access it from your timeline (don't forget to make suggestions to update this list). You can then start following yourself the people that you like.
 
 - **Reality Bending Twitter List**: https://twitter.com/i/lists/1509796111724134401
 
-At first, you'll likely have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
+At first, you'll likely have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite tab and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
 
 #### 👨‍🔬 **ResearchGate**
 
-[ResearchGate](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also post and answer questions, as well as recommend certain works! So create an account and start following us and the researchers you like.
+[**ResearchGate**](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also **access articles**, post and answer questions, as well as recommend certain works! So do create an account and start following us and the researchers you like. I will add you to the [Lab page](https://www.researchgate.net/lab/Reality-Bending-Lab-ReBeL-Dominique-Makowski).
 
 
 #### :octocat: **GitHub**
 
-Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates.
+The last app that we use, and probably the most important, is GitHub. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates.
 
 - You can start by reading this post: [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/2020-05-27-github_psychologists/)
 
-We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everything), and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*advice: do use a simple login like FirstnameSurname rather than something you might regret later* 😬), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, 3) star 🌟 it and 4) start using it as follows:
+We are using GitHub for ***a lot*** of stuff (like pretty much for everything, storing data, writing papers, projects, ...), and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*advice: use a simple login like FirstnameSurname rather than something you might regret later* 😬), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, 3) star 🌟 it and 4) start using it as follows:
 
   1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   2. Select the **Introduce myself** template
@@ -104,11 +106,8 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
   4. post it (we'll close it afterwards)
   5. **Follow us** (hit the follow button on the top right corner):
   - [@RealityBending](https://github.com/RealityBending)
-  - [@ClinicalBrainLab](https://github.com/ClinicalBrainLab)
   - [@DominiqueMakowski](https://github.com/DominiqueMakowski)
-  - [@anshu-97](https://github.com/anshu-97)
-  - [@Max-ZiLiang](https://github.com/Max-ZiLiang)
-  - **YOU**
+  - **ADD YOURSELF**
 
 
 ### 4. Media recommendation
@@ -122,18 +121,12 @@ We are using GitHub a lot for ***a lot*** of stuff (like pretty much for everyth
 
 ##### Consciousness
 
-<a href="https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872"><img src="https://m.media-amazon.com/images/I/41HlTqiDtGS.jpg" height="300" alt = "Being You : A New Science of Consciousness (Anil Seth)"/></a> <a href="https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924"><img src="https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262534925%26type%3D.jpg" height="300" alt = "The Illusion of Conscious Will (Daniel M. Wegner)"/> </a> <a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952385l/13557108.jpg" height="300" alt = "Consciousness: Confessions of a Romantic Reductionist (Christof Koch)"/></a> <a href="https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Strageloop.jpg/220px-Strageloop.jpg" height="300" alt = "I Am a Strange Loop (Douglas Hofstadter)"/></a>
+<a href="https://www.amazon.co.uk/Experience-Machine-Minds-Predict-Reality/dp/024139452X"><img src="https://m.media-amazon.com/images/I/51UeZYkoWML._SX344_BO1,204,203,200_.jpg" height="300" alt = "The Experience Machine: How Our Minds Predict and Shape Reality (Andy Clark)"/></a><a href="https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872"><img src="https://m.media-amazon.com/images/I/41HlTqiDtGS.jpg" height="300" alt = "Being You : A New Science of Consciousness (Anil Seth)"/></a> <a href="https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924"><img src="https://m.media-amazon.com/images/I/81BvhldVfvL._AC_UF1000,1000_QL80_.jpg" height="300" alt = "The Illusion of Conscious Will (Daniel M. Wegner)"/> </a> <a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952385l/13557108.jpg" height="300" alt = "Consciousness: Confessions of a Romantic Reductionist (Christof Koch)"/></a> <a href="https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Strageloop.jpg/220px-Strageloop.jpg" height="300" alt = "I Am a Strange Loop (Douglas Hofstadter)"/></a>
 
 ##### Clinical Neuropsychology / Psychopathology / Psychotherapy
 
 <a href="https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0593466675/"><img src="https://m.media-amazon.com/images/I/418VetIlpTL.jpg" height="300" alt = "The Man Who Mistook His Wife for a Hat (Oliver Sacks)"/></a> <a href="https://www.amazon.com/Schopenhauer-Cure-Novel-Irvin-Yalom/dp/0060938102"><img src="https://images-na.ssl-images-amazon.com/images/I/71L2DHjmnQS.jpg" height="300" alt = "The Schopenhauer Cure (Irvin Yalom)"/></a>
 
-
-##### Others
-
-- Thinking Fast and Slow (Daniel Kahneman)
-- The Art of Thinking Clearly (Rolf Dobelli)
-- ...
 
 #### Papers
 
@@ -173,59 +166,62 @@ Here are some of our key papers that you can read.
 ## 📆 Day 2: Get familiar with the workflow
 
 
-### The Bright Oath
-
-Now that you have GitHub account, we need to set your authorizations to the various repositories that we have. Once you have been "set", you should be able to see this page [**here**](https://github.com/RealityBending/BrightOath). If the link doesn't work, **please send us a message** to remind us to update your accesss level.
-
 ### Create your first Github Pull Requests (PR)
 
-As said earlier, **we use GitHub a lot**, so it's a pre-requisite that you acquire this skill. However, it's quite tricky to get familiar and comfortable with it (even we struggle sometimes), and I'd say it's one of the most complicated thing you'll have to learn. But you cannot learn if you don't try, break things and succeed.
+As said earlier, **we use GitHub a lot**, so it's key that you acquire this complicated skill. However, it's quite tricky to get familiar and comfortable with it (even we struggle sometimes), and I'd say it's one of the most complicated thing you'll have to learn. But you cannot learn if you don't try, break things and succeed.
 
-1. **Make a PR in this document here**
 
-The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hoold, this will create a fork of the Onboarding account under your repo. You can then edit the file. **For example, you can add *your* twitter and GitHub handle in the "lab members" list in the sections above** (above the "You" placeholder). Then, propose the change and see what happens.
-
-- **To Read**: [markdown introduction](https://guides.github.com/activities/hello-world/)
-
-2. **Create your own first repo**
+1. **Create your own first repo**
 
 Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed: We recommend starting with a README page that will serve as your profile page.
 
 - **To Read**: [Creating and customizing your profile README page](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 )
 
-- 
-3. **Setting up your profile on the Clinical Brain Lab website**
+2. **Make a PR in this document here**
 
-The next task is to set-up your profile on the [lab website](http://clinicalbrainlab.github.io).
+The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hoold, this will create a fork of the Onboarding account under your repo. You can then edit the file. **For example, you can add *your* twitter and GitHub handle in the "lab members" list in the sections above** (above the "You" placeholder). Then, propose the change and see what happens.
+
+- **To Read**: [markdown introduction](https://guides.github.com/activities/hello-world/)
+
+
+3. **Setting up your profile on the REBEL website**
+
+The next task is to set-up your profile on the [lab website](https://realitybending.github.io/people/).
 
 - **Step 1: Fork the website repository**
-  - Go to the (Github Page Repository of Clinical Brain Lab)[https://github.com/ClinicalBrainLab/clinicalbrainlab.github.io]
-  - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account.
+    - Go to the [Github Repository of website](https://github.com/RealityBending/RealityBending.github.io)
+    - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account.
+    - After a few minutes of waiting, you should now see a repository with a name of `your-username/RealityBending.github.io`.
 
-    ![fork](https://github.com/neuropsychology/Onboarding/blob/master/img/fork-repo.png)
+- **Step 2: Understand how a profile is made**
+    - In your newly *copied* repository, navigate to the folder `your-username/RealityBending.github.io/content`. This is where all the content of the website is stored.
+    - Click on the `people` folder. As you can see, each member has a folder (in lower case with a hyphen instead of spaces).
+    - Explore one of these folder, for instance Gandalf's. It includes two files, *_index.md* file (The extension *.md* stands for **markdown**) and an image file named `avatar`.
+    - Click on the .md file, and then on the **raw** button (on the right) to see the raw file (as a notepad would see).
+    - The index file contains all the information, and is organized into a YAML header (delimited by 3 dashes ---) and then some text.
 
-   -  After a few minutes of waiting, you should now see a repository with a name of `your-username/clinicalbrainlab.github.io`.
 
- - **Step 2: Add your profile to the website**
-   - In your newly *copied* repository, navigate to the folder `your-username/clinicalbrainlab.github.io/content`. This is where all the concent of the website is stored.
-   - Can you guess which file is the one storing the profiles of our lab members? By intuition or by try-and-error, you should now click on the file `people` folder and look for the *.Rmd* file that you belong to (e.g. Research Fellows, Undergraduate Student etc). The extension *.Rmd* stands for **markdown** (or more specifically **R markdown** here). Don't worry too much if you are not familiar with the term. Read on!
-   - By reading through the `.Rmd` file, you can see that it's just like any another word document (except more powerful ^^). The "#" is used to create the sections. You should now click on the *pencil* symbol at the top of the document to start editing.
-   - If you can't find a *.Rmd* file in the `people` folder that accurately captures your role in the lab, do not hesitate to create a new one!
-   - Now, you can simply look at what is being written under the name of other members, copy it, and customize the section to make it yours!
+- **Step 2: Add your profile to the website**
 
-  - **Step 3: Add your profile picture**
-    - The very last step for you to customize your profile is to add a picture of yourself. Did you see this strange-looking line `<img src="/img/someone-name.jpg" alt="someone-name" width="25%" align="left" hspace=20" vspace="20"><br />`? This line helps to add your picture to your profile.
-    - Look for that one picture of yourself that you look the most amazing and upload it to the `your-username/clinicalbrainlab.github.io/static/img` folder. You can name the file with a simple name e.g. your-name 😊
-    - Go back to the `people.Rmd` file and in that strange-looking line, replace `someone-name.jpg` with the name of your picture file and its extension. So that it knows where to look for your picture.
+    - Now that you understood how a profile is made, create on your computer a folder named `firstname-surname` (replace accordingly).
+    - In this folder, put your profile pic and name it `avatar`.
+    - Create a new text file named `_index` and replace the extension so that it's `.md` instead of `.txt` (google how to see file extensions if you're on windows and don't have it activated).
+    - Open it with any raw text editor like notebook or RStudio or VScode (but not Word!).
+    - Replace the text for something that applies to you.
 
-  - **Step 4: Make a Pull Request**
-    - You are almost finished! Go back to `your-username/clinicalbrainlab.github.io` main page to look for the *Pull Rquest* sign. Click on it.
+- **Step 3: Commit to your fork**
 
-      ![PR](https://github.com/neuropsychology/Onboarding/blob/master/img/PR.png)
+    - On the `your-username/RealityBending.github.io/contentauthors/` page, you should click on **Add file** (on the right) and then **Upload files**.
+    - Drag and drop your folder and click **"commit"**. You can add a commit message such as "Added my profile"/
+    - You should see the folder that you just created at `https://github.com/your-username/RealityBending.github.io/tree/main/content/authors/MY-NEW-FOLDER`
 
-    - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/clinicalbrainlab.github.io"* to the **original** repository *clinicalbrainlab/clinicalbrainlab.github.io"*. Please make sure that the base is `sources`.
-    - All the left for you to do is to click on that shiny green button to update your changes to the original repository.
+- **Step 4: Make a Pull Request**
+
+    - Great, you added the files to your own copy of the website. But now we need to merge these changes into the **original** repository.
+    - Look for the *Pull Rquest* sign. Click on it.
+    - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/RealityBending.github.io"* to the **original** repository *RealityBending/RealityBending.github.io"*.
+    - All the left for you to do is to click on that shiny green button to create the pull request (PR). Your profile will appear on the website as soon as an administrator validates the PR.
 
 Congratulations! You have successfully updated your profile on our website!
 
@@ -234,7 +230,7 @@ Note that on GitHub (but also when writing research articles), we write in **mar
 - [**To read: markdown introduction**](https://guides.github.com/features/mastering-markdown/)
 
 
-4. Further reading
+1. Further reading
 
 - [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)
@@ -278,7 +274,7 @@ Read this [**blog post** *(R or Python for Psychologists)*](https://dominiquemak
 Following are a few resources to get you started with R:
 
 - [**Introduction to R**](http://www.r-tutor.com/r-introduction)
-- **Help us!** Know some good ressources that helped you! Please share it with us 
+- **Help us!** Know some good ressources that helped you! Please share it with us
 
 # Some Final Words
 

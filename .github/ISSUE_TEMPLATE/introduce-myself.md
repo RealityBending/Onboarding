@@ -13,13 +13,15 @@ So for starters, let's create an issue to answer a few questions!
 
 Best is to remove all of this pre-written text, and just leave the questions and your answers :relaxed:
 
+Use this as an opportunity to showcase your [**markdown (MD)**](https://www.markdownguide.org/cheat-sheet/) skills by using bold, italic and whatnot.
+
 ----
 
-- **What's your name?** (or more specifically, what do you want us to call you) 
+- **What's your name?** (or more specifically, what do you want us to call you)
 
 Batman
 
-- **Cats 🐱 or dogs 🐶?**
+- **Catos 🐱 or doggos 🐶?**
 
 bats
 
@@ -31,11 +33,11 @@ driving fast with my batmobile
 
 batfood
 
-- **Wine 🍷 or tea 🧋?**
+- **Wine 🍷 or beer 🧋?**
 
-the Joker's tears
+Joker's tears
 
-- **Favourite movie 🎦?** 
+- **Favourite movie 🎦?**
 
 The Dark Knight
 

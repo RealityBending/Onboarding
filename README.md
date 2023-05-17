@@ -202,7 +202,7 @@ The next task is to set-up your profile on the [lab website](https://realitybend
     - The index file contains all the information, and is organized into a YAML header (delimited by 3 dashes ---) and then some text.
 
 
-- **Step 2: Add your profile to the website**
+- **Step 3: Add your profile to the website**
 
     - Now that you understood how a profile is made, create on your computer a folder named `firstname-surname` (replace accordingly).
     - In this folder, put your profile pic and name it `avatar`.
@@ -210,13 +210,13 @@ The next task is to set-up your profile on the [lab website](https://realitybend
     - Open it with any raw text editor like notebook or RStudio or VScode (but not Word!).
     - Replace the text for something that applies to you.
 
-- **Step 3: Commit to your fork**
+- **Step 4: Commit to your fork**
 
     - On the `your-username/RealityBending.github.io/contentauthors/` page, you should click on **Add file** (on the right) and then **Upload files**.
     - Drag and drop your folder and click **"commit"**. You can add a commit message such as "Added my profile"/
     - You should see the folder that you just created at `https://github.com/your-username/RealityBending.github.io/tree/main/content/authors/MY-NEW-FOLDER`
 
-- **Step 4: Make a Pull Request**
+- **Step 5: Make a Pull Request**
 
     - Great, you added the files to your own copy of the website. But now we need to merge these changes into the **original** repository.
     - Look for the *Pull Rquest* sign. Click on it.
@@ -230,7 +230,7 @@ Note that on GitHub (but also when writing research articles), we write in **mar
 - [**To read: markdown introduction**](https://guides.github.com/features/mastering-markdown/)
 
 
-1. Further reading
+Further reading.
 
 - [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)

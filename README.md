@@ -4,60 +4,49 @@
 
 **Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful (though keep in mind that it's in a work-in-progress state).
 
-The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day 😉
+The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. **Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day** 😉
 
 This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
 
 ## Our vision
 
-Our team in centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**.
+Our team in centered around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**.
 
 We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open-science**, i.e., working open by sharing our code, documentation, data and expertise.
 
-On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is sort of all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psycho-pathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). This means I expect you to become familiar. Of course, some of it (typical, clinical skills) might not be feasible given the project / the grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
+On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is sort of all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psychopathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). This means I expect you to become familiar. Of course, some of it (typically, clinical skills) might not be feasible given the project / grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
 
 ## Work Schedule and Work-life Balance
 
-We value and believe in individuality. Everybody has their own prefered organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions, some have other people to take care of (children, parents, ...) and some have themselves. We should not expect each others to work regularly from 9-5 everyday, or to be available at all times. I will sometimes send emails on the evening or on the weekends. That does **not** mean you should check them: do work when you decide to and aim for a varied lifestyle. If by any chance something is super urgent, I'll make it explicit by preempting the message with [URGENT] (but it never happened so far).
+We value and believe in individuality. Everybody has their own prefered organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions; some have other people to take care of (children, parents, ...) and some have themselves (which can be a lot). We should not expect each others to work regularly from 9-5 everyday, or to be available at all times. **I will sometimes send emails on the evening or on the weekends**, because that's how I work. That does **not** mean you should check or reply immediately: do work when you decide to and aim for a varied lifestyle. If by any chance something is super urgent, I'll make it explicit by preempting the message with [URGENT] (but it never happened so far).
 
 ## Questions & Answers
 
-> **I'm not sure what I should do and what my tasks are**
+> **I'm not sure what I should do and what my tasks are / I feel kinda lost**
 
-Send us a message, we're likely unaware of that!
+Send us a message and let us know, we're likely unaware of that!
 
 > **There's too much work for me** or **There's not enough work for me**
 
-Send us a message, we're likely unaware of that!
+Send us a message and let us know, we're likely unaware of that!
 
 In summary, for any reason, **do not hestitate to drop us a message!** Communication is key. Otherwise any unadressed issue can build up and create unnecessary stress or problems. 
 
 > **I sent a message but nobody answered...**
 
-Send us a reminder (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things. It's not against you, and we'll be thankful that you reminded us. 
+Don't hesitate to send us a **reminder** (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things. It's not against you, and we'll be thankful that you reminded us. 
 
 
 ## Reality Bending
 
-For those joining the **Reality Bending** Team (REBEL), we recommend reading a few posts to better understand the team's scope and history:
+For those joining the **Reality Bending Lab** (REBEL), we recommend reading a few posts to better understand the team's scope and history:
 
 - [Rebel research themes](https://realitybending.github.io/research/)
-- [REBEL logo symbolism](https://realitybending.github.io/post/2021-06-30-logo_meaning/)
+- [REBEL logo symbolism]([https://realitybending.github.io/post/2021-06-30-logo_meaning/](https://realitybending.github.io/post/2023-02-01-new_logo/))
 - [What is reality bending](https://realitybending.github.io/post/2020-09-28-what_is_realitybending/)
+- [Affective Reality Theory](https://realitybending.github.io/post/2023-04-11-affectivereality/)
 
 <!-- ## Roadmap <sub>(updated 09-01-2023)</sub> -->
-
-<!-- *Note: this roadmap is typically something that has to be updated by the team, it's our collective responsibility. So if you notice that it's outdated, do make a Pull Request (see below if you don't know what it is) to update it!*
-
-Here are the projects that our team is currently working on and that you might hear about:
-
-- EEG and related stuff
-- Physio processing and related stuff
-- Cognitive Control and all the above
-- Deception stuff
-- REBEL stuff: reality monitoring, fiction and fake news
-- NICE project (w/ Panos)
-- Other (illusions, methods, sotftware, etc.) -->
 
 
 ## 📆 Day 1: Enter the world
@@ -68,12 +57,14 @@ Alright, here's the big day! First, take the time to settle in your space. Pay a
 
 ### 2. Get the Admin done
 
-Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc. Specifically at NTU, this often involves completing short courses online:
+Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc.
 
-- [ ] CITI Certification (on ethics and integrity in research)
-- [ ] WorkDay mandatory courses (if you are an employee) that pop up from time to time
+- [ ] Ethics Certification (on ethics and integrity in research)
+- [ ] University mandatory courses (if you are an employee)
 
 ### 3. Get connected
+
+It might not be good news if you're an introvert that prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage publicly with the world of research. 
 
 #### 🐦 **Twitter**
 

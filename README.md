@@ -42,7 +42,7 @@ Don't hesitate to send us a **reminder** (after a reasonable time). There's usua
 For those joining the **Reality Bending Lab** (REBEL), we recommend reading a few posts to better understand the team's scope and history:
 
 - [Rebel research themes](https://realitybending.github.io/research/)
-- [REBEL logo symbolism]([https://realitybending.github.io/post/2021-06-30-logo_meaning/](https://realitybending.github.io/post/2023-02-01-new_logo/))
+- [REBEL logo symbolism](https://realitybending.github.io/post/2023-02-01-new_logo/)
 - [What is reality bending](https://realitybending.github.io/post/2020-09-28-what_is_realitybending/)
 - [Affective Reality Theory](https://realitybending.github.io/post/2023-04-11-affectivereality/)
 

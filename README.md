@@ -112,6 +112,30 @@ We are using GitHub for ***a lot*** of stuff (like pretty much for everything, s
 
 ### 4. Media recommendation
 
+#### Philosophy Comics
+
+Small funny reads that say a lot about important philosophical ideas. My personal favourites (don't forget to read the little explanation at the bottom of each comic):
+
+- [Utility Monster](https://existentialcomics.com/comic/8)
+- [What is the Sublime](https://existentialcomics.com/comic/18)
+- [The Sublime and Sandwiches](https://existentialcomics.com/comic/160)
+- [Mad Marx](https://existentialcomics.com/comic/186)
+- [Sorry! And the Nature of Suffering](https://existentialcomics.com/comic/102)
+- [Fallacy Man](https://existentialcomics.com/comic/9)
+- [Fallacy Man II](https://existentialcomics.com/comic/21)
+
+Our lab hero, Captain Metaphysics:
+
+- [Captain Metaphysics and the Ghost in the Machine](https://existentialcomics.com/comic/47)
+- [Captain Metaphysics and the Mereological Monster](https://existentialcomics.com/comic/57)
+- [Captain Metaphysics and the Wizard of Elea](https://existentialcomics.com/comic/82)
+- [Captain Metaphysics and the Ship of Theseus](https://existentialcomics.com/comic/121)
+- [Captain Metaphysics and the Extreme Skeptic](https://existentialcomics.com/comic/143)
+- [Captain Metaphysics and the Postmodern Peril](https://existentialcomics.com/comic/182)
+- [Captain Metaphysics and the Problem of Language](https://existentialcomics.com/comic/198)
+- [Captain Metaphysics and the Swampman](https://existentialcomics.com/comic/270)
+- [Captain Metaphysics and the Philosophical Zombie](https://existentialcomics.com/comic/369)
+
 
 #### General Neuroscience/Psychology Books
 

@@ -79,7 +79,7 @@ After creating an account, you can start by your **colleagues**:
 
 - [@RealityBending_](https://twitter.com/RealityBending_)
 - [@Dom_Makowski](https://twitter.com/Dom_Makowski)
-- **ADD YOURSELF**
+- [@JingxiongXu](https://twitter.com/jingurso)
 
 We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). You can follow this **list** and **pin it** to quickly access it from your timeline (don't forget to make suggestions to update this list). You can then start following yourself the people that you like.
 
@@ -107,7 +107,7 @@ We are using GitHub for ***a lot*** of stuff (like pretty much for everything, s
   5. **Follow us** (hit the follow button on the top right corner):
   - [@RealityBending](https://github.com/RealityBending)
   - [@DominiqueMakowski](https://github.com/DominiqueMakowski)
-  - **ADD YOURSELF**
+  - [@JingxiongXu](https://github.com/JingxiongXu)
 
 
 ### 4. Media recommendation

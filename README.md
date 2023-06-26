@@ -116,11 +116,12 @@ We are using GitHub for ***a lot*** of stuff (like pretty much for everything, s
 
 Small funny reads that say a lot about important philosophical ideas. My personal favourites (don't forget to read the little explanation at the bottom of each comic):
 
-- [Utility Monster](https://existentialcomics.com/comic/8)
+- [Descartes' Demon](https://existentialcomics.com/comic/81)
+- [Sorry! And the Nature of Suffering](https://existentialcomics.com/comic/102)
 - [What is the Sublime](https://existentialcomics.com/comic/18)
 - [The Sublime and Sandwiches](https://existentialcomics.com/comic/160)
 - [Mad Marx](https://existentialcomics.com/comic/186)
-- [Sorry! And the Nature of Suffering](https://existentialcomics.com/comic/102)
+- [Utility Monster](https://existentialcomics.com/comic/8)
 - [Fallacy Man](https://existentialcomics.com/comic/9)
 - [Fallacy Man II](https://existentialcomics.com/comic/21)
 

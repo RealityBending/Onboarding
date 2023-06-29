@@ -10,9 +10,9 @@ This guide has been crafted by all **past and current members of the team**. It'
 
 ## Our vision
 
-Our team in centered around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**.
+Our team's ethos is centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**.
 
-We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open-science**, i.e., working open by sharing our code, documentation, data and expertise.
+We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open science**, i.e., working open by sharing our code, documentation, data and expertise.
 
 On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is sort of all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psychopathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). This means I expect you to become familiar. Of course, some of it (typically, clinical skills) might not be feasible given the project / grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
 
@@ -30,7 +30,7 @@ Send us a message and let us know, we're likely unaware of that!
 
 Send us a message and let us know, we're likely unaware of that!
 
-In summary, for any reason, **do not hestitate to drop us a message!** Communication is key. Otherwise any unadressed issue can build up and create unnecessary stress or problems.
+In summary, for any reason, **do not hesitate to drop us a message!** Communication is key. Otherwise, any unaddressed issue can build up and create unnecessary stress or problems.
 
 > **I sent a message but nobody answered...**
 
@@ -62,7 +62,7 @@ Do whatever is required on the admin side, complete the ethical certification, t
 - [ ] Ethics Certification (on ethics and integrity in research)
 - [ ] University mandatory courses (if you are an employee)
 
-### 3. Get connected
+### 3. Get Connected
 
 It might not be good news if you're an introvert that prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage openly with the world of research.
 
@@ -112,9 +112,9 @@ We are using GitHub for ***a lot*** of stuff (like pretty much for everything, s
 
 ### 4. Media recommendation
 
-#### Philosophy Comics
+#### Existential Comics
 
-Small funny reads that say a lot about important philosophical ideas. My personal favourites (don't forget to read the little explanation at the bottom of each comic):
+Small funny reads that nicely introduce important philosophical ideas. My personal favourites (don't forget to read the little explanation at the bottom of each comic):
 
 - [Descartes' Demon](https://existentialcomics.com/comic/81)
 - [Sorry! And the Nature of Suffering](https://existentialcomics.com/comic/102)

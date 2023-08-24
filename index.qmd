@@ -1,0 +1,99 @@
+---
+title: "Housekeeping"
+author: "Reality Bending Lab"
+format: 
+  revealjs:
+    logo: "https://github.com/RealityBending/.github/raw/main/profile/banner.png"
+    incremental: true
+    chalkboard: true
+    slide-number: "c/t"
+    highlight-style: "github-dark"
+    code-line-numbers: false
+    # embed-resources: true
+---
+
+## Supervision
+
+::: {.r-fit-text}
+
+- Weekly lab meetings
+  - Presence expected 
+  - Presentations
+  - Occasion to touch base
+- Group chat (discord, ...)
+- Send emails / messages whenever, but don’t expect an immediate answer
+- Feedback style
+  - Rare compliments
+  - I have a tendency to rewrite code
+  - A lot of corrections doesn't mean it's bad
+
+:::
+
+## Be Collaborative
+
+::::: {.columns}
+
+:::: {.column width="50%"}
+
+- Teamwork 
+  - Lab mates are your best resource
+- Good grades are not at the expense of others
+  - Helping others will be noticed and will benefit you
+- Acknowledge those who helped you
+  - Give credit where credit is due
+
+::::
+
+:::: {.column width="50%"}
+
+![](https://media.tenor.com/pDtcThNmoUQAAAAd/it-crowd-team-denholm-reynholm.gif)
+
+::::
+
+:::::
+
+## Be Open
+
+- Independent intellectually does not mean all-knowing
+- [Seek help]{.fragment .highlight-red} 
+- Be transparent
+
+## To-do
+
+- Onboarding (https://github.com/RealityBending/Onboarding)
+  - [x] GitHub basics
+  - [x] Add your profile on the lab website
+
+## Project Structure
+
+
+```{r}
+#| eval: false
+#| echo: true
+"
+                
+                |-- .../Box/ProjectName/ - Internal folder (within the lab)
+                |                        - Raw data files (deanonimyzed)
+                |                        - Data formatting scripts (anonymization)
+--YourComputer--|                        - Internal documents, drafts, litterature
+                |
+                |-- .../ProjectName/ - Public-facing repository
+                                     - Open-access (shared on GitHub)
+                                     - Anonymized data
+                                     - Analysis scripts
+                                     - Contains all materials for reproducibility
+                                       - Experiment script
+                                       - Link to preregistration
+                                       - stimuli
+"
+```
+
+::: {.r-fit-text}
+
+Projects exist on our computers in 2 separate folders (with the [same name]{.fragment .highlight-red} ):
+
+- Internal (shared by supervisor via *Box*)
+- Public (Synced with *GitHub*)
+
+:::
+

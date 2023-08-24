@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/neuropsychology/Onboarding?label=last%20update)
 
-**Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful (though keep in mind that it's in a work-in-progress state).
+**Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful.
 
 The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. **Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day** 😉
 

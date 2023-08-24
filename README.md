@@ -6,19 +6,19 @@
 
 The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. **Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day** 😉
 
-This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark in this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
+This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark on this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
 
 ## Our vision
 
-Our team's ethos is centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**.
+<!-- Our team's ethos is centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**. -->
 
-We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:), our ability to keep on learning and improving, a cool working environment (forget the formalities, ain't nobody got time for that!) and striving for the highest standards in terms of sciencific quality and honesty. We're strongly committed to **open science**, i.e., working open by sharing our code, documentation, data and expertise.
+We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:); our ability to keep on learning and **improving**; a cool **working environment** (forget the formalities, ain't nobody got time for that!); and striving for the highest standards in terms of scientific quality and honesty. We are strongly committed to **open science**, for instance by sharing our code, documentation, data and expertise. After all, science is a collective enterprise.
 
-On a more abstract level, I believe in what I call the **three-fold neuropsychology skill set**. In short, I think that a neuropsychologist (and, by extension, people working on-related topics - which is sort of all that we do) should aim (when applicable) at developping 3 types of expertise: **clinical abilities** (neuro/psychopathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processsing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). This means I expect you to become familiar. Of course, some of it (typically, clinical skills) might not be feasible given the project / grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
+On a more abstract level, I believe in what I call the **three-fold neuropsychology skillset**. In short, I think that a neuropsychologist (and, by extension, people working on related topics - which is sort of all that we do) should aim (when applicable) at developing 3 types of expertise: **clinical abilities** (neuro/psychopathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). This means I expect you to become familiar. Of course, some of it (typically, clinical skills) might not be feasible given the project / grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
 
 ## Work Schedule and Work-life Balance
 
-We value and believe in individuality. Everybody has their own prefered organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions; some have other people to take care of (children, parents, ...) and some have themselves (which can be a lot). We should not expect each others to work regularly from 9-5 everyday, or to be available at all times. **I will sometimes send emails on the evening or on the weekends**, because that's how I work. That does **not** mean you should check or reply immediately: do work when you decide to and aim for a varied lifestyle. If by any chance something is super urgent, I'll make it explicit by preempting the message with [URGENT] (but it never happened so far).
+We value and believe in individuality. Everybody has their own preferred organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions; some have other people to take care of (children, parents, ...) and some have themselves (which can be a lot). We should not expect each other to work regularly from 9-5 every day, or to be available at all times. **I will sometimes send emails in the evening or on the weekends**, because that's how I work. That does **not** mean you should check or reply immediately: do work when you decide to and aim for a varied lifestyle. If by any chance something is super urgent, I'll make it explicit by preempting the message with [URGENT] (but it never happened so far).
 
 ## Questions & Answers
 
@@ -57,14 +57,14 @@ Alright, here's the big day! First, take the time to settle in your space. Pay a
 
 ### 2. Get the Admin done
 
-Do whatever is required on the admin side, complete the ethical certification, the mandatory trainings, etc.
+Do whatever is required on the admin side, complete the ethical certification, the mandatory training courses, etc.
 
 - [ ] Ethics Certification (on ethics and integrity in research)
 - [ ] University mandatory courses (if you are an employee)
 
 ### 3. Get Connected
 
-It might not be good news if you're an introvert that prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage openly with the world of research.
+It might not be good news if you're an introvert who prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage openly with the world of research.
 
 #### 🗣️ **Discord**
 
@@ -73,9 +73,9 @@ We use Discord as an internal communication channel. Do ask for the invite link 
 
 #### 🐦 **Twitter**
 
-We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [**Twitter**](https://twitter.com/home) is a good platform to do it 😉 Many researchers use it to share and summarize their new studies and projects, recruit participants or advertise positions. So you can easily keep up with the latest scientific news here. If you don't believe us, check-out this [**book about Twitter for researchers**](https://t4scientists.com/).
+We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [**Twitter**](https://twitter.com/home) is a good platform to do it 😉 Many researchers use it to share and summarize their new studies and projects, recruit participants or advertise positions. So you can easily keep up with the latest scientific news here. If you don't believe us, check out this [**book about Twitter for researchers**](https://t4scientists.com/).
 
-After creating an account, you can start by your **colleagues**:
+After creating an account, you can start with your **colleagues**:
 
 - [@RealityBending_](https://twitter.com/RealityBending_)
 - [@Dom_Makowski](https://twitter.com/Dom_Makowski)
@@ -85,7 +85,7 @@ We have compiled a list of interesting accounts, covering all sorts of different
 
 - **Reality Bending Twitter List**: https://twitter.com/i/lists/1509796111724134401
 
-At first, you'll likely have to force yourself a bit to open and check twitter from time to time (to make it easier, set it as favourite tab and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
+At first, you'll likely have to force yourself a bit to open and check Twitter from time to time (to make it easier, set it as a "favourite" tab and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
 
 #### 👨‍🔬 **ResearchGate**
 
@@ -103,7 +103,7 @@ We are using GitHub for ***a lot*** of stuff (like pretty much for everything, s
   1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   2. Select the **Introduce myself** template
   3. Answer the questions
-  4. post it (we'll close it afterwards)
+  4. Post it (we'll close it afterwards)
   5. **Follow us** (hit the follow button on the top right corner):
   - [@RealityBending](https://github.com/RealityBending)
   - [@DominiqueMakowski](https://github.com/DominiqueMakowski)

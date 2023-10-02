@@ -12,9 +12,9 @@ This guide has been crafted by all **past and current members of the team**. It'
 
 <!-- Our team's ethos is centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**. -->
 
-We rely on a lot of internal **communication** (about stuff more - or less - related to work :grin:); our ability to keep on learning and **improving**; a cool **working environment** (forget the formalities, ain't nobody got time for that!); and striving for the highest standards in terms of scientific quality and honesty. We are strongly committed to **open science**, for instance by sharing our code, documentation, data and expertise. After all, science is a collective enterprise.
+We rely on a lot on internal **communication** (about stuff more *or less* related to work :grin:), on our ability to keep on learning and **improving**, on a cool **working environment** (forget the formalities, ain't nobody got time for that!), and try striving for the highest standards in terms of scientific quality and honesty. We are strongly committed to **open science**, for instance by sharing our code, documentation, data and expertise. After all, science is a collective enterprise.
 
-On a more abstract level, I believe in what I call the **three-fold neuropsychology skillset**. In short, I think that a neuropsychologist (and, by extension, people working on related topics - which is sort of all that we do) should aim (when applicable) at developing 3 types of expertise: **clinical abilities** (neuro/psychopathology, assessment, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). This means I expect you to become familiar. Of course, some of it (typically, clinical skills) might not be feasible given the project / grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
+On a more abstract level, I believe in what I call the **three-fold neuropsychology skillset**. In short, I think that a neuropsychologist (and, by extension, people working on related topics - which is sort of all that we do) should aim (when applicable) at developing 3 types of expertise: **clinical abilities** (knowledge about neuro/psychopathology, assessment of both *healthy* participants and patients, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). Of course, some of it (typically, working with patients) might not be feasible given the project / grade you're in. That's okay, we will help you to make a plan for your future to get as close as you can to your objectives.
 
 ## Work Schedule and Work-life Balance
 
@@ -34,8 +34,11 @@ In summary, for any reason, **do not hesitate to drop us a message!** Communicat
 
 > **I sent a message but nobody answered...**
 
-Don't hesitate to send us a **reminder** (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things. It's not against you, and we'll be thankful that you reminded us.
+Don't hesitate to send us a **reminder** (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things... it's not against you. And we'll be thankful that you reminded us.
 
+> **I don't agree with a viewpoint someone else expressed**
+
+Good, that means you're breaking out of the echo chamber. We all have a tendency to surround ourselves with people and information that validates us and our beliefs. But that's no way to improve, grow, and become a better person. University was built to challenge our current viewpoints, and expose ourselves to other possibilities. Challenge can sometimes make us feel uncomfortable, but it's okay: we all have emotion regulation abilities, communication skills, and a supporting team to rely on :)
 
 ## Reality Bending
 
@@ -53,25 +56,23 @@ For those joining the **Reality Bending Lab** (REBEL), we recommend reading a fe
 
 ### 1. Explore your environment
 
-Alright, here's the big day! First, take the time to settle in your space. Pay a visit to your colleagues, introduce yourself, explore the building, locate the offices, find the toilets and the coffee machine.
+Alright, here's the big day! First, take the time to settle in your space. Pay a visit to your colleagues, introduce yourself, explore the building, locate the offices, find the toilets ~~and the coffee machine~~.
 
 ### 2. Get the Admin done
 
 Do whatever is required on the admin side, complete the ethical certification, the mandatory training courses, etc.
 
-- [ ] Ethics Certification (on ethics and integrity in research)
-- [ ] University mandatory courses (if you are an employee)
-
 ### 3. Get Connected
 
 It might not be good news if you're an introvert who prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage openly with the world of research.
+In general, academia is very social, and a lot of the good stuff happens on social media. Better to start soon little by little than trying to build an online presence overnight once you need to apply for jobs.
 
 #### 🗣️ **Discord**
 
-We use Discord as an internal communication channel. Do ask for the invite link if you don't receive one.
+We use Discord as an internal communication channel. **Do ask for the invite link** if you don't receive one.
 
 
-#### 🐦 **Twitter**
+#### 🐦 **X/Twitter**
 
 We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [**Twitter**](https://twitter.com/home) is a good platform to do it 😉 Many researchers use it to share and summarize their new studies and projects, recruit participants or advertise positions. So you can easily keep up with the latest scientific news here. If you don't believe us, check out this [**book about Twitter for researchers**](https://t4scientists.com/).
 
@@ -94,17 +95,24 @@ At first, you'll likely have to force yourself a bit to open and check Twitter f
 
 #### :octocat: **GitHub**
 
-The last app that we use, and probably the most important, is GitHub. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and you can simply *watch* any repository you're interested in to receive notifications of relevant updates.
+The last app that we use, and probably the most important, is GitHub. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and where you can follow any repository you're interested in to receive notifications of relevant updates.
 
 - You can start by reading this post: [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/2020-05-27-github_psychologists/)
 
-We are using GitHub for ***a lot*** of stuff (like pretty much for everything, storing data, writing papers, projects, ...), and therefore you'll need to become familiar with it. First off, let's start with 1) Creating an account for you (*advice: use a simple login like FirstnameSurname rather than something you might regret later* 😬), 2) Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates, 3) star 🌟 it and 4) start using it as follows:
+We are using GitHub for ***a lot*** of stuff (like pretty much for everything, storing data, writing papers, projects, ...), and therefore you'll need to become familiar with it. First off, let's start with:
+  1. Creating an account for you (*strong advice: **use a simple login like FirstnameSurname** rather than something you might regret later* 😬)
+  2. Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates
+  3. Star it 🌟 (it's like giving it a thumbs up, but it also serves as a bookmark for you)
 
-  1. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
-  2. Select the **Introduce myself** template
-  3. Answer the questions
-  4. Post it (we'll close it afterwards)
-  5. **Follow us** (hit the follow button on the top right corner):
+Once you're done, let's start to interact with it by creating an issue:
+
+  4. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
+  5. Select the **Introduce myself** template
+  6. Answer the questions
+  7. Post it (we'll close it afterwards)
+
+Finally, **Follow us** (hit the follow button on the top right corner):
+
   - [@RealityBending](https://github.com/RealityBending)
   - [@DominiqueMakowski](https://github.com/DominiqueMakowski)
   - [@JingxiongXu](https://github.com/JingxiongXu)
@@ -125,7 +133,7 @@ Small funny reads that nicely introduce important philosophical ideas. My person
 - [Fallacy Man](https://existentialcomics.com/comic/9)
 - [Fallacy Man II](https://existentialcomics.com/comic/21)
 
-Our lab hero, Captain Metaphysics:
+Our lab hero, Captain Metaphysics, that solves every philosophical question with one simple trick:
 
 - [Captain Metaphysics and the Ghost in the Machine](https://existentialcomics.com/comic/47)
 - [Captain Metaphysics and the Mereological Monster](https://existentialcomics.com/comic/57)

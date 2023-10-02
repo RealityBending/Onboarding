@@ -101,7 +101,7 @@ The last app that we use, and probably the most important, is GitHub. Whether yo
 
 We are using GitHub for ***a lot*** of stuff (like pretty much for everything, storing data, writing papers, projects, ...), and therefore you'll need to become familiar with it. First off, let's start with:
   1. Creating an account for you (*strong advice: **use a simple login like FirstnameSurname** rather than something you might regret later* 😬)
-  2. Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) so you'll get notified of updates
+  2. Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) (it's like "following" on Instagram)
   3. Star it 🌟 (it's like giving it a thumbs up, but it also serves as a bookmark for you)
 
 Once you're done, let's start to interact with it by creating an issue:

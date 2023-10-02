@@ -12,6 +12,28 @@ format:
     # embed-resources: true
 ---
 
+
+## Welcome!
+
+::: {style="font-size: 60%;" .nonincremental}
+
+- About ReBeL
+  - Reality
+  - Role of Body/internal signals & Will/Control
+  - Metascience
+- About myself
+  - Neuropsychology
+  - French 
+    - clusmy with words
+    - direct
+  - Music  
+- About you
+  - Who are you? Background? Interests?
+  - What would you like to do later (career)?
+  - What skills / experience are you interested in developing?
+
+:::
+
 ## Supervision
 
 ::: {.r-fit-text}
@@ -20,12 +42,13 @@ format:
   - Presence expected 
   - Presentations
   - Occasion to touch base
+  - Take notes during discussions
 - Group chat (discord, ...)
 - Send emails / messages whenever, but don’t expect an immediate answer
 - Feedback style
-  - Rare compliments
-  - I have a tendency to rewrite code
+  - Not a lot of positive reinforcement <sub><sup>*(I'm working on it)*</sup></sub>
   - A lot of corrections doesn't mean it's bad
+  - I have a tendency to rewrite code
 
 :::
 
@@ -41,7 +64,8 @@ format:
   - Lab mates are your best resource
 - Good grades are not at the expense of others
   - Helping others will be noticed and will benefit you
-- Acknowledge those who helped you
+- Acknowledge those who helped you 
+  - Research is *not* a zero-sum game
   - Give credit where credit is due
 
 :::
@@ -67,6 +91,16 @@ format:
 - Onboarding (https://github.com/RealityBending/Onboarding)
   - [x] GitHub basics
   - [x] Add your profile on the lab website
+
+
+## Conventions
+
+- No spaces or weird characters in folder and file names
+  - [`c'est mon mémoire!.docx`]{.fragment .strike} 
+  - `PreregDraft_Makowski.docx`
+- *CamelCase* vs. *snake_case*
+  - Also applies to programming
+
 
 ## Project Structure
 
@@ -94,10 +128,32 @@ format:
 
 ::: {.r-fit-text}
 
-Projects exist on our computers in 2 separate folders (with the [same name]{.fragment .highlight-red} ):
+Projects exist on our computers in 2 separate folders (with the [same name]{.fragment .highlight-red}):
 
 - Internal (shared by supervisor via *Box*)
-- Public (Synced with *GitHub*)
+- Public (synced with *GitHub*)
 
+:::
+
+
+## Research Projects
+
+::: {style="font-size: 70%;"}
+
+- **Body and Mind** (2 people) <sub><sup>*(physiological signals)*</sup></sub>
+  - Interoceptive Accuracy Scale (IAS) Validation
+  - Interoception and Primal Beliefs
+  - Heart Rate Variability and Interoception
+- **Fiction and Arousal** (2 people) <sub><sup>*(affective neuroscience)*</sup></sub>
+  - ...
+- **Illusions and Reality Perception** <sub><sup>*(neuropsychology and consciousness)*</sup></sub>
+  - Correlates with Attention / Cognitive Control tasks
+  - Hypnotic Suggestibility, Mindfulness and Hypnosis
+  - Sensory deprivation
+<!-- - **Doggo/Nogo** <sub><sup>*(neuropsychological assessment)*</sup></sub> -->
+<!--   - Design: Optimal number of trials. -->
+<!--   - Reliability: test-retest. -->
+<!--   - Validity: correlation with traditional executive tasks. -->
+  
 :::
 

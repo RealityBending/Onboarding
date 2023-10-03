@@ -1,7 +1,7 @@
 ---
 title: "Housekeeping"
 author: "Reality Bending Lab"
-format: 
+format:
   revealjs:
     logo: "https://github.com/RealityBending/.github/raw/main/profile/banner.png"
     incremental: true
@@ -23,10 +23,10 @@ format:
   - Metascience
 - About myself
   - Neuropsychology
-  - French 
+  - French
     - clusmy with words
     - direct
-  - Music  
+  - Music
 - About you
   - Who are you? Background? Interests?
   - What would you like to do later (career)?
@@ -39,11 +39,11 @@ format:
 ::: {.r-fit-text}
 
 - Weekly lab meetings
-  - Presence expected 
+  - Presence expected
   - Presentations
   - Occasion to touch base
   - Take notes during discussions
-- Group chat (discord, ...)
+- Group chat (discord)
 - Send emails / messages whenever, but don’t expect an immediate answer
 - Feedback style
   - Not a lot of positive reinforcement <sub><sup>*(I'm working on it)*</sup></sub>
@@ -60,11 +60,11 @@ format:
 
 ::: {.r-fit-text}
 
-- Teamwork 
+- Teamwork
   - Lab mates are your best resource
 - Good grades are not at the expense of others
   - Helping others will be noticed and will benefit you
-- Acknowledge those who helped you 
+- Acknowledge those who helped you
   - Research is *not* a zero-sum game
   - Give credit where credit is due
 
@@ -83,7 +83,7 @@ format:
 ## Be Open
 
 - Independent intellectually does not mean all-knowing
-- [Seek help]{.fragment .highlight-red} 
+- [Seek help]{.fragment .highlight-red}
 - Be transparent
 
 ## To-do
@@ -96,7 +96,7 @@ format:
 ## Conventions
 
 - No spaces or weird characters in folder and file names
-  - [`c'est mon mémoire!.docx`]{.fragment .strike} 
+  - [`c'est mon mémoire!.docx`]{.fragment .strike}
   - `PreregDraft_Makowski.docx`
 - *CamelCase* vs. *snake_case*
   - Also applies to programming
@@ -109,7 +109,7 @@ format:
 #| eval: false
 #| echo: true
 "
-                
+
                 |-- .../Box/ProjectName/ - Internal folder (within the lab)
                 |                        - Raw data files (deanonimyzed)
                 |                        - Data formatting scripts (anonymization)
@@ -154,6 +154,6 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 <!--   - Design: Optimal number of trials. -->
 <!--   - Reliability: test-retest. -->
 <!--   - Validity: correlation with traditional executive tasks. -->
-  
+
 :::
 

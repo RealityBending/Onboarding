@@ -15,16 +15,16 @@ format:
 
 ## Welcome!
 
-::: {style="font-size: 60%;" .nonincremental}
+::: {style="font-size: 60%;"}
 
 - About ReBeL
   - Reality
-  - Role of Body/internal signals & Will/Control
+  - Role of *Bodily Signals* & *Will/Control*
   - Metascience
 - About myself
-  - Neuropsychology
+  - Neuropsychologist
   - French
-    - clusmy with words
+    - clumsy with words
     - direct
   - Music
 - About you
@@ -36,19 +36,23 @@ format:
 
 ## Supervision
 
-::: {.r-fit-text}
+::: {style="font-size: 60%;"}
 
 - Weekly lab meetings
   - Presence expected
   - Presentations
   - Occasion to touch base
   - Take notes during discussions
+- Individual meetings and emails
 - Group chat (discord)
+  - Also for you among yourselves
+  - Dank memes friendly
 - Send emails / messages whenever, but don’t expect an immediate answer
 - Feedback style
   - Not a lot of positive reinforcement <sub><sup>*(I'm working on it)*</sup></sub>
   - A lot of corrections doesn't mean it's bad
   - I have a tendency to rewrite code
+- Do always clean off track changes when sending a new version
 
 :::
 
@@ -85,13 +89,6 @@ format:
 - Independent intellectually does not mean all-knowing
 - [Seek help]{.fragment .highlight-red}
 - Be transparent
-
-## To-do
-
-- Onboarding (https://github.com/RealityBending/Onboarding)
-  - [x] GitHub basics
-  - [x] Add your profile on the lab website
-
 
 ## Conventions
 
@@ -140,20 +137,67 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 
 ::: {style="font-size: 70%;"}
 
-- **Body and Mind** (2 people) <sub><sup>*(physiological signals)*</sup></sub>
-  - Interoceptive Accuracy Scale (IAS) Validation
+- **Body and Mind** <sub><sup>*(physiological signals)*</sup></sub>
+  - Interoceptive Accuracy Scale (IAS) Validation  <!-- Clinical/CBT -->
   - Interoception and Primal Beliefs
-  - Heart Rate Variability and Interoception
-- **Fiction and Arousal** (2 people) <sub><sup>*(affective neuroscience)*</sup></sub>
-  - ...
+  - Heart Rate Variability and Interoception  <!-- Clinical/Psychopathology -->
+- **Fiction and Arousal** <sub><sup>*(affective neuroscience)*</sup></sub>
+  - Emotion regulation via Fiction
 - **Illusions and Reality Perception** <sub><sup>*(neuropsychology and consciousness)*</sup></sub>
-  - Correlates with Attention / Cognitive Control tasks
-  - Hypnotic Suggestibility, Mindfulness and Hypnosis
-  - Sensory deprivation
-<!-- - **Doggo/Nogo** <sub><sup>*(neuropsychological assessment)*</sup></sub> -->
+  - Illusion Sensitivity and Hypnotic Suggestibility
+  - Illusion Sensitivity vs. Attention / Cognitive Control
+<!--  - Hypnotic and Mindfulenss Induction -->
+<!--  - Sensory deprivation -->
+- **Doggo/Nogo** <sub><sup>*(neuropsychological assessment)*</sup></sub>
+  - Help creating and validating game in Unity
 <!--   - Design: Optimal number of trials. -->
 <!--   - Reliability: test-retest. -->
 <!--   - Validity: correlation with traditional executive tasks. -->
 
 :::
+
+
+## Timeline
+
+::: {style="font-size: 70%;"}
+
+- Term 1
+  1. Familiarize with project
+  2. Implement & test paradigm
+  3. **Week 8 (20 November)**: Submit ethics
+  4. Project presentation
+  5. Write introduction and methods section
+  6. Submit preregistration
+- Term 2
+  1. Data collection
+  2. Data analysis
+  3. **March**: Final project presentation
+  4. Write up
+  5. Celebrate 🎉
+
+:::
+
+## Canvas info
+
+::: {style="font-size: 50%;"}
+
+- Dissertation Overview
+
+:::
+
+::: {.r-stack}
+![](Finalyear_DissertationTimeline1.png){.fragment height="500"}
+
+![](Finalyear_DissertationTimeline2.png){.fragment height="500"}
+
+![](Finalyear_DissertationTimeline3.png){.fragment height="500"}
+:::
+
+## To-do for next meeting
+
+- Onboarding (https://github.com/RealityBending/Onboarding)
+  - [x] GitHub basics
+  - [x] Add your profile on the lab website
+- Install R and R-Studio locally
+- Think about projects
 

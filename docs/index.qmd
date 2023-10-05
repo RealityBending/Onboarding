@@ -19,7 +19,7 @@ format:
 
 - About ReBeL
   - Reality
-  - Role of *Bodily Signals* & *Will/Control*
+  - Role of **Bodily Signals** & **Will/Control**
   - Metascience
 - About myself
   - Neuropsychologist
@@ -46,7 +46,7 @@ format:
 - Individual meetings and emails
 - Group chat (discord)
   - Also for you among yourselves
-  - Dank memes friendly
+  - memes friendly
 - Send emails / messages whenever, but don’t expect an immediate answer
 - Feedback style
   - Not a lot of positive reinforcement <sub><sup>*(I'm working on it)*</sup></sub>
@@ -141,12 +141,13 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
   - Interoceptive Accuracy Scale (IAS) Validation  <!-- Clinical/CBT -->
   - Interoception and Primal Beliefs
   - Heart Rate Variability and Interoception  <!-- Clinical/Psychopathology -->
+- **Illusions and Reality Perception** <sub><sup>*(neuropsychology and consciousness)*</sup></sub>
+  - Illusion Sensitivity and Hypnotic Suggestibility 
+  - Illusion Sensitivity and Normal and Pathological Personality
+  - Illusion Sensitivity vs. Cognitive Control
 - **Fiction and Arousal** <sub><sup>*(affective neuroscience)*</sup></sub>
   - Emotion regulation via Fiction
-- **Illusions and Reality Perception** <sub><sup>*(neuropsychology and consciousness)*</sup></sub>
-  - Illusion Sensitivity and Hypnotic Suggestibility
-  - Illusion Sensitivity vs. Attention / Cognitive Control
-<!--  - Hypnotic and Mindfulenss Induction -->
+<!--  - Hypnotic and Mindfulness Induction -->
 <!--  - Sensory deprivation -->
 - **Doggo/Nogo** <sub><sup>*(neuropsychological assessment)*</sup></sub>
   - Help creating and validating game in Unity

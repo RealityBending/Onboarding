@@ -137,6 +137,7 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 
 ::: {style="font-size: 70%;"}
 
+- *Personal projects*
 - **Body and Mind** <sub><sup>*(physiological signals)*</sup></sub>
   - Interoceptive Accuracy Scale (IAS) Validation  <!-- Clinical/CBT -->
   - Interoception and Primal Beliefs

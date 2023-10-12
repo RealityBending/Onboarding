@@ -133,7 +133,7 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 :::
 
 
-## Research Projects
+## Research Projects - Overview
 
 ::: {style="font-size: 70%;"}
 
@@ -203,3 +203,118 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 - Install R and R-Studio locally
 - Think about projects
 
+<!-- Session 2 -->
+
+## Research Projects {.center}
+
+```{css}
+.center h2 {
+  text-align: center;
+}
+```
+
+## 1. Body and Mind
+
+::: {style="font-size: 50%;"}
+
+### Common Paradigm
+
+- Resting State
+- Tapping Task
+- Heartbeat Counting Task (HCT)
+- Interoception questionnaires (MAIA and IAS)
+- Primal Beliefs scale
+
+### Subprojects
+
+a. Measuring Interoception: Objective vs. Subjective
+b. Measuring Interoception: Tapping Task 
+c. Interoception and Primal Beliefs
+d. Interoception and HRV (during Resting State)
+e. Interoception and HRV (during HCT)
+
+### Notes
+
+- Physiological equipment
+- Less flexibility (physical presence, room booking management)
+
+::: 
+
+## 2. Illusion Sensitivity
+
+::: {style="font-size: 50%;"}
+
+### Common Paradigm
+
+- Illusion Sensitivity Task
+- Normal and Pathological Personality Scales
+- Hypnosis Suggestibility Scale
+- Conflict Resolution Task (Flanker Task)
+
+### Subprojects
+
+a. Illusion sensitivity vs. Personality
+b. Illusion sensitivity vs. Suggestibility
+c. Illusion sensitivity vs. Cognitive Control
+
+### Notes
+
+- More flexible (portable experiment)
+- Implement Flanker task (in JsPsych)
+
+::: 
+
+
+## 3. Fictional Reappraisal
+
+::: {style="font-size: 50%;"}
+
+### Common Paradigm
+
+- Investigate the effects of reality beliefs modulation on emotions related to erotic stimuli
+- Conceptualize and build an experiment
+- Questionnaires of emotion regulation skills
+
+### Subprojects
+
+- Intraindividual Effects
+- Interindividual Correlates
+
+### Notes
+
+- Conceptualization and implementation steps necessary
+- Possibly physiological signals (?)
+- More work required
+
+::: 
+
+## 4. PHQ-4R
+
+::: {style="font-size: 50%;"}
+
+### Common Paradigm
+
+- PHQ-4: Ultra-brief assessment of Anxiety and Depression
+- Testing the benefits of adding a new response option
+- 2 groups: original PHQ-4 version vs. revised
+- Correlation with other depression/anxiety measures
+- Does the revised version improves the correlation for mild mood fluctuations
+
+### Notes
+
+- Flexible
+- Research needed on convergent validity for mood disorders assessment
+
+::: 
+
+## Make your Choice
+
+- Questions? Clarifications?
+- Pick 2 (first and second choice, from two groups)
+
+## Next Week 
+
+- No lab meeting on Friday, instead...
+- JRA Poster session
+  - Wednesday 18t, 12-2pm 
+  - Woodlands 2 \& 3, Student Centre

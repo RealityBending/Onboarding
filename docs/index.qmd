@@ -137,21 +137,22 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 
 ::: {style="font-size: 70%;"}
 
-- *Personal projects*
+- *Personal projects* <sub><sup>*(not recommended)*</sup></sub>
 - **Body and Mind** <sub><sup>*(physiological signals)*</sup></sub>
-  - Interoceptive Accuracy Scale (IAS) Validation  <!-- Clinical/CBT -->
-  - Interoception and Primal Beliefs
-  - Heart Rate Variability and Interoception  <!-- Clinical/Psychopathology -->
+  <!-- - Interoceptive Accuracy Scale (IAS) Validation  -->
+  <!-- - Interoception and Primal Beliefs -->
+  <!-- - Heart Rate Variability and Interoception   -->
 - **Illusions and Reality Perception** <sub><sup>*(neuropsychology and consciousness)*</sup></sub>
-  - Illusion Sensitivity and Hypnotic Suggestibility 
-  - Illusion Sensitivity and Normal and Pathological Personality
-  - Illusion Sensitivity vs. Cognitive Control
+  <!-- - Illusion Sensitivity and Hypnotic Suggestibility  -->
+  <!-- - Illusion Sensitivity and Normal and Pathological Personality -->
+  <!-- - Illusion Sensitivity vs. Cognitive Control -->
 - **Fiction and Arousal** <sub><sup>*(affective neuroscience)*</sup></sub>
-  - Emotion regulation via Fiction
+- **Validation of ultrabrief measure for depression/anxiety** <sub><sup>*(clinical psych)*</sup></sub>
+  <!-- - Emotion regulation via Fiction -->
 <!--  - Hypnotic and Mindfulness Induction -->
 <!--  - Sensory deprivation -->
-- **Doggo/Nogo** <sub><sup>*(neuropsychological assessment)*</sup></sub>
-  - Help creating and validating game in Unity
+<!-- - **Doggo/Nogo** <sub><sup>*(neuropsychological assessment)*</sup></sub> -->
+  <!-- - Help creating and validating game in Unity -->
 <!--   - Design: Optimal number of trials. -->
 <!--   - Reliability: test-retest. -->
 <!--   - Validity: correlation with traditional executive tasks. -->

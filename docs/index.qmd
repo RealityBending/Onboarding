@@ -196,6 +196,24 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 ![](Finalyear_DissertationTimeline3.png){.fragment height="500"}
 :::
 
+
+## Marking Criteria
+
+::: {style="font-size: 70%;"}
+
+- **Scientific quality** of the dissertation
+  - The closer to a scientific paper the better
+  - Show that you read papers beyond what was provided (intro)
+  - Show that you understood the results and put them in perspective (discussion)
+- **Amount of work** provided
+  - Paradigm implementation <sub><sup>*(if applicable)*</sup></sub>
+  - Number of participants recruited <sub><sup>*(if applicable*)</sup></sub>
+- **Not influenced** by significant results
+  - Having found "no significant" effect / hypotheses not proven is absolutely fine!
+- **Strongly influenced** by participation/involvement **during the whole year**
+
+:::
+
 ## To-do for next meeting
 
 - Onboarding (https://github.com/RealityBending/Onboarding)

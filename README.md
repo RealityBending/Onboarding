@@ -14,11 +14,11 @@ This guide has been crafted by all **past and current members of the team**. It'
 
 We rely on a lot on internal **communication** (about stuff more *or less* related to work :grin:), on our ability to keep on learning and **improving**, on a cool **working environment** (forget the formalities, ain't nobody got time for that!), and try striving for the highest standards in terms of scientific quality and honesty. We are strongly committed to **open science**, for instance by sharing our code, documentation, data and expertise. After all, science is a collective enterprise.
 
-On a more abstract level, we believe in what we call the **three-fold neuropsychology skillset**. In short, a neuropsychologist (and, by extension, people working on related topics - which is sort of all that we do) should aim (when applicable) at developing 3 types of expertise: **clinical abilities** (knowledge about neuro/psychopathology, assessment of both patients and *healthy* participants, therapy & rehabilitation, ...), **technical skills**  (statistics, programming, neuroimaging, signal processing, ...) and **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history). Of course, some of it (typically, working with patients) might not be feasible given the project/grade you're in. Don't worry, we will do as best as we can given what's possible to help you make a plan to get as close as you can to your future objectives.
+On a more abstract level, we believe in what we call the **three-fold neuropsychology skillset**. In short, a neuropsychologist (and, by extension, people working on related topics) should aim (when applicable) at developing 3 types of expertise: **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history), **technical skills**  (statistics, programming, neuroimaging, signal processing, ...), and **clinical abilities** (knowledge about neuro/psychopathology, assessment of both patients and *healthy* participants, therapy & rehabilitation, ...). Of course, some of it (typically, working with patients) might not be feasible given the project/grade you're in. Don't worry, we will do the best we can to help you get as close as possible to your objectives.
 
 ## Work Schedule and Work-life Balance
 
-We value and believe in individuality. Everybody has their own preferred organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions; some have other people to take care of (children, parents, ...) and some have themselves (which can be a lot). We should not expect each other to work regularly from 9-5 every day, or to be available at all times. **I will sometimes send emails in the evening or on the weekends**, because that's how I work. That does **not** mean you should check or reply immediately: do work when you decide to and aim for a varied lifestyle. If by any chance something is super urgent, I'll make it explicit by pre-empting the message with [URGENT] (but it never happened so far).
+We value and believe in individuality. Everybody has their own preferred organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions; some have other people to take care of (children, parents, ...) and some have themselves (which can be a lot). We should not expect each other to work regularly from 9-5 every day, or to be available at all times. **I will sometimes send emails in the evening or on the weekends**, because that's how I work. That does **not** mean you should check or reply immediately: do work when you decide to and aim for a varied lifestyle. If something is super urgent, I'll make it explicit by pre-empting the message with [URGENT] (but it never happened so far).
 
 ## Questions & Answers
 
@@ -34,53 +34,42 @@ In summary, for any reason, **do not hesitate to drop us a message!** Communicat
 
 > **I sent a message but nobody answered...**
 
-Don't hesitate to send us a **reminder** (after a reasonable time). There's usually a lot going on so it happens that we miss or skip things... it's not against you. And we'll be thankful that you reminded us.
+Don't hesitate to send us a **reminder** (after a reasonable delay). There's usually a lot going on so it happens that we miss or skip things... it's not against you. And we'll be thankful that you reminded us.
 
 > **I don't agree with someone else**
 
 Good, that means you're breaking out of the echo chamber. We all have a tendency to surround ourselves with people and information that validates us and our beliefs. But that's no way to improve, grow, and become a better person. University was created to challenge our current viewpoints, and expose ourselves to a realm of new possibilities. Challenge can sometimes make us feel uncomfortable, but it's okay: we are all endowed with emotion regulation abilities, communication skills, and a supporting team to rely on :)
 
-## Reality Bending
+## Reality Bending Lab
 
-For those joining the **Reality Bending Lab** (REBEL), we recommend reading a few posts to better understand the team's scope and history:
+We recommend reading a few posts to better understand the lab's scope and history:
 
 - [Rebel research themes](https://realitybending.github.io/research/)
 - [REBEL logo symbolism](https://realitybending.github.io/post/2023-02-01-new_logo/)
 - [What is reality bending](https://realitybending.github.io/post/2020-09-28-what_is_realitybending/)
 - [Affective Reality Theory](https://realitybending.github.io/post/2023-04-11-affectivereality/)
 
-<!-- ## Roadmap <sub>(updated 09-01-2023)</sub> -->
+## Get Connected
+
+- [x] Create a profile with all of the following social networks
+
+It might not be good news if you're an introvert who prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and **engage openly with the world of research**.
+In general, academia is very social, and a lot of the good stuff happens on social media. Better to start little by little as soon as you can than trying to build an online presence overnight once you need to **apply for jobs** *(and yes, recruiters do Google you)*.
 
 
-## 📆 Day 1: Enter the world
-
-### 1. Explore your environment
-
-Alright, here's the big day! First, take the time to settle in your space. Pay a visit to your colleagues, introduce yourself, explore the building, locate the offices, find the toilets ~~and the coffee machine~~.
-
-### 2. Get the Admin done
-
-Do whatever is required on the admin side, complete the ethical certification, the mandatory training courses, etc.
-
-### 3. Get Connected
-
-It might not be good news if you're an introvert who prefers to stay anonymous on the internet, but doing research at our lab will require you to build a public persona and engage openly with the world of research.
-In general, academia is very social, and a lot of the good stuff happens on social media. Better to start soon little by little than trying to build an online presence overnight once you need to apply for jobs.
-
-#### 🗣️ **Discord**
+### 🗣️ **Discord**
 
 We use Discord as an internal communication channel. **Do ask for the invite link** if you don't receive one.
 
 
-#### 🐦 **X/Twitter**
+### 🐦 **X/Twitter**
 
-We believe that the best way to start this journey is to get out there, listen to the ongoing discourses and get publicly engaged. And [**Twitter**](https://twitter.com/home) is a good platform to do it 😉 Many researchers use it to share and summarize their new studies and projects, recruit participants or advertise positions. So you can easily keep up with the latest scientific news here. If you don't believe us, check out this [**book about Twitter for researchers**](https://t4scientists.com/).
+Believe it or not, but [**Twitter**](https://twitter.com/home) is super popular among academics. Many researchers use it to share and summarize their new studies and projects, recruit participants or **advertise positions**. So you can easily keep up with the latest scientific news here. There is even a [**book about Twitter for researchers**](https://t4scientists.com/).
 
 After creating an account, you can start with your **colleagues**:
 
 - [@RealityBending_](https://twitter.com/RealityBending_)
 - [@Dom_Makowski](https://twitter.com/Dom_Makowski)
-- [@JingxiongXu](https://twitter.com/jingurso)
 
 We have compiled a list of interesting accounts, covering all sorts of different topics (but always somewhat relevant to what we do). You can follow this **list** and **pin it** to quickly access it from your timeline (don't forget to make suggestions to update this list). You can then start following yourself the people that you like.
 
@@ -88,21 +77,21 @@ We have compiled a list of interesting accounts, covering all sorts of different
 
 At first, you'll likely have to force yourself a bit to open and check Twitter from time to time (to make it easier, set it as a "favourite" tab and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
 
-#### 👨‍🔬 **ResearchGate**
+### 👨‍🔬 **ResearchGate**
 
 [**ResearchGate**](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also **access articles**, post and answer questions, as well as recommend certain works! So do create an account and start following us and the researchers you like. I will add you to the [Lab page](https://www.researchgate.net/lab/Reality-Bending-Lab-ReBeL-Dominique-Makowski).
 
 
-#### :octocat: **GitHub**
+### :octocat: **GitHub**
 
-The last app that we use, and probably the most important, is GitHub. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and where you can follow any repository you're interested in to receive notifications of relevant updates.
+The last app that we use, and probably **the most important**, is GitHub. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and where you can follow any repository you're interested in to receive notifications of relevant updates.
 
 - You can start by reading this post: [Why psychologists should join GitHub](https://dominiquemakowski.github.io/post/2020-05-27-github_psychologists/)
 
 We are using GitHub for ***a lot*** of stuff (like pretty much for everything, storing data, writing papers, projects, ...), and therefore you'll need to become familiar with it. First off, let's start with:
-  1. Creating an account for you (*strong advice: **use a simple login like FirstnameSurname** rather than something you might regret later* 😬)
+  1. Creating an account for you (*strong advice: **use a simple login name like FirstnameSurname** rather than something you might regret later* 😬)
   2. Watch [this repo](https://github.com/neuropsychology/Onboarding) (by selecting *Watching* on the watch button in the top-right corner) (it's like "following" on Instagram)
-  3. Star it 🌟 (it's like giving it a thumbs up, but it also serves as a bookmark for you)
+  3. Star it 🌟 (it's like giving it a thumbs up, but it also serves as a bookmark for you, you can easily return to it)
 
 Once you're done, let's start to interact with it by creating an issue:
 
@@ -115,12 +104,10 @@ Finally, **Follow us** (hit the follow button on the top right corner):
 
   - [@RealityBending](https://github.com/RealityBending)
   - [@DominiqueMakowski](https://github.com/DominiqueMakowski)
-  - [@JingxiongXu](https://github.com/JingxiongXu)
 
+## Media recommendation
 
-### 4. Media recommendation
-
-#### Existential Comics
+### Existential Comics
 
 Small funny reads that nicely introduce important philosophical ideas. My personal favourites (don't forget to read the little explanation at the bottom of each comic):
 
@@ -146,57 +133,58 @@ Our lab hero, Captain Metaphysics, that solves every philosophical question with
 - [Captain Metaphysics and the Philosophical Zombie](https://existentialcomics.com/comic/369)
 
 
-#### General Neuroscience/Psychology Books
+### General Neuroscience/Psychology Books
 
-##### Emotion and Cognition
+#### Emotion and Cognition
 
 <a href="https://www.amazon.com/How-Emotions-Are-Made-Secret/dp/1509837523"><img src="https://images-na.ssl-images-amazon.com/images/I/912ZXbJedjL.jpg" height="300" alt = "How Emotions Are Made: The Secret Life of the Brain (Lisa Feldman Barrett)"/></a> <a href="https://www.amazon.com/Anatomy-Violence-Biological-Roots-Crime/dp/0307475611"><img src="https://images-na.ssl-images-amazon.com/images/I/71KawXMlt9L.jpg" height="300" alt = "The Anatomy of Violence: The Biological Roots of Crime (Adrian Raine)"/></a>
 
-##### Consciousness
+#### Consciousness
 
 <a href="https://www.amazon.co.uk/Experience-Machine-Minds-Predict-Reality/dp/024139452X"><img src="https://m.media-amazon.com/images/I/51UeZYkoWML._SX344_BO1,204,203,200_.jpg" height="300" alt = "The Experience Machine: How Our Minds Predict and Shape Reality (Andy Clark)"/></a><a href="https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872"><img src="https://m.media-amazon.com/images/I/41HlTqiDtGS.jpg" height="300" alt = "Being You : A New Science of Consciousness (Anil Seth)"/></a> <a href="https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924"><img src="https://m.media-amazon.com/images/I/81BvhldVfvL._AC_UF1000,1000_QL80_.jpg" height="300" alt = "The Illusion of Conscious Will (Daniel M. Wegner)"/> </a> <a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952385l/13557108.jpg" height="300" alt = "Consciousness: Confessions of a Romantic Reductionist (Christof Koch)"/></a> <a href="https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Strageloop.jpg/220px-Strageloop.jpg" height="300" alt = "I Am a Strange Loop (Douglas Hofstadter)"/></a>
 
-##### Clinical Neuropsychology / Psychopathology / Psychotherapy
+#### Clinical Neuropsychology / Psychopathology / Psychotherapy
 
 <a href="https://www.amazon.com/Man-Who-Mistook-His-Wife/dp/0593466675/"><img src="https://m.media-amazon.com/images/I/418VetIlpTL.jpg" height="300" alt = "The Man Who Mistook His Wife for a Hat (Oliver Sacks)"/></a> <a href="https://www.amazon.com/Schopenhauer-Cure-Novel-Irvin-Yalom/dp/0060938102"><img src="https://images-na.ssl-images-amazon.com/images/I/71L2DHjmnQS.jpg" height="300" alt = "The Schopenhauer Cure (Irvin Yalom)"/></a>
 
 
-#### Papers
+### Papers
 
 Here are some of our key papers that you can read.
 
-##### Sense of Reality
+#### Sense of Reality
 
 - [Phenomenal, bodily and brain correlates of fictional reappraisal as an implicit emotion regulation strategy](https://dominiquemakowski.github.io/publication/makowski2019phenomenal/makowski2019phenomenal.pdf)
 - ["Being there" and remembering it: Presence improves memory encoding](https://dominiquemakowski.github.io/publication/makowski2017being/makowski2017being.pdf)
 
-##### Deception
+#### Deception
 
 - [The Structure of Deception: Validation of the Lying Profile Questionnaire](https://realitybending.github.io/publication/makowski2021structure/makowski2021structure.pdf)
 
 
-##### Physio, HRV, Body-Brain Interaction
+#### Physio, HRV, Body-Brain Interaction
 
 - [Heart Rate Variability in Psychology: A Review of HRV Indices and an Analysis Tutorial](https://www.researchgate.net/publication/352279590_Heart_Rate_Variability_in_Psychology_A_Review_of_HRV_Indices_and_an_Analysis_Tutorial)
 - [The heart of cognitive control: Cardiac phase modulates processing speed and inhibition](https://dominiquemakowski.github.io/publication/makowski2019heart/makowski2019heart.pdf)
 
 
-#### Videos
+### Videos
 
 - [You aren't at the mercy of your emotions -- your brain creates them | Lisa Feldman Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ)
-- [Your brain hallucinates your conscious reality](https://www.youtube.com/watch?v=lyu7v7nWzfo)
+- [Your brain hallucinates your conscious reality | Anil Seth](https://www.youtube.com/watch?v=lyu7v7nWzfo)
 - ...
 
 
-#### Movies / TV Shows
 
-- Mindhunter (TV show)
-- Fractured
-- Joker
-- ...
+## GitHub
 
+Here is a series of guidelines and exercices to help you get started with GitHub
 
-## 📆 Day 2: Get familiar with the workflow
+### Download a GitHub repository locally on your computer
+
+You can download any repository on your computer by clicking the green button and downloading it as a **zipped** folder. Once it is saved on your computer (e.g., in the `Downloads` folder), you will need to unzip it by opening it, and dragging the content from the zip to a folder on your computer.
+
+![](img/GH_download.png)
 
 
 ### Create your first Github Pull Requests (PR)
@@ -270,10 +258,8 @@ Further reading.
 - [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
 
 
-## 📆 Day 3: Get familiar with the tools
 
-
-### Python
+## Python
 
 We mostly use Python for signal processing and setting up experimental tasks. For instance, the [NeuroKit2](https://github.com/neuropsychology/NeuroKit) project that we are working on is written in Python.
 We also build our experimental tasks using [Neuropsydia.py](https://github.com/neuropsychology/Neuropsydia.py) which is also a Python module.
@@ -283,7 +269,7 @@ Therefore, it's important that you get familiar with the tool. Following are a f
 - [Get familiar with Python in 10 minutes](https://neurokit2.readthedocs.io/en/latest/start/learn_python.html)
 
 
-#### Setting-up Python
+### Setting-up Python
 
 
 1. Download [VS Code](https://code.visualstudio.com/download) (or if you already have Winpython installed, simply open `VS Code.exe` from the winpy folder)
@@ -296,7 +282,7 @@ Therefore, it's important that you get familiar with the tool. Following are a f
 5. To start running some code, click *New File* and `Ctrl+S` to save the file into whichever directory in your computer you want, naming the file with a `.py` extension. Press `Shift+Enter` to send each line of code to an interactive window
 
 
-### R
+## R
 
 The bulk of our statistical analyses and manuscript preparation is done on R.
 

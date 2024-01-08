@@ -98,7 +98,7 @@ Once you're done, let's start to interact with it by creating an issue:
   4. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   5. Select the **Introduce myself** template
   6. Answer the questions
-  7. Post it (we'll close it afterwards)
+  7. Post it (we'll close it afterward)
 
 Finally, **Follow us** (hit the follow button on the top right corner):
 
@@ -180,6 +180,11 @@ Here are some of our key papers that you can read.
 
 Here is a series of guidelines and exercices to help you get started with GitHub. There are multiple ways to interact with GitHub.
 
+- GitHub is a skill with a steep learning curve (one of the steepest in my opinion). But it is absolutely worth to put the effort in (there's a reason it's one of the most popular and fastest-growing platform)
+- GitHub has a confusing language: pushing, pulling, forking, cloning, committing, ...
+- GitHub can be interacted with in many ways. Don't be fooled by internet comments though, we **don't need to use the console with command lines** ever. In fact, we use the amazing [**GitHub Desktop**](https://desktop.github.com/) 
+- GitHub can only be mastered via trial and error, via trying to use it again and again. And once it "clicks", it becomes second nature. All you need is perseverance!
+  
 ### Download a GitHub repository locally on your computer
 
 You can download any repository on your computer by clicking the green button and downloading it as a **zipped** folder. Once it is saved on your computer (e.g., in the `Downloads` folder), you will need to unzip it by opening it, and dragging the content from the zip to a folder on your computer.
@@ -187,26 +192,35 @@ You can download any repository on your computer by clicking the green button an
 ![](img/GH_download.png)
 
 
-### Create your first Github Pull Requests (PR)
+### **Create your own first repo**
 
-As said earlier, **we use GitHub a lot**, so it's key that you acquire this complicated skill. However, it's quite tricky to get familiar and comfortable with it (even we struggle sometimes), and I'd say it's one of the most complicated thing you'll have to learn. But you cannot learn if you don't try, break things and succeed.
-
-
-1. **Create your own first repo**
-
-Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed: We recommend starting with a README page that will serve as your profile page.
+Now, create your first repository! You can leave it mostly empty for now, it's just an experiment ground :relaxed: We recommend starting with a README page that will serve as your profile page. 
+Importantly, **take some time to play around**; create repos, delete them, try to add things etc. The more time you spend getting familiar with the website the easier the next steps will be.
 
 - **To Read**: [Creating and customizing your profile README page](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 )
 
-2. **Make a PR in this document here**
+### Download GitHub Desktop
 
-The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hoold, this will create a fork of the Onboarding account under your repo. You can then edit the file. **For example, you can add *your* twitter and GitHub handle in the "lab members" list in the sections above** (above the "You" placeholder). Then, propose the change and see what happens.
+The easiest way to interact with GitHub from your computer is via [**GitHub Desktop**](https://desktop.github.com/). Download, install, and log in. 
+This app essentially makes accessible your repositories as regular folder on your computer.
+
+- Try to clone (i.e., download) a repo that you created in the previous step
+- Once you have the repo on your computer, try adding a file to it (an empty text file). Then, from GitHub desktop, try to "commit" and "push" this change.
+- Your new file should now also show on its online page (meaning it has successfully been "synced" between your computer's folder and the GitHub website)
+
+### Create your first Github Pull Requests (PR)
+
+As said earlier, **we use GitHub a lot**, so it's key that you acquire this complicated skill. However, it's quite tricky to get familiar and comfortable with it, and I'd say it's one of the most complicated things you'll have to learn. But you cannot learn if you don't try, break things and succeed.
+
+- **Make a PR in this document here**
+
+The first task is to create a Pull Request (PR) to modify *this very page*. Go to the [README page](https://github.com/RealityBending/Onboarding/blob/master/README.md) file and hit the "Fork and edit" button (the pen icon at the top right corner). Under the hood, this will create a fork of the Onboarding account under your repo. You can then edit the file. **Add *your* profile to the "Edited by" section at the bottom of this page**. Then, propose the change and see what happens.
 
 - **To Read**: [markdown introduction](https://guides.github.com/activities/hello-world/)
 
 
-3. **Setting up your profile on the REBEL website**
+### Setting up your profile on the REBEL website
 
 The next task is to set-up your profile on the [lab website](https://realitybending.github.io/people/).
 
@@ -241,7 +255,7 @@ The next task is to set-up your profile on the [lab website](https://realitybend
 
     - Great, you added the files to your own copy of the website. But now we need to merge these changes into the **original** repository.
     - Look for the *Pull Rquest* sign. Click on it.
-    - The page will show that you are trying to make a Pull Request from **your** repositorty *"your-username/RealityBending.github.io"* to the **original** repository *RealityBending/RealityBending.github.io"*.
+    - The page will show that you are trying to make a Pull Request from **your** repository *"your-username/RealityBending.github.io"* to the **original** repository *RealityBending/RealityBending.github.io"*.
     - All the left for you to do is to click on that shiny green button to create the pull request (PR). Your profile will appear on the website as soon as an administrator validates the PR.
 
 Congratulations! You have successfully updated your profile on our website!
@@ -297,4 +311,12 @@ Following are a few resources to get you started with R:
 
 # Some Final Words
 
-We encourage you to really explore and be integrated within the online scientific community along with us, as this will help you expand your knowledge and skillset as well as become better informed! It may be a steep learning curve initially, but we're here to help you along the way (we've been there ourselves!) and never hesitate to ask questions 😉
+We encourage you to explore and be integrated within the online scientific community along with us, as this will help you expand your knowledge and skillset as well as become better informed! It may be a steep learning curve initially, but we're here to help you along the way (we've been there ourselves!) and never hesitate to ask questions 😉
+
+
+# Edited by
+
+- [Jingxiong Xu](https://github.com/JingxiongXu)
+- [Zen Juen](https://github.com/zen-juen)
+- [Tam Pham](https://github.com/Tam-Pham)
+- [DominiqueMakowski](https://github.com/DominiqueMakowski)

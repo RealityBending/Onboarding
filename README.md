@@ -178,7 +178,7 @@ Here are some of our key papers that you can read.
 
 ## GitHub
 
-Here is a series of guidelines and exercices to help you get started with GitHub
+Here is a series of guidelines and exercices to help you get started with GitHub. There are multiple ways to interact with GitHub.
 
 ### Download a GitHub repository locally on your computer
 

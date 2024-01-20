@@ -231,7 +231,7 @@ The next task is to set-up your profile on the [lab website](https://realitybend
 
 - **Step 2: Understand how a profile is made**
     - In your newly *copied* repository, navigate to the folder `your-username/RealityBending.github.io/content`. This is where all the content of the website is stored.
-    - Click on the `people` folder. As you can see, each member has a folder (in lower case with a hyphen instead of spaces).
+    - Click on the `authors` folder. As you can see, each member has a folder (in lower case with a hyphen instead of spaces).
     - Explore one of these folder, for instance Gandalf's. It includes two files, *_index.md* file (The extension *.md* stands for **markdown**) and an image file named `avatar`.
     - Click on the .md file, and then on the **raw** button (on the right) to see the raw file (as a notepad would see).
     - The index file contains all the information, and is organized into a YAML header (delimited by 3 dashes ---) and then some text.

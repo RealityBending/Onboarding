@@ -286,13 +286,13 @@ Python is notoriously hard to set up in a way that is convenient for scientists.
 
 1. Download [VS Code](https://code.visualstudio.com/download) 
 2. Download the latest version of [Python](https://www.python.org/downloads/)
-  - **Important**: one Windows, tick the box that says "Do you want to add this version of Python to the *path*
+    - **Important**: one Windows, tick the box that says "Do you want to add this version of Python to the *path*"
 3. Start VS Code, and go to the "extensions" tab on the left
-  - Install the following extensions: **Python** and **Jupyter** (by Microsoft)
+    - Install the following extensions: **Python** and **Jupyter** (by Microsoft)
 4. Click on the "**View**" tab (top), then **Command Palette**, then type "Settings" and select **Open Settings (UI)**
 5. In the settings, search "interactive jupyter" and tick **Execute Selection** (*"when pressing shift+enter, send selected code...*)
 6. To start running some code, click *New File* and `Ctrl+S` to save the file into whichever directory in your computer you want, naming the file with a `.py` extension (so that VSCode knows that it's a Python file)
-  - Type `1+1` in the script, select the code and press `Shift+Enter`. It should open an interactive window.
+    - Type `1+1` in the script, select the code and press `Shift+Enter`. It should open the interactive window.
 
 ## R
 

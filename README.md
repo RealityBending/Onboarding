@@ -222,17 +222,17 @@ The first task is to create a Pull Request (PR) to modify *this very page*. Go t
 
 ### Setting up your profile on the REBEL website
 
-The next task is to set-up your profile on the [lab website](https://realitybending.github.io/people/).
+The next task is to set up your profile on the [lab website](https://realitybending.github.io/people/).
 
 - **Step 1: Fork the website repository**
     - Go to the [Github Repository of website](https://github.com/RealityBending/RealityBending.github.io)
     - Hit the **fork** button at the top right corner to make a *copy* of the repository in your Github account.
-    - After a few minutes of waiting, you should now see a repository with a name of `your-username/RealityBending.github.io`.
+    - After a few minutes of waiting, you should now see a repository with a name like `your-username/RealityBending.github.io`.
 
 - **Step 2: Understand how a profile is made**
     - In your newly *copied* repository, navigate to the folder `your-username/RealityBending.github.io/content`. This is where all the content of the website is stored.
     - Click on the `authors` folder. As you can see, each member has a folder (in lower case with a hyphen instead of spaces).
-    - Explore one of these folder, for instance Gandalf's. It includes two files, *_index.md* file (The extension *.md* stands for **markdown**) and an image file named `avatar`.
+    - Explore one of these folders, for instance Gandalf's. It includes two files, *_index.md* file (The extension *.md* stands for **markdown**) and an image file named `avatar`.
     - Click on the .md file, and then on the **raw** button (on the right) to see the raw file (as a notepad would see).
     - The index file contains all the information, and is organized into a YAML header (delimited by 3 dashes ---) and then some text.
 
@@ -275,26 +275,24 @@ Further reading.
 
 ## Python
 
-We mostly use Python for signal processing and setting up experimental tasks. For instance, the [NeuroKit2](https://github.com/neuropsychology/NeuroKit) project that we are working on is written in Python.
-We also build our experimental tasks using [Neuropsydia.py](https://github.com/neuropsychology/Neuropsydia.py) which is also a Python module.
-
-Therefore, it's important that you get familiar with the tool. Following are a few resources that we suggest to get you started:
+We use Python as much as R, albeit for different things, such as signal processing (EEG and Physio analysis), data preprocessing, etc. If you want to master all the aspects of a research project, it's important that you get familiar with the tool. Following are a few resources that we suggest to get you started:
 
 - [Get familiar with Python in 10 minutes](https://neurokit2.readthedocs.io/en/latest/start/learn_python.html)
 
 
 ### Setting-up Python
 
+Python is notoriously hard to set up in a way that is convenient for scientists. 
 
-1. Download [VS Code](https://code.visualstudio.com/download) (or if you already have Winpython installed, simply open `VS Code.exe` from the winpy folder)
-2. Download [Python](https://www.python.org/downloads/)
-3. Once VS Code is launched, the next step is to add new features and functionalities to support your development workflow. You can do so by installing these [extension packages](https://github.com/RealityBending/Onboarding/blob/master/vscode_settings.md#extensions) which you can find by clicking on this icon in the activity bar:
-
-![image](https://user-images.githubusercontent.com/54053748/140497021-6dcfd265-2162-4262-801c-b0d74d704330.png)
-
-4. Configure your workspace settings, using the following command: `Ctrl+Shift+P` and click on *Preferences: Open Settings (JSON)*. This opens your user `settings.json` where [the following configuration](https://github.com/RealityBending/Onboarding/blob/master/vscode_settings.md#settings) should be copied and pasted to (take note of the key path directories you will need to modify according to your machine!)
-5. To start running some code, click *New File* and `Ctrl+S` to save the file into whichever directory in your computer you want, naming the file with a `.py` extension. Press `Shift+Enter` to send each line of code to an interactive window
-
+1. Download [VS Code](https://code.visualstudio.com/download) 
+2. Download the latest version of [Python](https://www.python.org/downloads/)
+  - **Important**: one Windows, tick the box that says "Do you want to add this version of Python to the *path*
+3. Start VS Code, and go to the "extensions" tab on the left
+  - Install the following extensions: **Python** and **Jupyter** (by Microsoft)
+4. Click on the "**View**" tab (top), then **Command Palette**, then type "Settings" and select **Open Settings (UI)**
+5. In the settings, search "interactive jupyter" and tick **Execute Selection** (*"when pressing shift+enter, send selected code...*)
+6. To start running some code, click *New File* and `Ctrl+S` to save the file into whichever directory in your computer you want, naming the file with a `.py` extension (so that VSCode knows that it's a Python file)
+  - Type `1+1` in the script, select the code and press `Shift+Enter`. It should open an interactive window.
 
 ## R
 

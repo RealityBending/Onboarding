@@ -180,9 +180,13 @@ Here are some of our key papers that you can read.
 
 GitHub is hands down the tool we use the most, and it is a priority that you get familiar with it. Start by doing the following tutorials:
 
-- [Learning GitHub](https://github.com/RealityBending/Onboarding/tree/master/resources/github) 
+- [Learning GitHub](https://github.com/RealityBending/Onboarding/tree/master/resources/github)
+
+Note that the things you need to do in the tutorial are a way for us to monitor your progress and to make sure you are not stuck.
 
 ## JsPsych
+
+JsPsych is the tool we use to create most of our experiments. A must-have skill for a researcher in psychology.
 
 - [How to learn JsPsych](https://github.com/RealityBending/Onboarding/tree/master/resources/jspsych) 
 

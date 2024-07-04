@@ -219,10 +219,11 @@ At this point, you might ask why can't we just stick to one programming language
 The simple answer is that the two programming languages are basically different, and one can be better depending on the task.
 Read this [**blog post** *(R or Python for Psychologists)*](https://dominiquemakowski.github.io/post/r_or_python/) for a more in-depth discussion.
 
-Following are a few resources to get you started with R:
+We highly recommend the [PsyTeachR](https://psyteachr.github.io/) tutorials to get you started with R:
 
-- [**Introduction to R**](http://www.r-tutor.com/r-introduction)
-- **Help us!** Know some good ressources that helped you! Please share it with us
+- [**PsyTeachR: Intro to R**](https://psyteachr.github.io/data-skills-v2/)
+- [**PsyTeachR: Tests and ANOVAs**](https://psyteachr.github.io/analysis-v2/)
+- [**PsyTeachR: Regression Models**](https://psyteachr.github.io/stat-models-v1/)
 
 # Some Final Words
 

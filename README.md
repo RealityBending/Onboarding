@@ -224,6 +224,7 @@ We highly recommend the [PsyTeachR](https://psyteachr.github.io/) tutorials to g
 - [**PsyTeachR: Intro to R**](https://psyteachr.github.io/data-skills-v2/)
 - [**PsyTeachR: Tests and ANOVAs**](https://psyteachr.github.io/analysis-v2/)
 - [**PsyTeachR: Regression Models**](https://psyteachr.github.io/stat-models-v1/)
+- [**PsyTeachR: Mixed Models**](https://psyteachr.github.io/stat-models-v1/linear-mixed-effects-models-with-crossed-random-factors.html)
 
 # Some Final Words
 

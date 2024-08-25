@@ -2,25 +2,27 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/neuropsychology/Onboarding?label=last%20update)
 
-**Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope that you will find it useful.
+**Welcome to the team!** 🎉 Whether you're a student, an intern or a colleague, joining a new work environment can be a bit stressful. In order to ease your first days and set you up for the future, we compiled this guide and hope you will find it useful.
 
-The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues that we face and the solutions that we find. However, it is possible that some of the advice or things here might at first seem weird or useless. **Trust us though, it will <sup><sub>*probably*</sub></sup> become handy some day** 😉
+The goal of this document is first and foremost to help you acquire the **same frame of reference**, so you can then understand what we are talking about, the issues we face and the solutions we find. However, it is possible that some of the advice or things here might at first seem weird or useless. **Trust us though, it will <sup><sub>*probably*</sub></sup> become handy someday** 😉
 
 This guide has been crafted by all **past and current members of the team**. It's our collective legacy, and it will be yours too. As such, by the end of your journey here, we hope that you will leave your mark on this document, by updating / improving / revising some of its content. Don't worry, you will see *how* to do that later.
 
-## Our vision
+## Introduction
+
+### Our vision
 
 <!-- Our team's ethos is centred around core values such as close **teamwork**, continuous **learning**, **friendly** environment and **aiming for new heights**. -->
 
-We rely on a lot on internal **communication** (about stuff more *or less* related to work :grin:), on our ability to keep on learning and **improving**, on a cool **working environment** (forget the formalities, ain't nobody got time for that!), and try striving for the highest standards in terms of scientific quality and honesty. We are strongly committed to **open science**, for instance by sharing our code, documentation, data and expertise. After all, science is a collective enterprise.
+We rely on a lot on internal **communication** (about stuff more *or less* related to work :grin:), on our ability to keep on learning and **improving**, on a cool and collaborative **working environment**, and try to strive for the highest standards in terms of scientific quality and honesty. We are strongly committed to **open science** by sharing our code, documentation, data and expertise. After all, science is a collective enterprise.
 
-On a more abstract level, we believe in what we call the **three-fold neuropsychology skillset**. In short, a neuropsychologist (and, by extension, people working on related topics) should aim (when applicable) at developing 3 types of expertise: **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history), **technical skills**  (statistics, programming, neuroimaging, signal processing, ...), and **clinical abilities** (knowledge about neuro/psychopathology, assessment of both patients and *healthy* participants, therapy & rehabilitation, ...). Of course, some of it (typically, working with patients) might not be feasible given the project/grade you're in. Don't worry, we will do the best we can to help you get as close as possible to your objectives.
+On a more abstract level, I believe in what we call the **three-fold neuropsychology skillset**. In short, a neuropsychologist (and, by extension, people working on related topics - which is what we do in the lab) should aim (when applicable) at developing 3 types of expertise: **theoretical knowledge** (a diversified knowledge and understanding of the psychological and neuroscientific theories, frameworks and their history), **technical skills**  (statistics, programming, neuroimaging, signal processing, ...), and **practical/clinical abilities** (assessment of both patients and *healthy* participants, handling of participants in experiments, therapy & rehabilitation, knowledge about neuro/psychopathology, ...). Of course, some of it (e.g., working with patients, or acquiring some software development skills) might not be feasible given the project/grade you're in. Don't worry, in any case, we will do the best we can to **help you get as close as possible to your objectives**.
 
-## Work Schedule and Work-life Balance
+### Work Schedule and Work-life Balance
 
-We value and believe in individuality. Everybody has their own preferred organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions; some have other people to take care of (children, parents, ...) and some have themselves (which can be a lot). We should not expect each other to work regularly from 9-5 every day, or to be available at all times. **I will sometimes send emails in the evening or on the weekends**, because that's how I work. That does **not** mean you should check or reply immediately: do work when you decide to and aim for a varied lifestyle. If something is super urgent, I'll make it explicit by pre-empting the message with [URGENT] (but it never happened so far).
+We believe in individuality. Everybody has their own preferred organization and other life prerogatives. Some are night owlers and others are early birds, some have day hobbies and others night passions; some have other people to take care of (children, parents, ...) and some have themselves (which can be a lot). We should not expect each other to work regularly from 9-5 every day, or to be available at all times. **I will sometimes send emails in the evening or on the weekends**, because that's how I work. That does ***not*** mean you should check or reply immediately: do work when you decide to and aim for a varied lifestyle. If something is super urgent, I'll make it explicit by pre-empting the message with [URGENT] (but it never happened so far).
 
-## Questions & Answers
+### Questions & Answers
 
 > **I'm not sure what I should do and what my tasks are / I feel kinda lost**
 
@@ -40,7 +42,11 @@ Don't hesitate to send us a **reminder** (after a reasonable delay). There's usu
 
 Good, that means you're breaking out of the echo chamber. We all have a tendency to surround ourselves with people and information that validates us and our beliefs. But that's no way to improve, grow, and become a better person. University was created to challenge our current viewpoints, and expose ourselves to a realm of new possibilities. Challenge can sometimes make us feel uncomfortable, but it's okay: we are all endowed with emotion regulation abilities, communication skills, and a supporting team to rely on :)
 
-## Reality Bending Lab
+## Step 1. Get immersed
+
+Here's a list of things to do during your first days. It is expected that you do them (unless specified otherwise). If you're not sure, **do not hesitate to ask**.
+
+### Get to know the Reality Bending Lab
 
 We recommend reading a few posts to better understand the lab's scope and history:
 
@@ -49,7 +55,7 @@ We recommend reading a few posts to better understand the lab's scope and histor
 - [What is reality bending](https://realitybending.github.io/post/2020-09-28-what_is_realitybending/)
 - [Affective Reality Theory](https://realitybending.github.io/post/2023-04-11-affectivereality/)
 
-## Get Connected
+### Get Connected
 
 - [x] Create a profile with all of the following social networks
 
@@ -57,12 +63,12 @@ It might not be good news if you're an introvert who prefers to stay anonymous o
 In general, academia is very social, and a lot of the good stuff happens on social media. Better to start little by little as soon as you can than trying to build an online presence overnight once you need to **apply for jobs** *(and yes, recruiters do Google you)*.
 
 
-### 🗣️ **Discord**
+#### 🗣️ **Discord**
 
 We use Discord as an internal communication channel. **Do ask for the invite link** if you don't receive one.
 
 
-### 🐦 **X/Twitter**
+#### 🐦 **X/Twitter**
 
 Believe it or not, but [**Twitter**](https://twitter.com/home) is super popular among academics. Many researchers use it to share and summarize their new studies and projects, recruit participants or **advertise positions**. So you can easily keep up with the latest scientific news here. There is even a [**book about Twitter for researchers**](https://t4scientists.com/).
 
@@ -77,12 +83,12 @@ We have compiled a list of interesting accounts, covering all sorts of different
 
 At first, you'll likely have to force yourself a bit to open and check Twitter from time to time (to make it easier, set it as a "favourite" tab and download the app). It's normal. But don't worry, once their machine learning algorithm gets a grip of what you like, it will start to be filled with interesting content.
 
-### 👨‍🔬 **ResearchGate**
+#### 👨‍🔬 **ResearchGate**
 
 [**ResearchGate**](https://researchgate.com/home) is a professional networking site for scientists and researchers to share, discover and discuss research. (It's like a researchers' version of *LinkedIn*). You can see what kinds of projects others are currently working on, and their past manuscripts and publications. You can also **access articles**, post and answer questions, as well as recommend certain works! So do create an account and start following us and the researchers you like. I will add you to the [Lab page](https://www.researchgate.net/lab/Reality-Bending-Lab-ReBeL-Dominique-Makowski).
 
 
-### :octocat: **GitHub**
+#### :octocat: **GitHub**
 
 The last app that we use, and probably **the most important**, is GitHub. Whether you're a beginner to programming or an expert, integrating into this community means you'll be constantly learning. GitHub is a place where projects are shared openly and transparently, and where you can follow any repository you're interested in to receive notifications of relevant updates.
 
@@ -98,14 +104,14 @@ Once you're done, let's start to interact with it by creating an issue:
   4. Create a new issue in [this repo](https://github.com/neuropsychology/Onboarding/issues)
   5. Select the **Introduce myself** template
   6. Answer the questions
-  7. Post it (we'll close it afterward)
+  7. Post it (we'll close it afterwards)
 
 Finally, **Follow us** (hit the follow button on the top right corner):
 
   - [@RealityBending](https://github.com/RealityBending)
   - [@DominiqueMakowski](https://github.com/DominiqueMakowski)
 
-## Media recommendation
+## Step 2. Useful readings and media recommendation
 
 ### Existential Comics
 
@@ -120,7 +126,7 @@ Small funny reads that nicely introduce important philosophical ideas. My person
 - [Fallacy Man](https://existentialcomics.com/comic/9)
 - [Fallacy Man II](https://existentialcomics.com/comic/21)
 
-Our lab hero, Captain Metaphysics, that solves every philosophical question with one simple trick:
+Our lab hero, Captain Metaphysics, who solves every philosophical question with one simple trick:
 
 - [Captain Metaphysics and the Ghost in the Machine](https://existentialcomics.com/comic/47)
 - [Captain Metaphysics and the Mereological Monster](https://existentialcomics.com/comic/57)
@@ -141,7 +147,7 @@ Our lab hero, Captain Metaphysics, that solves every philosophical question with
 
 #### Consciousness
 
-<a href="https://www.amazon.co.uk/Experience-Machine-Minds-Predict-Reality/dp/024139452X"><img src="https://m.media-amazon.com/images/I/51UeZYkoWML._SX344_BO1,204,203,200_.jpg" height="300" alt = "The Experience Machine: How Our Minds Predict and Shape Reality (Andy Clark)"/></a><a href="https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872"><img src="https://m.media-amazon.com/images/I/41HlTqiDtGS.jpg" height="300" alt = "Being You : A New Science of Consciousness (Anil Seth)"/></a> <a href="https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924"><img src="https://m.media-amazon.com/images/I/81BvhldVfvL._AC_UF1000,1000_QL80_.jpg" height="300" alt = "The Illusion of Conscious Will (Daniel M. Wegner)"/> </a> <a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952385l/13557108.jpg" height="300" alt = "Consciousness: Confessions of a Romantic Reductionist (Christof Koch)"/></a> <a href="https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Strageloop.jpg/220px-Strageloop.jpg" height="300" alt = "I Am a Strange Loop (Douglas Hofstadter)"/></a> <a href="https://www.amazon.co.uk/Brain-Inside-Out-Gyorgy-Buzsaki/dp/0197549500/ref=asc_df_0197549500/?tag=googshopuk-21&linkCode=df0&hvadid=463216953268&hvpos=&hvnetw=g&hvrand=16678942163463077216&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006812&hvtargid=pla-1062734864376&psc=1&mcid=deaada1349953cc8800b3415b8818547&th=1&psc=1"><img src="https://m.media-amazon.com/images/I/61cxPBYYYoL._SY342_.jpg" height="300" alt = "The Brain from Inside Out (Gyorgy Buzsaki)"/></a> 
+<a href="https://www.amazon.co.uk/Experience-Machine-Minds-Predict-Reality/dp/024139452X"><img src="https://m.media-amazon.com/images/I/51UeZYkoWML._SX344_BO1,204,203,200_.jpg" height="300" alt = "The Experience Machine: How Our Minds Predict and Shape Reality (Andy Clark)"/></a><a href="https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872"><img src="https://m.media-amazon.com/images/I/41HlTqiDtGS.jpg" height="300" alt = "Being You : A New Science of Consciousness (Anil Seth)"/></a> <a href="https://www.amazon.com/Illusion-Conscious-Will-MIT-Press/dp/0262534924"><img src="https://m.media-amazon.com/images/I/81BvhldVfvL._AC_UF1000,1000_QL80_.jpg" height="300" alt = "The Illusion of Conscious Will (Daniel M. Wegner)"/> </a> <a href="https://www.amazon.com/Consciousness-Confessions-Romantic-Reductionist-Press/dp/0262533502"><img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952385l/13557108.jpg" height="300" alt = "Consciousness: Confessions of a Romantic Reductionist (Christof Koch)"/></a> <a href="https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Strageloop.jpg/220px-Strageloop.jpg" height="300" alt = "I Am a Strange Loop (Douglas Hofstadter)"/></a>
 
 #### Clinical Neuropsychology / Psychopathology / Psychotherapy
 
@@ -175,8 +181,12 @@ Here are some of our key papers that you can read.
 - ...
 
 
+## Step 3. Tutorials
 
-## GitHub
+Here is a list of tutorials for you to start improving your technical skills. The first one, **GitHub**, is critical and you should go through it as soon as possible.
+The other ones' priority typically would depend on your project. But if you have a bit of free time, consider doing them.
+
+### GitHub
 
 GitHub is hands down the tool we use the most, and it is a priority that you get familiar with it. Start by doing the following tutorials:
 
@@ -184,20 +194,20 @@ GitHub is hands down the tool we use the most, and it is a priority that you get
 
 Note that the things you need to do in the tutorial are a way for us to monitor your progress and to make sure you are not stuck.
 
-## JsPsych
+### JsPsych
 
 JsPsych is the tool we use to create most of our experiments. A must-have skill for a researcher in psychology.
 
 - [How to learn JsPsych](https://github.com/RealityBending/Onboarding/tree/master/resources/jspsych) 
 
-## Python
+### Python
 
 We use Python as much as R, albeit for different things, such as signal processing (EEG and Physio analysis), data preprocessing, etc. If you want to master all the aspects of a research project, it's important that you get familiar with the tool. Following are a few resources that we suggest to get you started:
 
 - [Get familiar with Python in 10 minutes](https://neurokit2.readthedocs.io/en/latest/start/learn_python.html)
 
 
-### Setting-up Python
+#### Setting-up Python
 
 Python is notoriously hard to set up in a way that is convenient for scientists. 
 
@@ -211,7 +221,7 @@ Python is notoriously hard to set up in a way that is convenient for scientists.
 6. To start running some code, click *New File* and `Ctrl+S` to save the file into whichever directory in your computer you want, naming the file with a `.py` extension (so that VSCode knows that it's a Python file)
     - Type `1+1` in the script, select the code and press `Shift+Enter`. It should open the interactive window.
 
-## R
+### R
 
 The bulk of our statistical analyses and manuscript preparation is done on R.
 
@@ -226,12 +236,12 @@ We highly recommend the [PsyTeachR](https://psyteachr.github.io/) tutorials to g
 - [**PsyTeachR: Regression Models**](https://psyteachr.github.io/stat-models-v1/)
 - [**PsyTeachR: Mixed Models**](https://psyteachr.github.io/stat-models-v1/linear-mixed-effects-models-with-crossed-random-factors.html)
 
-# Some Final Words
+## Some Final Words
 
 We encourage you to explore and be integrated within the online scientific community along with us, as this will help you expand your knowledge and skillset as well as become better informed! It may be a steep learning curve initially, but we're here to help you along the way (we've been there ourselves!) and never hesitate to ask questions 😉
 
 
-# Edited by
+## Edited by
 
 - [Jingxiong Xu](https://github.com/JingxiongXu)
 - [Zen Juen](https://github.com/zen-juen)

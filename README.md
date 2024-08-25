@@ -178,7 +178,6 @@ Here are some of our key papers that you can read.
 
 - [You aren't at the mercy of your emotions -- your brain creates them | Lisa Feldman Barrett](https://www.youtube.com/watch?v=0gks6ceq4eQ)
 - [Your brain hallucinates your conscious reality | Anil Seth](https://www.youtube.com/watch?v=lyu7v7nWzfo)
-- ...
 
 
 ## Step 3. Tutorials

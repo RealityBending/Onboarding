@@ -1,0 +1,54 @@
+{
+    "Intel(R) Xeon(R) CPU E5-2640 v3 @ 2.60GHz" : {
+        "CPU" : 16,
+        "TDP" : 90
+    },
+    "Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz" : {
+        "CPU" : 48,
+        "TDP" : 165
+    },
+    "Intel(R) Xeon(R) Gold 5115 CPU @ 2.40GHz" : {
+        "CPU" : 20,
+        "TDP" : 85
+    },
+    "Intel(R) Xeon(R) Gold 6126 CPU @ 2.60GHz" : {
+        "CPU" : 24,
+        "TDP" : 125
+    },
+    "Intel(R) Xeon(R) CPU E5-2690 v4 @ 2.60GHz" : {
+        "CPU" : 56,
+        "TDP" : 135
+    },
+    "Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz" : {
+        "CPU" : 20,
+        "TDP" : 85
+    },
+    "Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz" : {
+        "CPU" : 36,
+        "TDP" : 200
+    },
+    "Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz" : {
+        "CPU" : 80,
+        "TDP" : 150
+    },
+    "Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz" : {
+        "CPU" : 40,
+        "TDP" : 150
+    },
+    "Intel(R) Xeon(R) Gold 6226R CPU @ 2.90GHz" : {
+        "CPU" : 32,
+        "TDP" : 150
+    },
+    "Intel(R) Xeon(R) Gold 5215 CPU @ 2.50GHz" : {
+        "CPU" : 20,
+        "TDP" : 85
+    },
+    "Intel(R) Xeon(R) Gold 6240R CPU @ 2.40GHz" : {
+        "CPU" : 48,
+        "TDP" : 165
+    },
+    "AMD EPYC 7702P 64-Core Processor" : {
+        "CPU" : 128,
+        "TDP" : 200
+    }
+}

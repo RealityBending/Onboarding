@@ -1,5 +1,5 @@
 ---
-title: "Housekeeping"
+title: "Onboarding"
 author: "Reality Bending Lab"
 format:
   revealjs:
@@ -17,23 +17,53 @@ format:
 
 ::: {style="font-size: 60%;"}
 
-- About ReBeL
+- **About ReBeL**
   - Reality
-  - Role of **Bodily Signals** & **Will/Control**
+  - Role of Bodily Signals/Interoception & Cognitive Control
   - Metascience
-- About myself
-  - Neuropsychologist
-  - French
-    - clumsy with words
-    - direct
-  - Music
-- About you
+- **About you**
   - Who are you? Background? Interests?
+  - What modules did you like and hate?
   - What would you like to do later (career)?
-  - What skills / experience are you interested in developing?
+  
 
 :::
 
+<!-- ## Rebel Code of Conduct -->
+<!-- Values and individual characteristics to improve --> 
+
+<!-- - **Freedom** -->
+<!--   - Autonomy -->
+<!--   - Responsibility -->
+<!--   - Accountability -->
+<!-- - **Truth** -->
+<!--   - Be Honest -->
+<!--   - Be Transparent -->
+<!--   - Be Brave -->
+
+
+<!-- - **Valor** -->
+<!--   - Be Collaborative -->
+
+<!-- - **Diligence** -->
+<!--   - Be hardworking -->
+<!--   - Be proactive -->
+<!--   - Be curious -->
+
+<!-- - **Discipline** -->
+<!--   - Be Organized -->
+<!-- - **Courtesy** -->
+<!--   - Be Polite -->
+<!--   - Be Punctual -->
+<!--   - Be Respectful -->
+
+<!-- - **Honor** -->
+
+
+
+
+  
+  
 ## Supervision
 
 ::: {style="font-size: 60%;"}
@@ -42,16 +72,16 @@ format:
   - Presence expected
   - Presentations
   - Occasion to touch base
-  - Take notes during discussions
 - Individual meetings and emails
+  - Take notes during discussions
 - Group chat (discord)
   - Also for you among yourselves
   - memes friendly
 - Send emails / messages whenever, but don’t expect an immediate answer
-- Feedback style
-  - Not a lot of positive reinforcement <sub><sup>*(I'm working on it)*</sup></sub>
-  - A lot of corrections doesn't mean it's bad
-  - I have a tendency to rewrite code
+<!-- - Feedback style -->
+<!--   - Not a lot of positive reinforcement <sub><sup>*(I'm working on it)*</sup></sub> -->
+<!--   - A lot of corrections doesn't mean it's bad -->
+<!--   - I have a tendency to rewrite code -->
 - Do always clean off track changes when sending a new version
 
 :::
@@ -96,10 +126,11 @@ format:
   - [`c'est mon mémoire!.docx`]{.fragment .strike}
   - `PreregDraft_Makowski.docx`
 - *CamelCase* vs. *snake_case*
+  - No *kebab-case*
   - Also applies to programming
 
 
-## Project Structure
+## Project Structure {visibility="hidden"}
 
 
 ```{r}
@@ -167,10 +198,10 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 - Term 1
   1. Familiarize with project
   2. Implement & test paradigm
-  3. **Week 8 (20 November)**: Submit ethics
+  3. **Week 8 (~20 November)**: Submit ethics
   4. Project presentation
   5. Write introduction and methods section
-  6. Submit preregistration
+  <!-- 6. Submit preregistration -->
 - Term 2
   1. Data collection
   2. Data analysis
@@ -214,126 +245,126 @@ Projects exist on our computers in 2 separate folders (with the [same name]{.fra
 
 :::
 
-## To-do for next meeting
+<!-- ## To-do for next meeting -->
 
-- Onboarding (https://github.com/RealityBending/Onboarding)
-  - [x] GitHub basics
-  - [x] Add your profile on the lab website
-- Install R and R-Studio locally
-- Think about projects
+<!-- - Onboarding (https://github.com/RealityBending/Onboarding) -->
+<!--   - [x] GitHub basics -->
+<!--   - [x] Add your profile on the lab website -->
+<!-- - Install R and R-Studio locally -->
+<!-- - Think about projects -->
 
 <!-- Session 2 -->
 
-## Research Projects {.center}
+<!-- ## Research Projects {.center} -->
 
-```{css}
-.center h2 {
-  text-align: center;
-}
-```
+<!-- ```{css} -->
+<!-- .center h2 { -->
+<!--   text-align: center; -->
+<!-- } -->
+<!-- ``` -->
 
-## 1. Body and Mind
+<!-- ## 1. Body and Mind -->
 
-::: {style="font-size: 50%;"}
+<!-- ::: {style="font-size: 50%;"} -->
 
-### Common Paradigm
+<!-- ### Common Paradigm -->
 
-- Resting State
-- Tapping Task
-- Heartbeat Counting Task (HCT)
-- Interoception questionnaires (MAIA and IAS)
-- Primal Beliefs scale
+<!-- - Resting State -->
+<!-- - Tapping Task -->
+<!-- - Heartbeat Counting Task (HCT) -->
+<!-- - Interoception questionnaires (MAIA and IAS) -->
+<!-- - Primal Beliefs scale -->
 
-### Subprojects
+<!-- ### Subprojects -->
 
-a. Measuring Interoception: Objective vs. Subjective
-b. Measuring Interoception: Tapping Task 
-c. Interoception and Primal Beliefs
-d. Interoception and HRV (during Resting State)
-e. Interoception and HRV (during HCT)
+<!-- a. Measuring Interoception: Objective vs. Subjective -->
+<!-- b. Measuring Interoception: Tapping Task  -->
+<!-- c. Interoception and Primal Beliefs -->
+<!-- d. Interoception and HRV (during Resting State) -->
+<!-- e. Interoception and HRV (during HCT) -->
 
-### Notes
+<!-- ### Notes -->
 
-- Physiological equipment
-- Less flexibility (physical presence, room booking management)
+<!-- - Physiological equipment -->
+<!-- - Less flexibility (physical presence, room booking management) -->
 
-::: 
+<!-- :::  -->
 
-## 2. Illusion Sensitivity
+<!-- ## 2. Illusion Sensitivity -->
 
-::: {style="font-size: 50%;"}
+<!-- ::: {style="font-size: 50%;"} -->
 
-### Common Paradigm
+<!-- ### Common Paradigm -->
 
-- Illusion Sensitivity Task
-- Normal and Pathological Personality Scales
-- Hypnosis Suggestibility Scale
-- Conflict Resolution Task (Flanker Task)
+<!-- - Illusion Sensitivity Task -->
+<!-- - Normal and Pathological Personality Scales -->
+<!-- - Hypnosis Suggestibility Scale -->
+<!-- - Conflict Resolution Task (Flanker Task) -->
 
-### Subprojects
+<!-- ### Subprojects -->
 
-a. Illusion sensitivity vs. Personality
-b. Illusion sensitivity vs. Suggestibility
-c. Illusion sensitivity vs. Cognitive Control
+<!-- a. Illusion sensitivity vs. Personality -->
+<!-- b. Illusion sensitivity vs. Suggestibility -->
+<!-- c. Illusion sensitivity vs. Cognitive Control -->
 
-### Notes
+<!-- ### Notes -->
 
-- More flexible (portable experiment)
-- Implement Flanker task (in JsPsych)
+<!-- - More flexible (portable experiment) -->
+<!-- - Implement Flanker task (in JsPsych) -->
 
-::: 
+<!-- :::  -->
 
 
-## 3. Fictional Reappraisal
+<!-- ## 3. Fictional Reappraisal -->
 
-::: {style="font-size: 50%;"}
+<!-- ::: {style="font-size: 50%;"} -->
 
-### Common Paradigm
+<!-- ### Common Paradigm -->
 
-- Investigate the effects of reality beliefs modulation on emotions related to erotic stimuli
-- Conceptualize and build an experiment
-- Questionnaires of emotion regulation skills
+<!-- - Investigate the effects of reality beliefs modulation on emotions related to erotic stimuli -->
+<!-- - Conceptualize and build an experiment -->
+<!-- - Questionnaires of emotion regulation skills -->
 
-### Subprojects
+<!-- ### Subprojects -->
 
-- Intraindividual Effects
-- Interindividual Correlates
+<!-- - Intraindividual Effects -->
+<!-- - Interindividual Correlates -->
 
-### Notes
+<!-- ### Notes -->
 
-- Conceptualization and implementation steps necessary
-- Possibly physiological signals (?)
-- More work required
+<!-- - Conceptualization and implementation steps necessary -->
+<!-- - Possibly physiological signals (?) -->
+<!-- - More work required -->
 
-::: 
+<!-- :::  -->
 
-## 4. PHQ-4R
+<!-- ## 4. PHQ-4R -->
 
-::: {style="font-size: 50%;"}
+<!-- ::: {style="font-size: 50%;"} -->
 
-### Common Paradigm
+<!-- ### Common Paradigm -->
 
-- PHQ-4: Ultra-brief assessment of Anxiety and Depression
-- Testing the benefits of adding a new response option
-- 2 groups: original PHQ-4 version vs. revised
-- Correlation with other depression/anxiety measures
-- Does the revised version improves the correlation for mild mood fluctuations
+<!-- - PHQ-4: Ultra-brief assessment of Anxiety and Depression -->
+<!-- - Testing the benefits of adding a new response option -->
+<!-- - 2 groups: original PHQ-4 version vs. revised -->
+<!-- - Correlation with other depression/anxiety measures -->
+<!-- - Does the revised version improves the correlation for mild mood fluctuations -->
 
-### Notes
+<!-- ### Notes -->
 
-- Flexible
-- Research needed on convergent validity for mood disorders assessment
+<!-- - Flexible -->
+<!-- - Research needed on convergent validity for mood disorders assessment -->
 
-::: 
+<!-- :::  -->
 
-## Make your Choice
+<!-- ## Make your Choice -->
 
-- Questions? Clarifications?
-- Pick 2 (first and second choice, from two groups)
+<!-- - Questions? Clarifications? -->
+<!-- - Pick 2 (first and second choice, from two groups) -->
 
-## Next Week 
+<!-- ## Next Week  -->
 
-- No lab meeting on Friday, instead...
-- JRA Poster session
-  - Wednesday 18t, 12-2pm 
-  - Woodlands 2 \& 3, Student Centre
+<!-- - No lab meeting on Friday, instead... -->
+<!-- - JRA Poster session -->
+<!--   - Wednesday 18t, 12-2pm  -->
+<!--   - Woodlands 2 \& 3, Student Centre -->

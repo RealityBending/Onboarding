@@ -8,10 +8,10 @@
 <link href="index_files/libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="index_files/libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="index_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.3.353">
+  <meta name="generator" content="quarto-1.4.549">
 
   <meta name="author" content="Reality Bending Lab">
-  <title>Housekeeping</title>
+  <title>Onboarding</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -31,7 +31,7 @@
     }
     /* CSS for syntax highlighting */
     pre > code.sourceCode { white-space: pre; position: relative; }
-    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span { line-height: 1.25; }
     pre > code.sourceCode > span:empty { height: 1.2em; }
     .sourceCode { overflow: visible; }
     code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -223,7 +223,8 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    margin-bottom: 0.5rem;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -392,7 +393,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Housekeeping</h1>
+  <h1 class="title">Onboarding</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -407,30 +408,43 @@ Reality Bending Lab
 <h2>Welcome!</h2>
 <div style="font-size: 60%;">
 <ul>
-<li class="fragment">About ReBeL
+<li class="fragment"><strong>About ReBeL</strong>
 <ul>
 <li class="fragment">Reality</li>
-<li class="fragment">Role of <strong>Bodily Signals</strong> &amp; <strong>Will/Control</strong></li>
+<li class="fragment">Role of Bodily Signals/Interoception &amp; Cognitive Control</li>
 <li class="fragment">Metascience</li>
 </ul></li>
-<li class="fragment">About myself
-<ul>
-<li class="fragment">Neuropsychologist</li>
-<li class="fragment">French
-<ul>
-<li class="fragment">clumsy with words</li>
-<li class="fragment">direct</li>
-</ul></li>
-<li class="fragment">Music</li>
-</ul></li>
-<li class="fragment">About you
+<li class="fragment"><strong>About you</strong>
 <ul>
 <li class="fragment">Who are you? Background? Interests?</li>
+<li class="fragment">What modules did you like and hate?</li>
 <li class="fragment">What would you like to do later (career)?</li>
-<li class="fragment">What skills / experience are you interested in developing?</li>
 </ul></li>
 </ul>
 </div>
+<!-- ## Rebel Code of Conduct -->
+<!-- Values and individual characteristics to improve -->
+<!-- - **Freedom** -->
+<!--   - Autonomy -->
+<!--   - Responsibility -->
+<!--   - Accountability -->
+<!-- - **Truth** -->
+<!--   - Be Honest -->
+<!--   - Be Transparent -->
+<!--   - Be Brave -->
+<!-- - **Valor** -->
+<!--   - Be Collaborative -->
+<!-- - **Diligence** -->
+<!--   - Be hardworking -->
+<!--   - Be proactive -->
+<!--   - Be curious -->
+<!-- - **Discipline** -->
+<!--   - Be Organized -->
+<!-- - **Courtesy** -->
+<!--   - Be Polite -->
+<!--   - Be Punctual -->
+<!--   - Be Respectful -->
+<!-- - **Honor** -->
 </section>
 <section id="supervision" class="slide level2">
 <h2>Supervision</h2>
@@ -441,21 +455,17 @@ Reality Bending Lab
 <li class="fragment">Presence expected</li>
 <li class="fragment">Presentations</li>
 <li class="fragment">Occasion to touch base</li>
+</ul></li>
+<li class="fragment">Individual meetings and emails
+<ul>
 <li class="fragment">Take notes during discussions</li>
 </ul></li>
-<li class="fragment">Individual meetings and emails</li>
 <li class="fragment">Group chat (discord)
 <ul>
 <li class="fragment">Also for you among yourselves</li>
 <li class="fragment">memes friendly</li>
 </ul></li>
-<li class="fragment">Send emails / messages whenever, but don’t expect an immediate answer</li>
-<li class="fragment">Feedback style
-<ul>
-<li class="fragment">Not a lot of positive reinforcement <sub><sup><em>(I’m working on it)</em></sup></sub></li>
-<li class="fragment">A lot of corrections doesn’t mean it’s bad</li>
-<li class="fragment">I have a tendency to rewrite code</li>
-</ul></li>
+<li class="fragment">Send emails / messages whenever, but don’t expect an immediate answer <!-- - Feedback style --> <!--   - Not a lot of positive reinforcement <sub><sup>*(I'm working on it)*</sup></sub> --> <!--   - A lot of corrections doesn't mean it's bad --> <!--   - I have a tendency to rewrite code --></li>
 <li class="fragment">Do always clean off track changes when sending a new version</li>
 </ul>
 </div>
@@ -504,38 +514,12 @@ Reality Bending Lab
 </ul></li>
 <li class="fragment"><em>CamelCase</em> vs.&nbsp;<em>snake_case</em>
 <ul>
+<li class="fragment">No <em>kebab-case</em></li>
 <li class="fragment">Also applies to programming</li>
 </ul></li>
 </ul>
 </section>
-<section id="project-structure" class="slide level2">
-<h2>Project Structure</h2>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="st">"</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="st">                |-- .../Box/ProjectName/ - Internal folder (within the lab)</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="st">                |                        - Raw data files (deanonimyzed)</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="st">                |                        - Data formatting scripts (anonymization)</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="st">--YourComputer--|                        - Internal documents, drafts, litterature</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="st">                |</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="st">                |-- .../ProjectName/ - Public-facing repository</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="st">                                     - Open-access (shared on GitHub)</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="st">                                     - Anonymized data</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="st">                                     - Analysis scripts</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="st">                                     - Contains all materials for reproducibility</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="st">                                       - Experiment script</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="st">                                       - Link to preregistration</span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="st">                                       - stimuli</span></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="st">"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
-<div class="r-fit-text">
-<p>Projects exist on our computers in 2 separate folders (with the <span class="fragment highlight-red">same name</span>):</p>
-<ul>
-<li class="fragment">Internal (shared by supervisor via <em>Box</em>)</li>
-<li class="fragment">Public (synced with <em>GitHub</em>)</li>
-</ul>
-</div>
-</section>
+
 <section id="research-projects---overview" class="slide level2">
 <h2>Research Projects - Overview</h2>
 <div style="font-size: 70%;">
@@ -556,10 +540,9 @@ Reality Bending Lab
 <ol type="1">
 <li class="fragment">Familiarize with project</li>
 <li class="fragment">Implement &amp; test paradigm</li>
-<li class="fragment"><strong>Week 8 (20 November)</strong>: Submit ethics</li>
+<li class="fragment"><strong>Week 8 (~20 November)</strong>: Submit ethics</li>
 <li class="fragment">Project presentation</li>
-<li class="fragment">Write introduction and methods section</li>
-<li class="fragment">Submit preregistration</li>
+<li class="fragment">Write introduction and methods section <!-- 6. Submit preregistration --></li>
 </ol></li>
 <li class="fragment">Term 2
 <ol type="1">
@@ -607,139 +590,91 @@ Reality Bending Lab
 <li class="fragment"><strong>Strongly influenced</strong> by participation/involvement <strong>during the whole year</strong></li>
 </ul>
 </div>
-</section>
-<section id="to-do-for-next-meeting" class="slide level2">
-<h2>To-do for next meeting</h2>
-<ul>
-<li class="fragment">Onboarding (https://github.com/RealityBending/Onboarding)
-<ul class="task-list">
-<li class="fragment"><input type="checkbox" checked="">GitHub basics</li>
-<li class="fragment"><input type="checkbox" checked="">Add your profile on the lab website</li>
-</ul></li>
-<li class="fragment">Install R and R-Studio locally</li>
-<li class="fragment">Think about projects</li>
-</ul>
+<!-- ## To-do for next meeting -->
+<!-- - Onboarding (https://github.com/RealityBending/Onboarding) -->
+<!--   - [x] GitHub basics -->
+<!--   - [x] Add your profile on the lab website -->
+<!-- - Install R and R-Studio locally -->
+<!-- - Think about projects -->
 <!-- Session 2 -->
-</section>
-<section id="research-projects" class="slide level2 center">
-<h2>Research Projects</h2>
-<div class="cell">
-<style type="text/css">
-.center h2 {
-  text-align: center;
-}
-</style>
-</div>
-</section>
-<section id="body-and-mind" class="slide level2">
-<h2>1. Body and Mind</h2>
-<div style="font-size: 50%;">
-<h3 id="common-paradigm">Common Paradigm</h3>
-<ul>
-<li class="fragment">Resting State</li>
-<li class="fragment">Tapping Task</li>
-<li class="fragment">Heartbeat Counting Task (HCT)</li>
-<li class="fragment">Interoception questionnaires (MAIA and IAS)</li>
-<li class="fragment">Primal Beliefs scale</li>
-</ul>
-<h3 id="subprojects">Subprojects</h3>
-<ol type="a">
-<li class="fragment">Measuring Interoception: Objective vs.&nbsp;Subjective</li>
-<li class="fragment">Measuring Interoception: Tapping Task</li>
-<li class="fragment">Interoception and Primal Beliefs</li>
-<li class="fragment">Interoception and HRV (during Resting State)</li>
-<li class="fragment">Interoception and HRV (during HCT)</li>
-</ol>
-<h3 id="notes">Notes</h3>
-<ul>
-<li class="fragment">Physiological equipment</li>
-<li class="fragment">Less flexibility (physical presence, room booking management)</li>
-</ul>
-</div>
-</section>
-<section id="illusion-sensitivity" class="slide level2">
-<h2>2. Illusion Sensitivity</h2>
-<div style="font-size: 50%;">
-<h3 id="common-paradigm-1">Common Paradigm</h3>
-<ul>
-<li class="fragment">Illusion Sensitivity Task</li>
-<li class="fragment">Normal and Pathological Personality Scales</li>
-<li class="fragment">Hypnosis Suggestibility Scale</li>
-<li class="fragment">Conflict Resolution Task (Flanker Task)</li>
-</ul>
-<h3 id="subprojects-1">Subprojects</h3>
-<ol type="a">
-<li class="fragment">Illusion sensitivity vs.&nbsp;Personality</li>
-<li class="fragment">Illusion sensitivity vs.&nbsp;Suggestibility</li>
-<li class="fragment">Illusion sensitivity vs.&nbsp;Cognitive Control</li>
-</ol>
-<h3 id="notes-1">Notes</h3>
-<ul>
-<li class="fragment">More flexible (portable experiment)</li>
-<li class="fragment">Implement Flanker task (in JsPsych)</li>
-</ul>
-</div>
-</section>
-<section id="fictional-reappraisal" class="slide level2">
-<h2>3. Fictional Reappraisal</h2>
-<div style="font-size: 50%;">
-<h3 id="common-paradigm-2">Common Paradigm</h3>
-<ul>
-<li class="fragment">Investigate the effects of reality beliefs modulation on emotions related to erotic stimuli</li>
-<li class="fragment">Conceptualize and build an experiment</li>
-<li class="fragment">Questionnaires of emotion regulation skills</li>
-</ul>
-<h3 id="subprojects-2">Subprojects</h3>
-<ul>
-<li class="fragment">Intraindividual Effects</li>
-<li class="fragment">Interindividual Correlates</li>
-</ul>
-<h3 id="notes-2">Notes</h3>
-<ul>
-<li class="fragment">Conceptualization and implementation steps necessary</li>
-<li class="fragment">Possibly physiological signals (?)</li>
-<li class="fragment">More work required</li>
-</ul>
-</div>
-</section>
-<section id="phq-4r" class="slide level2">
-<h2>4. PHQ-4R</h2>
-<div style="font-size: 50%;">
-<h3 id="common-paradigm-3">Common Paradigm</h3>
-<ul>
-<li class="fragment">PHQ-4: Ultra-brief assessment of Anxiety and Depression</li>
-<li class="fragment">Testing the benefits of adding a new response option</li>
-<li class="fragment">2 groups: original PHQ-4 version vs.&nbsp;revised</li>
-<li class="fragment">Correlation with other depression/anxiety measures</li>
-<li class="fragment">Does the revised version improves the correlation for mild mood fluctuations</li>
-</ul>
-<h3 id="notes-3">Notes</h3>
-<ul>
-<li class="fragment">Flexible</li>
-<li class="fragment">Research needed on convergent validity for mood disorders assessment</li>
-</ul>
-</div>
-</section>
-<section id="make-your-choice" class="slide level2">
-<h2>Make your Choice</h2>
-<ul>
-<li class="fragment">Questions? Clarifications?</li>
-<li class="fragment">Pick 2 (first and second choice, from two groups)</li>
-</ul>
-</section>
-<section id="next-week" class="slide level2">
-<h2>Next Week</h2>
-<ul>
-<li class="fragment">No lab meeting on Friday, instead…</li>
-<li class="fragment">JRA Poster session
-<ul>
-<li class="fragment">Wednesday 18t, 12-2pm</li>
-<li class="fragment">Woodlands 2 &amp; 3, Student Centre</li>
-</ul></li>
-</ul>
+<!-- ## Research Projects {.center} -->
+<!-- ```{css} -->
+<!-- .center h2 { -->
+<!--   text-align: center; -->
+<!-- } -->
+<!-- ``` -->
+<!-- ## 1. Body and Mind -->
+<!-- ::: {style="font-size: 50%;"} -->
+<!-- ### Common Paradigm -->
+<!-- - Resting State -->
+<!-- - Tapping Task -->
+<!-- - Heartbeat Counting Task (HCT) -->
+<!-- - Interoception questionnaires (MAIA and IAS) -->
+<!-- - Primal Beliefs scale -->
+<!-- ### Subprojects -->
+<!-- a. Measuring Interoception: Objective vs. Subjective -->
+<!-- b. Measuring Interoception: Tapping Task  -->
+<!-- c. Interoception and Primal Beliefs -->
+<!-- d. Interoception and HRV (during Resting State) -->
+<!-- e. Interoception and HRV (during HCT) -->
+<!-- ### Notes -->
+<!-- - Physiological equipment -->
+<!-- - Less flexibility (physical presence, room booking management) -->
+<!-- :::  -->
+<!-- ## 2. Illusion Sensitivity -->
+<!-- ::: {style="font-size: 50%;"} -->
+<!-- ### Common Paradigm -->
+<!-- - Illusion Sensitivity Task -->
+<!-- - Normal and Pathological Personality Scales -->
+<!-- - Hypnosis Suggestibility Scale -->
+<!-- - Conflict Resolution Task (Flanker Task) -->
+<!-- ### Subprojects -->
+<!-- a. Illusion sensitivity vs. Personality -->
+<!-- b. Illusion sensitivity vs. Suggestibility -->
+<!-- c. Illusion sensitivity vs. Cognitive Control -->
+<!-- ### Notes -->
+<!-- - More flexible (portable experiment) -->
+<!-- - Implement Flanker task (in JsPsych) -->
+<!-- :::  -->
+<!-- ## 3. Fictional Reappraisal -->
+<!-- ::: {style="font-size: 50%;"} -->
+<!-- ### Common Paradigm -->
+<!-- - Investigate the effects of reality beliefs modulation on emotions related to erotic stimuli -->
+<!-- - Conceptualize and build an experiment -->
+<!-- - Questionnaires of emotion regulation skills -->
+<!-- ### Subprojects -->
+<!-- - Intraindividual Effects -->
+<!-- - Interindividual Correlates -->
+<!-- ### Notes -->
+<!-- - Conceptualization and implementation steps necessary -->
+<!-- - Possibly physiological signals (?) -->
+<!-- - More work required -->
+<!-- :::  -->
+<!-- ## 4. PHQ-4R -->
+<!-- ::: {style="font-size: 50%;"} -->
+<!-- ### Common Paradigm -->
+<!-- - PHQ-4: Ultra-brief assessment of Anxiety and Depression -->
+<!-- - Testing the benefits of adding a new response option -->
+<!-- - 2 groups: original PHQ-4 version vs. revised -->
+<!-- - Correlation with other depression/anxiety measures -->
+<!-- - Does the revised version improves the correlation for mild mood fluctuations -->
+<!-- ### Notes -->
+<!-- - Flexible -->
+<!-- - Research needed on convergent validity for mood disorders assessment -->
+<!-- :::  -->
+<!-- ## Make your Choice -->
+<!-- - Questions? Clarifications? -->
+<!-- - Pick 2 (first and second choice, from two groups) -->
+<!-- ## Next Week  -->
+<!-- - No lab meeting on Friday, instead... -->
+<!-- - JRA Poster session -->
+<!--   - Wednesday 18t, 12-2pm  -->
+<!--   - Woodlands 2 \& 3, Student Centre -->
+<div class="quarto-auto-generated-content">
+<p><img src="https://github.com/RealityBending/.github/raw/main/profile/banner.png" class="slide-logo"></p>
+<div class="footer footer-default">
 
-<img src="https://github.com/RealityBending/.github/raw/main/profile/banner.png" class="slide-logo r-stretch"><div class="footer footer-default">
-
+</div>
 </div>
 </section>
     </div>
@@ -769,7 +704,6 @@ Reality Bending Lab
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
-'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -1069,10 +1003,9 @@ Reality Bending Lab
         // clear code selection
         e.clearSelection();
       });
-      function tippyHover(el, contentFn) {
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
         const config = {
           allowHTML: true,
-          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1082,8 +1015,17 @@ Reality Bending Lab
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start'
+          placement: 'bottom-start',
         };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 

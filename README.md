@@ -250,4 +250,5 @@ We encourage you to explore and be integrated within the online scientific commu
 - [Faris Al-kadi](https://github.com/Faris316)
 - [Emma Benn](https://github.com/EmmaLBenn)
 - [Ben Tribe](https://github.com/BenjaminTribe)
+- [Karla Wall](https://github.com/KarlaWall)
 

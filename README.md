@@ -251,4 +251,5 @@ We encourage you to explore and be integrated within the online scientific commu
 - [Emma Benn](https://github.com/EmmaLBenn)
 - [Ben Tribe](https://github.com/BenjaminTribe)
 - [Karla Wall](https://github.com/KarlaWall)
+- [Maisie_Bennett](https://github.com/maisiebennett)
 

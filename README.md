@@ -252,4 +252,4 @@ We encourage you to explore and be integrated within the online scientific commu
 - [Ben Tribe](https://github.com/BenjaminTribe)
 - [Karla Wall](https://github.com/KarlaWall)
 - [Maisie_Bennett](https://github.com/maisiebennett)
-
+- [Sam Marine](https://github.com/LebombJames)

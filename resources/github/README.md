@@ -101,6 +101,5 @@ Note that on GitHub (but also when writing research articles), we write in **mar
 
 Further reading.
 
-- [How to use Github to contribue](https://neurokit2.readthedocs.io/en/latest/contributing/contributing.html#how-to-use-github-to-contribute)
+- [Official GitHub walkthrough](https://docs.github.com/en/get-started/start-your-journey)
 - [How to create a Pull Request](https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/how-to-submit-pull-requests-on-github/)
-- [Github Cheatsheet](https://github.com/tiimgreen/github-cheat-sheet)
